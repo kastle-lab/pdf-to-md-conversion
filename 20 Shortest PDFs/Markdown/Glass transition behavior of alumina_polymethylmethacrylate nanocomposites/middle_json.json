@@ -1,0 +1,1661 @@
+{
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.9"
+    },
+    "document": {
+      "title": "PII: S0167-577X(01)00626-7",
+      "created_at": "2002-05-07T21:03:17",
+      "modified_at": "2002-05-07T21:03:17+08:00",
+      "creator_application": "3B2 Total Publishing 6.06b/W",
+      "producer_application": "Acrobat Distiller 4.05 for Windows",
+      "page_count": 5,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "txt"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 544.0,
+          "height_pt": 743.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 544.0,
+          "height_pt": 743.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 544.0,
+          "height_pt": 743.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 544.0,
+          "height_pt": 743.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 544.0,
+          "height_pt": 743.0
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "index": 0,
+          "bbox": [
+            0.079,
+            0.092,
+            0.153,
+            0.169
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "NH"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.075,
+            0.165,
+            0.157,
+            0.178
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ELSEVIER"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 2,
+          "bbox": [
+            0.428,
+            0.093,
+            0.491,
+            0.108
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "July 2002"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 3,
+          "bbox": [
+            0.353,
+            0.164,
+            0.566,
+            0.178
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Materials Letters 55 (2002) 83 – 87"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 4,
+          "bbox": [
+            0.741,
+            0.116,
+            0.915,
+            0.156
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "MATERIALS LETTERS"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 5,
+          "bbox": [
+            0.725,
+            0.178,
+            0.916,
+            0.191
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "www.elsevier.com/locate/matlet"
+            }
+          ]
+        },
+        {
+          "type": "doc_title",
+          "index": 6,
+          "bbox": [
+            0.11,
+            0.227,
+            0.88,
+            0.28
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Glass transition behavior of alumina/polymethylmethacrylate nanocomposites"
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.307,
+            0.295,
+            0.683,
+            0.315
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "B.J. Ash, L.S. Schadler*, R.W. Siegel"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "bbox": [
+            0.122,
+            0.324,
+            0.866,
+            0.352
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Department of Materials Science and Engineering and Rensselaer Nanotechnology Center, Rensselaer Polytechnic Institute, MRC 142, 110 8th Street, Troy, NY 12180-3590, USA"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.314,
+            0.359,
+            0.675,
+            0.374
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Received 10 September 2001; accepted 21 September 2001"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 10,
+          "bbox": [
+            0.075,
+            0.407,
+            0.142,
+            0.422
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Abstract"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "bbox": [
+            0.072,
+            0.436,
+            0.917,
+            0.526
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Alumina/polymethylmethacrylate (PMMA) nanocomposites were synthesized using 39-nm nanoparticles and in situ freeradical polymerization. At filler concentrations greater than 0.5 wt.%, the glass transition temperature, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } } ,"
+            },
+            {
+              "type": "text",
+              "content": " was observed to decrease precipitously by "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^ \\textrm { \\scriptsize 2 5 } \\textrm { } ^ { \\scriptsize \\circ } \\mathbf { C }"
+            },
+            {
+              "type": "text",
+              "content": " compared to the neat polymer. At smaller weight fractions, there were no changes in the composite "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathbf { g } } ."
+            },
+            {
+              "type": "text",
+              "content": " The abrupt changes seem to indicate a threshold at which a significant volume fraction of polymer has higher mobility that brings about the decrease in "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathbf { g } ^ { \\bullet } }"
+            },
+            {
+              "type": "text",
+              "content": " Consistent with this behavior, the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " depression was suppressed by coating the nanoparticles to make them compatible with the matrix. D 2002 Elsevier Science B.V. All rights reserved."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "bbox": [
+            0.073,
+            0.539,
+            0.467,
+            0.554
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Keywords: PMMA; Nanocomposite; Glass transition temperature"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 13,
+          "bbox": [
+            0.075,
+            0.606,
+            0.198,
+            0.621
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1. Introduction"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "bbox": [
+            0.073,
+            0.637,
+            0.478,
+            0.832
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The incorporation of fillers into a polymer matrix can bring about changes in the mechanical and thermal characteristics of the resulting composite. One benchmark used to compare the thermal behavior of composites is the glass transition temperature, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } } ."
+            },
+            {
+              "type": "text",
+              "content": " Changes in the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " as a function of the filler content have been reported for polymer composites containing a wide variety of fillers and polymers, but most recently for composites containing nanoscale fillers. Most researchers report an increase in the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " as a function of filler content [1– 3]; however, decreases in the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " have also been reported [1,4]."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "bbox": [
+            0.511,
+            0.605,
+            0.918,
+            0.896
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In general, nanofillers are ceramic and therefore do not directly contribute to the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " of the matrix. Instead, the interaction of the polymer chains with the surface of the particles can drastically alter the chain kinetics in the region immediately surrounding the particle due to the presence of the interface. One of the unique features of nanofillers is their extremely high specific surface area. For a well-dispersed system, even low filler volume fractions provide an enormous amount of interfacial area through which the bulk properties of the polymer can be altered [5]. Securing, through adsorption or grafting, the polymer onto a surface restricts molecular mobility of the affected chains, changes the density of packing of polymer chains, and modifies the conformation and orientation of chain segments in the neighborhood of the surface [6]. On the other hand, interfaces characterized by greater mobility are found in freestanding polymer films"
+            }
+          ]
+        },
+        {
+          "type": "page_footnote",
+          "index": 16,
+          "bbox": [
+            0.073,
+            0.853,
+            0.477,
+            0.88
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "* Corresponding author. Tel.: +1-518-276-2022; fax: +1-518-276-8554."
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 17,
+          "bbox": [
+            0.073,
+            0.91,
+            0.585,
+            0.937
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "0167-577X/02/$ - see front matter D 2002 Elsevier Science B.V. All rights reserved. PII: S0 1 6 7 - 5 7 7 X ( 0 1 ) 0 0 6 2 6 - 7"
+            }
+          ]
+        },
+        {
+          "type": "page_footnote",
+          "index": 18,
+          "bbox": [
+            0.095,
+            0.881,
+            0.39,
+            0.895
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "E-mail address: schadl@rpi.edu (L.S. Schadler)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "page_number",
+          "index": 0,
+          "bbox": [
+            0.083,
+            0.093,
+            0.104,
+            0.104
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "84"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.349,
+            0.092,
+            0.661,
+            0.106
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "B.J. Ash et al. / Materials Letters 55 (2002) 83–87"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.08,
+            0.123,
+            0.486,
+            0.219
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[7]. In these cases, the less restrictive nature of the free surface can increase the segmental mobility at the air/ polymer interface. The change from the interfacial to bulk properties takes place in a gradual fashion over a finite distance, the extent of the so-called interface region."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.08,
+            0.219,
+            0.487,
+            0.35
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In a previous paper [4], we showed that with the introduction of 5 wt.% alumina nanoparticles into a polymethylmethacrylate (PMMA) matrix, a 600% average increase in strain-to-failure was achieved. This dramatic change in mechanical properties was accompanied by a "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " depression. Further studies of these composites have now yielded new insight into the mechanism leading to the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " depression."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 4,
+          "bbox": [
+            0.082,
+            0.38,
+            0.301,
+            0.397
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "2. Experimental procedure"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.081,
+            0.413,
+            0.487,
+            0.478
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Alumina nanoparticles "
+            },
+            {
+              "type": "equation_inline",
+              "content": "( \\mathrm { A l } _ { 2 } \\mathrm { O } _ { 3 } ,"
+            },
+            {
+              "type": "text",
+              "content": " , 39-m average diameter obtained from Nanophase Technologies) were used in their as-received state (uncoated) or coated with glycidoxypropyltrimethoxysilane (GPS,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.519,
+            0.123,
+            0.926,
+            0.219
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Gelest). For the bulk polymerization, methylmethacrylate (MMA) monomer, the initiator, 2,2-azobisisobutyronitrile (98% Aldrich), and chain transfer agent, 1-decanethiol (96% Aldrich Chemical). All of these chemicals as well as those referenced below were used as received."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.518,
+            0.219,
+            0.928,
+            0.479
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The alumina nanoparticles were coated similarly to the procedure found in Ref. [8]. Twenty grams of nanoparticles were suspended in ethanol through 10 min of sonication (VCX-400 Sonics Materials Vibracell) at 70% power. The power setting refers to the percentage of maximum sonic power (400 W) that is directed into the sample. A 95%:5% solution of ethanol and distilled water was prepared and pH adjusted to 4.5 through addition of acetic acid. GPS was added to the mixture followed by 10 min of stirring for silanol formation. The amount of GPS added was based on an average of 10 reactive sites per square nanometer. Following stirring/sonication, the GPS mixture was added to the alumina/ethanol slurry and refluxed for 8 h. The mixture was then placed in a refrigerator to rapidly cool. The particles were too"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 8,
+          "bbox": [
+            0.213,
+            0.507,
+            0.795,
+            0.852
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 8,
+              "bbox": [
+                0.213,
+                0.507,
+                0.795,
+                0.852
+              ],
+              "image_path": "images/page_1_chart_8.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 9,
+              "bbox": [
+                0.081,
+                0.867,
+                0.924,
+                0.895
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 1. TEM micrograph showing the dispersion of as-received nanoparticles in the polymer matrix at 5 wt.%. The scale bar represents 2 Am. (Phillips CM 200 TEM)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "index": 0,
+          "bbox": [
+            0.34,
+            0.092,
+            0.651,
+            0.106
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "B.J. Ash et al. / Materials Letters 55 (2002) 83–87"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 1,
+          "bbox": [
+            0.896,
+            0.093,
+            0.915,
+            0.104
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "85"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.072,
+            0.123,
+            0.477,
+            0.219
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "small to be washed in a Soxhlet extractor; instead, hexane was added to the ethanol/particle slurry to precipitate the particles, followed by centrifugation. The GPS-coated particles were washed twice with hexanes and then allowed to dry overnight at room temperature under vacuum."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.072,
+            0.219,
+            0.478,
+            0.364
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The composite polymerization procedure was developed based on the work of Balke and Hamielec [9] and is discussed in detail in a previous paper [4]. The resulting nanocomposite was compression molded into flat bars ( f 1-mm thick) in a hydraulic press (Carver 12 ton) at "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1 8 0 ~ \\mathrm { ~ } ^ { \\circ } \\mathrm { C }"
+            },
+            {
+              "type": "text",
+              "content": " and 2.5 mtons. Specimens were allowed to cool to room temperature under pressure for a period of 6 h and, after removal, were sanded (400 grit) to remove flashing."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.072,
+            0.364,
+            0.479,
+            0.575
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Differential scanning calorimetry (DSC) (Shimadzu DSC-50) was used to obtain the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } } ,"
+            },
+            {
+              "type": "text",
+              "content": " with a temperature ramp from 25 to "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1 9 0 ~ ^ { \\circ } \\mathbf { C }"
+            },
+            {
+              "type": "text",
+              "content": " at "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1 0 ^ { \\circ } \\mathrm {  ~ \\mathring { C } ~ m i n ~ } ^ { - 1 }"
+            },
+            {
+              "type": "text",
+              "content": " Dynamic mechanical thermal analysis (DMTA) was carried out on a Rheometric Scientific DMTA V using single cantilever bending at 1 Hz, with 0.1% strain. Temperature ramps from 15 to "
+            },
+            {
+              "type": "equation_inline",
+              "content": "2 0 0 ~ ^ { \\circ } \\mathbf { C }"
+            },
+            {
+              "type": "text",
+              "content": " at "
+            },
+            {
+              "type": "equation_inline",
+              "content": "2 ^ { \\circ } \\mathbf { C }"
+            },
+            {
+              "type": "text",
+              "content": " min were used to determine the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " of the materials in order to have complementary measurements to the DSC. The "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " was determined by the corresponding peak of the loss modulus "
+            },
+            {
+              "type": "equation_inline",
+              "content": "( E ^ { \\prime \\prime } )"
+            },
+            {
+              "type": "text",
+              "content": " curve. Infrared spectroscopy data were obtained on a Nicolet Magna-IR 750 Spectrometer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 5,
+          "bbox": [
+            0.073,
+            0.606,
+            0.158,
+            0.621
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "3. Results"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.072,
+            0.637,
+            0.478,
+            0.767
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The PMMA matrix in both the neat PMMA and nanocomposite preparations has a molecular weight of approximately 150,000, average polydispersity of 1.5, and averages 57% syndiotactic as previously reported [4]. The composites exhibit excellent dispersion as shown in the TEM micrograph of Fig. 1. The silane coupling agent, GPS, was determined to be present on the surface of the particles through IR spectroscopy."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.072,
+            0.767,
+            0.478,
+            0.897
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The glass transition temperature determined by DSC of the polymer nanocomposite shows a dramatic decrease following the addition of 0.5 wt.% of 39-nm diameter alumina particles, as shown in Fig. 2. For composites with less than 0.5 wt.% nanoparticles, the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " is stable, within experimental error, at "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1 1 9 \\; ^ { \\circ } \\mathbf { C } _ { \\mathbf { ; } }"
+            },
+            {
+              "type": "text",
+              "content": " the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " of the neat PMMA. Also shown in Fig. 2 is a stable "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " for composites with the silane-modified nanoparticles"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 8,
+          "bbox": [
+            0.519,
+            0.118,
+            0.91,
+            0.297
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 8,
+              "bbox": [
+                0.519,
+                0.118,
+                0.91,
+                0.297
+              ],
+              "image_path": "images/page_2_chart_8.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 9,
+              "bbox": [
+                0.512,
+                0.312,
+                0.917,
+                0.353
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 2. Glass transition temperatures (by DSC) plotted against filler weight fraction. . — as-received nanoparticles, — coated nanoparticles. (5 wt.% corresponds to 1.67 vol.%)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "bbox": [
+            0.511,
+            0.38,
+            0.917,
+            0.444
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "at 5 and 10 wt.%. The "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " values obtained by DMTA (not shown) were, on average, all "
+            },
+            {
+              "type": "equation_inline",
+              "content": "7 ^ { \\mathrm { ~ \\scriptsize ~ o ~ } } \\mathbf { C }"
+            },
+            {
+              "type": "text",
+              "content": " higher than those determined by DSC, but followed the same trends."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "paragraph_title",
+          "index": 11,
+          "bbox": [
+            0.513,
+            0.477,
+            0.753,
+            0.492
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "4. Discussion and conclusions"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "bbox": [
+            0.511,
+            0.51,
+            0.918,
+            0.734
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "As stated in the Introduction, most researchers find an increase in the composite "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " as fillers are added to a polymer. However, Becker et al. [1] showed that the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " can decrease as well. Unfortunately, these researchers concentrated on the immobilization of the matrix and subsequent increases in "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " achieved by coating the silica with methacryloxypropyltrimethoxysilane (MPTS) and offered no explanation for the decreases in "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " observed with both coated (acetoxypropyltrimethoxysilane — APTS) and as-received silica. Over the range of volume fractions considered (0– 10 vol.%), the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " of their APTS treated silica filled system decreased by "
+            },
+            {
+              "type": "equation_inline",
+              "content": "{ 1 6 } { \\mathrm { ~  ~ ^ { \\circ } { C } , ~ } }"
+            },
+            {
+              "type": "text",
+              "content": " while that of their composites prepared with as-received filler decreased by "
+            },
+            {
+              "type": "equation_inline",
+              "content": "9   ^ { \\circ } \\mathbf { C }"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "bbox": [
+            0.511,
+            0.734,
+            0.919,
+            0.896
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " of a polymer system can fall for a variety of reasons, including changes in tacticity, molecular weight, and retained monomer. As we recently reported [4], however, the method of synthesis used in producing our nanophase alumina/PMMA nanocomposites does not alter either the tacticity or the molecular weight of the resulting composites. In addition, the retained monomer concentrations, obtained through liquid NMR, are also very low ( < 1%). We expect that the observed change in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "page_number",
+          "index": 0,
+          "bbox": [
+            0.084,
+            0.093,
+            0.104,
+            0.105
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "86"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.349,
+            0.092,
+            0.66,
+            0.106
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "B.J. Ash et al. / Materials Letters 55 (2002) 83–87"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.081,
+            0.123,
+            0.486,
+            0.171
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " is therefore due solely to the interaction of the polymer (or lack thereof) with the filler particles."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.081,
+            0.171,
+            0.486,
+            0.381
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Recent works on ultrathin polymer films less than 100 nm in thickness may provide a starting point to explain the results presented above. Although it has long been known that the surfaces of polymers appear to have liquid-like characteristics, recent work has attempted to determine to what depth the air/polymer interface influences the bulk thermal behavior. Working with ultrathin films, researchers have sought to investigate the length scales associated with the polymer "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } } ."
+            },
+            {
+              "type": "text",
+              "content": " By creating films whose thicknesses approach the correlation length, where large-scale cooperative motion can occur, the changes in "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " as a function of film thickness has been studied [7,10]."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.081,
+            0.38,
+            0.486,
+            0.671
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Initial work on both freestanding and supported ultrathin films showed that the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " of the bulk polymer displays a gradually increasing downturn as the film thickness decreases [10]. From these efforts, it appeared that the film thickness alone drove the apparent bulk "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " decrease. Working with polystyrene (PS) freestanding ultrathin films, however, Mattson et al. [7] determined that the molecular weight of a polymer also plays a large role in determining whether a film will display a "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " decrease. Their work also corroborates the initial findings by showing that below a certain molecular weight (317,000 in PS), "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " behavior is governed by a finite-size effect, where the thickness of the film alone decides whether the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " will fall. However, the magnitude of the decrease in "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " in higher molecular weight films (greater than 514,000 in PS) was shown to increase with molecular weight and decreasing film thickness, in a linear fashion."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.081,
+            0.67,
+            0.487,
+            0.898
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In a previous paper [4], we discussed the decrease in "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " shown in Fig. 2 in terms of an interparticle distance. We translated this into a thin film thickness and hypothesized that the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " decrease was expected for particles that show little or no interfacial interaction with the host polymer. In effect, the free internal surface surrounding the nanoparticles existing throughout the composite mimics the ultrathin film results. This hypothesis is further supported in the present work by two new sets of data. Firstly, at weight fractions less than 0.5 wt. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathcal { S } _ { z }"
+            },
+            {
+              "type": "text",
+              "content": " there is no change in "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " as evidenced by both the DMTA and DSC measurements. Secondly, by coupling the surface of the particles to the matrix, the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " depression disappears entirely. Clearly, this is the"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.52,
+            0.123,
+            0.924,
+            0.155
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "result of a drastically different interface dynamic between the polymer and particle."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.519,
+            0.155,
+            0.927,
+            0.558
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The abrupt nature of the phenomenon with regard to weight fraction is reminiscent of the percolation effect seen in other filled systems, such as carbon black in rubber, the difference here being that the connected regions are polymer, not filler. The interconnectivity of mobile polymer regions existing around the particles seems to be driving the decrease in "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } } ."
+            },
+            {
+              "type": "text",
+              "content": " As was pre-viously mentioned, the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " appears to depend on the distance (thickness) between interfaces and the molecular weight. For 0.2, 0.5, and 1.0 wt.% filler, the interparticle (or interface) distance for 39-nm monodisperse particles arranged in simple cubic packing would be approximately 320, 230, and 170 nm, respectively. All of these values are much higher than the thicknesses of the ultrathin films the current research has focused upon; however, the ultrathin films are constrained in only one dimension (thickness), while the nanocomposites represent a three dimensional thin film problem. The addition of the two dimensions surely alters the polymer dynamics allowing more degrees of freedom for chain relaxation. Therefore, the strongly correlated motions associated with the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " could occur at larger interfacial spacings in the nanocomposite than those seen in the ultrathin film research."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "bbox": [
+            0.519,
+            0.557,
+            0.926,
+            0.815
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Unfortunately, the hypothesis presented above does not fit with the constant depressed "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " displayed by nanocomposites with larger filler concentrations. Instead of additional reductions in "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } } ,"
+            },
+            {
+              "type": "text",
+              "content": " as would be expected as the interparticle distance decreased further, the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " remains relatively constant at the lowest values initially displayed at about 1.0 wt.%. In addition, the coupling of the particles to the polymer appears to only mitigate the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " depression instead of increasing the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "T _ { \\mathrm { g } }"
+            },
+            {
+              "type": "text",
+              "content": " above the neat polymer value as was seen in Becker’s work [1]. The next step in this research is to graft PMMA onto the surface of the nanoparticles. By choosing the grafted polymer’s molecular weight to be above and below the entanglement length of the matrix, the effects of the nanoparticles on the surrounding matrix could be examined more thoroughly."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.519,
+            0.815,
+            0.926,
+            0.897
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In conclusion, we have provided a novel hypothesis for observed glass transition temperature depressions found in polymer nanocomposites. Nanofilled systems continue to provide unique opportunities to advance our understanding of engineering polymers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "index": 0,
+          "bbox": [
+            0.341,
+            0.092,
+            0.651,
+            0.106
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "B.J. Ash et al. / Materials Letters 55 (2002) 83–87"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 1,
+          "bbox": [
+            0.896,
+            0.093,
+            0.915,
+            0.105
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "87"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 2,
+          "bbox": [
+            0.075,
+            0.124,
+            0.231,
+            0.139
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Acknowledgements"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.073,
+            0.155,
+            0.478,
+            0.43
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The authors would like to thank Prof. S.S. Sternstein, Prof. B.C. Benicewicz, and Prof. T. Apple of RPI for many thoughtful hours of discussion. We would also like to acknowledge NASA Langley Research Center for the use of equipment and facilities in the Advanced Materials and Processing Branch during a co-op tour by B.J. Ash. Dr. Theo Dingemans of ICASE at NASA LaRC was especially helpful in general chemistry techniques required during the coating progress. We are grateful to Dr. Roy Crooks of Lockheed-Martin (assigned to NASA LaRC) for the TEM micrograph presented in Fig. 1 and to Diana Rogers of RPI who performed the GPC and NMR of the composites. Special thanks go to Nanophase Technologies for providing the alumina nanopowders and the National Science Foundation for funding this research under CTS-9871894."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 4,
+          "bbox": [
+            0.515,
+            0.124,
+            0.604,
+            0.138
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "References"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "ref_text",
+          "index": 5,
+          "bbox": [
+            0.522,
+            0.155,
+            0.914,
+            0.18
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[1] C. Becker, H. Krug, H. Schmidt, Mater. Res. Soc. Symp. Proc. 435 (1996) 237."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 6,
+          "bbox": [
+            0.523,
+            0.181,
+            0.914,
+            0.207
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[2] W. Hergeth, U. Steinau, H. Bittrich, G. Simon, K. Schmutzler, Polymer 30 (1989) 254."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 7,
+          "bbox": [
+            0.524,
+            0.208,
+            0.914,
+            0.221
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[3] K. Iisaka, K. Shibayama, J. Appl. Polym. Sci. 22 (1978) 3135."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 8,
+          "bbox": [
+            0.523,
+            0.222,
+            0.914,
+            0.248
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[4] B.J. Ash, J. Stone, D.F. Rogers, L.S. Schadler, R.W. Siegel, B.C. Benicewicz, T. Apple, Mater. Res. Soc. Symp. Proc. 661."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 9,
+          "bbox": [
+            0.523,
+            0.249,
+            0.915,
+            0.274
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[5] P.H.T. Vollenberg, J.W. DeHaan, L.J.M. Van de Ven, D. Heikens, Polymer 30 (1989) 1663."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 10,
+          "bbox": [
+            0.523,
+            0.276,
+            0.915,
+            0.301
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[6] L. Nielsen, R. Landel, Mechanical Properties of Polymers and Composites, Marcel Dekker, New York, 1994."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 11,
+          "bbox": [
+            0.523,
+            0.302,
+            0.915,
+            0.328
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[7] J. Mattsson, J.A. Forrest, L. Bö rjesson, Phys. Rev. E 62 (2000) 5187."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 12,
+          "bbox": [
+            0.524,
+            0.328,
+            0.825,
+            0.342
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[8] R. Brotzman, US Patent No. 05993967, 1999."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 13,
+          "bbox": [
+            0.523,
+            0.342,
+            0.915,
+            0.368
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[9] S.T. Balke, A.E. Hamielec, J. Appl. Polym. Sci. 17 (1973) 905."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 14,
+          "bbox": [
+            0.517,
+            0.37,
+            0.915,
+            0.395
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[10] J.L. Keddie, R.A.L. Jones, R.A. Cory, Europhys. Lett. 27 (1994) 59."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

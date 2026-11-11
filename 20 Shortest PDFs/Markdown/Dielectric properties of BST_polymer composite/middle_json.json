@@ -1,0 +1,2183 @@
+{
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.9"
+    },
+    "document": {
+      "title": "doi:10.1016/j.jeurceramsoc.2007.02.082",
+      "created_at": "2007-06-27T13:17:07Z",
+      "modified_at": "2007-07-05T17:21:53+05:30",
+      "creator_application": "Elsevier",
+      "producer_application": "Acrobat Distiller 7.0.5 (Windows)",
+      "page_count": 5,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "txt"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 794.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 794.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 794.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 794.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 794.0
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "index": 0,
+          "bbox": [
+            0.07,
+            0.057,
+            0.163,
+            0.125
+          ],
+          "content": []
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.335,
+            0.055,
+            0.628,
+            0.069
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Available online at www.sciencedirect.com"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 2,
+          "bbox": [
+            0.362,
+            0.071,
+            0.422,
+            0.102
+          ],
+          "content": []
+        },
+        {
+          "type": "header",
+          "index": 3,
+          "bbox": [
+            0.07,
+            0.121,
+            0.163,
+            0.136
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ELSEVIER"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 4,
+          "bbox": [
+            0.421,
+            0.079,
+            0.601,
+            0.103
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ScienceDirect"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 5,
+          "bbox": [
+            0.8,
+            0.078,
+            0.947,
+            0.11
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "EC≈RS"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 6,
+          "bbox": [
+            0.309,
+            0.124,
+            0.653,
+            0.137
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Journal of the European Ceramic Society 27 (2007) 3997–4001"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.723,
+            0.136,
+            0.949,
+            0.15
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "www.elsevier.com/locate/jeurceramsoc"
+            }
+          ]
+        },
+        {
+          "type": "doc_title",
+          "index": 8,
+          "bbox": [
+            0.231,
+            0.179,
+            0.786,
+            0.204
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Dielectric properties of BST/polymer composite"
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.253,
+            0.214,
+            0.75,
+            0.232
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Tao Hu a,∗, Jari Juuti a, Heli Jantunen a, Taisto Vilkman b"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "bbox": [
+            0.237,
+            0.239,
+            0.778,
+            0.253
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "a Microelectronics and Materials Physics Laboratories, EMPART Research Group of Infotech Oulu,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "bbox": [
+            0.357,
+            0.253,
+            0.661,
+            0.266
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "P.O. Box 4500, FIN-90014 University of Oulu, Finland"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "bbox": [
+            0.387,
+            0.265,
+            0.631,
+            0.278
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "b Premix Oy, FIN-05201 Rajam äki, Finland"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "bbox": [
+            0.417,
+            0.282,
+            0.598,
+            0.296
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Available online 23 March 2007"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 14,
+          "bbox": [
+            0.068,
+            0.316,
+            0.131,
+            0.33
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Abstract"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "bbox": [
+            0.066,
+            0.337,
+            0.949,
+            0.436
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "A composite of barium strontium titanate (BST) and thermoplastic cyclic olefin copolymer (COC) was investigated with different BST loadings using common and nanosize ceramic powders. The relative permittivity and loss tangent of the composites were measured as a function of loading at 1 GHz and as a function of temperature at 0.1 MHz. A relative permittivity of 6.0 and a loss tangent of 0.0009 at 1 GHz (room temperature) were obtained for a BSTc-COC composite with 25 vol.% loading using common-size particles of BST. The values for a BSTn-COC composite loaded with 25 vol.% of nanosize BST particles were 7.3 and 0.0023, respectively. A modified Lichtenecker logarithmic equation showed good correspondence with measured relative permittivity of the BSTc-COC composite, but especially at a higher loading level, the model failed with the BSTn-COC composite."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "bbox": [
+            0.067,
+            0.434,
+            0.319,
+            0.449
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "© 2007 Elsevier Ltd. All rights reserved."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 17,
+          "bbox": [
+            0.067,
+            0.458,
+            0.495,
+            0.473
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Keywords: Composites; Dielectric properties; Microstructure-final; BST-COC"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 18,
+          "bbox": [
+            0.068,
+            0.515,
+            0.186,
+            0.529
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1. Introduction"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 19,
+          "bbox": [
+            0.066,
+            0.545,
+            0.498,
+            0.847
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Materials used in microelectronic packaging have to simultaneously fulfill diverse requirements, like low dielectric loss, moderate relative permittivity and moisture absorption resistance, as well as a low coefficient of thermal expansion (CTE) and high dimensional stability and mechanical stiffness."
+            },
+            {
+              "type": "text",
+              "content": "1",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " Ceramic–polymer composites, especially type 0-3, form a potential material group suitable for producing demanding and functional packages that combine the electrical properties of ceramic and the mechanical flexibility, chemical stability, and processing possibilities of polymers. The feasibility of these composites for use in piezoelectric and pyroelectric applications, flexible sensors, transducers, thick film dielectrics, embedded capacitors, tunable antennas and other multilayer RF devices has been studied."
+            },
+            {
+              "type": "text",
+              "content": "2–4",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " The research has mainly concentrated on epoxy-ceramic composites,"
+            },
+            {
+              "type": "text",
+              "content": "5–8",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " but also other polymers, such as PVDF,"
+            },
+            {
+              "type": "text",
+              "content": "9",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " P(VDF–TrFE),"
+            },
+            {
+              "type": "text",
+              "content": "10",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " silicon-rubber,"
+            },
+            {
+              "type": "text",
+              "content": "11",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " polyimide,"
+            },
+            {
+              "type": "text",
+              "content": "12",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " polyvinylchloride (PVC),"
+            },
+            {
+              "type": "text",
+              "content": "13",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " cyanoethylated cellulose polymer (CR-S),"
+            },
+            {
+              "type": "text",
+              "content": "14",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " polystyrene,"
+            },
+            {
+              "type": "text",
+              "content": "15",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " and polyurethane,"
+            },
+            {
+              "type": "text",
+              "content": "16",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " have been used. However, only a few composites that use thermoplastic polymers have been reported."
+            },
+            {
+              "type": "text",
+              "content": "17,18",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " These polymers have excellent chemi-"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 20,
+          "bbox": [
+            0.517,
+            0.514,
+            0.949,
+            0.59
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "cal stability and good mechanical processing possibilties, as they can be net-shaped at elevated temperatures to make, e.g. sheets or a 3D structure, using injection molding, lamination or extrusion. Thus, thermoplastic polymers are attractive candidates for 0-3 type ceramic–polymer composites."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 21,
+          "bbox": [
+            0.517,
+            0.59,
+            0.95,
+            0.802
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The main goal of this research was to introduce a novel 0-3 type ceramic–polymer composite made of thermoplastic polymer (cyclic olefin copolymer, COC) with different loadings of ferroelectric barium strontium titanate (BST). Recently it has also been reported that the nanosize ceramic powders of 0-3 type ceramic–polymer composites could enhance the composite’s loading and microstructure."
+            },
+            {
+              "type": "text",
+              "content": "19,20",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " Thus, an additional objective of the research was to examine how the dielectric properties differ when the particle size of the ceramic filler is decreased from micro to nano-scale. The loading effect of two different BST materials "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{(Ba_{0.55}Sr_{0.45}TiO_{3})}"
+            },
+            {
+              "type": "text",
+              "content": " with micrometer-scale particles and "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{Ba}_{0.5}\\mathrm{Sr}_{0.5}\\mathrm{TiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " with nanometer-scale particles) on the microstructure and dielectric properties of the composite was analyzed and discussed."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 22,
+          "bbox": [
+            0.52,
+            0.822,
+            0.722,
+            0.839
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "2. Experimental procedure"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 23,
+          "bbox": [
+            0.518,
+            0.853,
+            0.949,
+            0.899
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "BST-COC composites were manufactured from commercial BST powders and a granular COC polymer in a HAAKE Rheocord mixer system (CG-5902 Torque Rheometer, Thermo"
+            }
+          ]
+        },
+        {
+          "type": "page_footnote",
+          "index": 24,
+          "bbox": [
+            0.076,
+            0.871,
+            0.46,
+            0.898
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "∗ Corresponding author. Tel.: +358 8 553 2725; fax: +358 8 553 2728. E-mail address: "
+            },
+            {
+              "type": "hyperlink",
+              "url": "mailto:hutao@ee.oulu.fi",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "hutao@ee.oulu.fi"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": " (T. Hu)."
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 25,
+          "bbox": [
+            0.067,
+            0.912,
+            0.462,
+            0.938
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "0955-2219/$ – see front matter © 2007 Elsevier Ltd. All rights reserved. doi:10.1016/j.jeurceramsoc.2007.02.082"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "page_number",
+          "index": 0,
+          "bbox": [
+            0.052,
+            0.056,
+            0.085,
+            0.068
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "3998"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.283,
+            0.055,
+            0.701,
+            0.069
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "T. Hu et al. / Journal of the European Ceramic Society 27 (2007) 3997–4001"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.049,
+            0.082,
+            0.481,
+            0.279
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Electron Corporation, USA). The COC was Topas® 8007S-04 (Ticona GmbH, Germany) with a density of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1.02    g/cm ^3"
+            },
+            {
+              "type": "text",
+              "content": " and a melting temperature of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1 9 0 { - } 2 5 0   ^ { \\circ } \\mathrm { C }"
+            },
+            {
+              "type": "text",
+              "content": " The commonsize "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{Ba}_{0.55}\\mathrm{Sr}_{0.45}\\mathrm{TiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " powder (Filtronic Comtek Ltd., UK) was calcined at "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1 1 0 0   ^ { \\circ } \\mathbf { C }"
+            },
+            {
+              "type": "text",
+              "content": " for 4 h with a fired density of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "5 . 5   \\mathrm { g } / \\mathrm { c m } ^ { 3 }"
+            },
+            {
+              "type": "text",
+              "content": " for a bulk sample. The nanosize "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{Ba}_{0.5}\\mathrm{Sr}_{0.5}\\mathrm{TiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " powder (Sigma–Aldrich Chemie GmbH, Germany) had a fired density of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "4 . 9   \\mathrm { g } / \\mathrm { c m } ^ { 3 }"
+            },
+            {
+              "type": "text",
+              "content": " . First the COC polymer was weighed and put into the chamber of the Torque Rheometer at a "
+            },
+            {
+              "type": "equation_inline",
+              "content": "2 3 0   ^ { \\circ } \\mathbf { C }"
+            },
+            {
+              "type": "text",
+              "content": " temperature, followed by slow addition of the BST powder. After mixing at a speed of 32–64 rpm for 10–20 min, the BST-COC composite was taken from the chamber and hot-pressed at a "
+            },
+            {
+              "type": "equation_inline",
+              "content": "2 0 0   ^ { \\circ } \\mathbf { C }"
+            },
+            {
+              "type": "text",
+              "content": " temperature to form samples for measurements."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.049,
+            0.278,
+            0.481,
+            0.414
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The volume fraction indicating the final loading level of the ceramic was calculated using the weight and density of pure BST and COC. Microstructure analyses were done using scanning electron microscopy (SEM, Jeol JSM-6400, Jeol Ltd., Japan) and X-ray diffraction spectrometry (XRD, Siemens D5000, Siemens AG, Germany), utilizing the JCPDS data file (International Center for Diffraction Data 1992, USA). The specific surface area of the BST powders was measured with a COUL-TER OMNISORP 360CX (Coulter Electronics Ltd., UK)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.049,
+            0.415,
+            0.481,
+            0.445
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Composite samples with a length and width of 20–30 mm and a thickness of 1.5–2 mm were made by hot-pressing for electri-"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 5,
+          "bbox": [
+            0.087,
+            0.463,
+            0.486,
+            0.687
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 5,
+              "bbox": [
+                0.087,
+                0.463,
+                0.486,
+                0.687
+              ],
+              "image_path": "images/page_1_image_5.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 6,
+          "bbox": [
+            0.087,
+            0.694,
+            0.487,
+            0.918
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 6,
+              "bbox": [
+                0.087,
+                0.694,
+                0.487,
+                0.918
+              ],
+              "image_path": "images/page_1_image_6.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.5,
+            0.081,
+            0.934,
+            0.277
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "cal measurements. The samples were polished to ensure good surface quality and parallel surfaces. Relative permittivity and the loss tangent at a frequency of 1 GHz were measured at room temperature with an Agilent E4991A RF Impedance/Material Analyzer (Agilent Technologies Inc., USA). Electrodes were manufactured by sputtering a copper layer on both surfaces. Wires were soldered on the copper electrodes and the dielectric properties were measured as a function of temperature at 0.1 MHz using a HP 4284A precision LCR meter (Agilent Technologies Inc., USA) and a LINKAM temperature control system (a TMS94 temperature controller and an LNP94 automated liquid nitrogen cooling pump, Linkam Scientific instruments Ltd., UK)."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "paragraph_title",
+          "index": 8,
+          "bbox": [
+            0.502,
+            0.294,
+            0.698,
+            0.31
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "3. Results and discussions"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.5,
+            0.324,
+            0.934,
+            0.447
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The thermoplastic polymer chosen for this research, COC made from ethylene and norbornene, is an amorphous and transparent copolymer with high insulation resistance, very low dielectric loss and excellent chemical resistance to aqueous acids and most polar solvents. The measured relative permittivity and dielectric loss of pure COC at 1 GHz were 2.4 and 0.0001, respectively. BST, which is widely used in various applications because of its high relative permittivity and relatively low loss,"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 10,
+          "bbox": [
+            0.496,
+            0.463,
+            0.896,
+            0.686
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 10,
+              "bbox": [
+                0.496,
+                0.463,
+                0.896,
+                0.686
+              ],
+              "image_path": "images/page_1_image_10.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 11,
+          "bbox": [
+            0.496,
+            0.694,
+            0.897,
+            0.918
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 11,
+              "bbox": [
+                0.496,
+                0.694,
+                0.897,
+                0.918
+              ],
+              "image_path": "images/page_1_image_11.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 12,
+              "bbox": [
+                0.05,
+                0.928,
+                0.932,
+                0.942
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 1. SEM images of the BSTc-COC composites with BST loading of (a) 10, (b) 40, (c) 60 vol.%, and (d) the BSTn-COC composite with BST loading of 10 vol.%."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "index": 0,
+          "bbox": [
+            0.299,
+            0.056,
+            0.716,
+            0.069
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "T. Hu et al. / Journal of the European Ceramic Society 27 (2007) 3997–4001"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 1,
+          "bbox": [
+            0.917,
+            0.056,
+            0.949,
+            0.068
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "3999"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.066,
+            0.081,
+            0.497,
+            0.171
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "was chosen as the ceramic filler. The BST was also selected for the way it exhibited a paraelectric state with low loss at ambient temperature. The relative permittivity and loss tangent of the pure BST bulk (made with common-size "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{Ba}_{0.55}\\mathrm{Sr}_{0.45}\\mathrm{TiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " powder and sintered at "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1 4 0 0   ^ { \\circ } \\mathrm { C }"
+            },
+            {
+              "type": "text",
+              "content": " for 4 h) measured at room temperature were 1757 and 0.001 at 0.1 MHz, respectively."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.066,
+            0.171,
+            0.497,
+            0.246
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In addition to the electrical performance of the basic composite materials, the final properties of the 0-3 ceramic–polymer composite depend on the loading, particle size, size distribution, and microstructure"
+            },
+            {
+              "type": "text",
+              "content": "21",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " of the ceramic filler. Thus, the main interest was in studying these effects."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.065,
+            0.246,
+            0.497,
+            0.382
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The particle size of the common BST powder was in the range of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "0 . 2 { - } 2   \\mu \\mathrm { m } ,"
+            },
+            {
+              "type": "text",
+              "content": " , with an average size of ∼1 -m, whereas the particle size of the nano-BST powder was <200 nm. The BET surface area measurement gave SSA values of 7.8 and "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1 3 . 7   \\mathrm { m } ^ { 2 } / \\mathrm { g }"
+            },
+            {
+              "type": "text",
+              "content": " for the common BST powder and the nano-BST powder, respectively. The XRD analysis showed that both powders had a structure of polycrystal barium strontium titanate, confirming that the starting ceramic materials were the ones expected."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.066,
+            0.381,
+            0.497,
+            0.532
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Composites with different BST loadings in the range of 2.5–60 vol.% were fabricated from common-size BST powder (BSTc-COC). Similarly, composites with BST nano-powder were manufactured (BSTn-COC) with a 2.5–33 vol.% of BST. The microstructures (SEM images in the back-scattering electron mode) of the BSTc-COC composites with 10, 40, 60 vol.% BST and BSTn-COC with 10 vol.% BST are shown in Fig. 1. Gradually increased loading of BST and homogeneously distributed ceramic particles can be clearly seen in the COC polymer matrix."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.066,
+            0.532,
+            0.497,
+            0.637
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The SEM image of BSTn-COC (Fig. 1d) shows more uniform and delicate distribution of the ceramic particles and smaller distances between them compared with BSTc-COC with the same volume fraction of 10 vol.% (Fig. 1a). Therefore, the polymer matrix dominates the behavior of the BSTc-COC composite with higher loadings than the BSTn-COC composites, which will be discussed later on."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.066,
+            0.638,
+            0.497,
+            0.743
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In processing the composites, it was also observed that the nano-powder was easier to mix with the polymer than was the common powder at lower BST loadings. However, mixing became more difficult at higher loadings, as also reported by others,"
+            },
+            {
+              "type": "text",
+              "content": "19",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " because of the effect of the high SSA and thus the larger ceramic volume. Research is going on to improve mixing, inhibit agglomeration and obtain higher nano-powder loadings."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "bbox": [
+            0.066,
+            0.743,
+            0.497,
+            0.848
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The relative permittivity of the BSTc-COC composites at 1 GHz rapidly increased from 2.6 to 21.4 as the volume fraction of BSTc was increased from 2.5 to 60 vol.%, as shown in Fig. 2a. The increase became more profound when the loading level of 25 vol.% was exceeded. As the loading increased, a slow increase of the loss tangent at 1 GHz from 0.001 to 0.003 was also observed."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.065,
+            0.848,
+            0.498,
+            0.94
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The BSTn-COC composites had similar behavior as a function of BST loading as did the BSTc-COC composites. Their relative permittivity and loss tangent increased when the volume fraction of nano-BST powder was increased (Fig. 2b), but at lower loading of BST (≤10 vol.%) their dielectric properties are dominated by the main continuous phase of the polymer matrix."
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 10,
+          "bbox": [
+            0.523,
+            0.083,
+            0.94,
+            0.281
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 10,
+              "bbox": [
+                0.523,
+                0.083,
+                0.94,
+                0.281
+              ],
+              "image_path": "images/page_2_chart_10.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 11,
+          "bbox": [
+            0.523,
+            0.288,
+            0.944,
+            0.484
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 11,
+              "bbox": [
+                0.523,
+                0.288,
+                0.944,
+                0.484
+              ],
+              "image_path": "images/page_2_chart_11.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 12,
+              "bbox": [
+                0.518,
+                0.493,
+                0.948,
+                0.519
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 2. Relative permittivities and loss tangents of (a) the BSTc-COC composites and (b) the BSTn-COC composites at 1 GHz as a function of BST loading."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "bbox": [
+            0.516,
+            0.547,
+            0.95,
+            0.909
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Differences occur at higher BST loading (>10 vol.%), where the relative permittivity and losses of the composite increase more rapidly with the addition of nano-powder than with common powder. For example, composites with 10 vol.% loading of common and nano-BST powders had the same relative permittivity of 3.5, but at 15 vol.% and 25 vol.% BST loadings the BSTc-COC had a relative permittivity of 3.9 and 6.0, whereas the BSTn-COC had a relative permittivity of 4.4 and 7.3, respectively. Correspondingly, the loss tangent of the BSTc-COC was 0.0005 and 0.0009 at 15 and 25 vol.% BST loading, while for the BSTn-COC, values of 0.0010 and 0.0023, respectively, were measured. Thus, the nano-powder significantly increased relative permittivity when the BST loading was above 15 vol.%, but it also generated higher losses. The results are assumed to be a consequence of the higher SSA of the nano-powder, which has more surface area connected with the polymer matrix, thus creating a large ‘interaction zone’ or region of altered polymer behavior. Changes in the polymer morphology and the space charge distribution, reduction in the internal field caused by the decrease in the size of the particles, and a scattering mechanism might be the other factors influencing the dielectric properties."
+            },
+            {
+              "type": "text",
+              "content": "22",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " However, more research is required on this topic. An abnormal decrease in the loss value of BSTn-COC with 33 vol.% of BST also requires further investigation."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "bbox": [
+            0.517,
+            0.908,
+            0.95,
+            0.94
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The relative permittivities of the BSTc-COC and BSTn-COC composites were calculated with a modified Lichtenecker loga-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "page_number",
+          "index": 0,
+          "bbox": [
+            0.053,
+            0.056,
+            0.085,
+            0.068
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "4000"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.283,
+            0.055,
+            0.701,
+            0.069
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "T. Hu et al. / Journal of the European Ceramic Society 27 (2007) 3997–4001"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 2,
+          "bbox": [
+            0.057,
+            0.081,
+            0.473,
+            0.277
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 2,
+              "bbox": [
+                0.057,
+                0.081,
+                0.473,
+                0.277
+              ],
+              "image_path": "images/page_3_chart_2.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 3,
+              "bbox": [
+                0.05,
+                0.286,
+                0.479,
+                0.312
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 3. Relative permittivity and loss tangent of the BSTc-COC composite with 40 vol.% of BST at 0.1 MHz."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.05,
+            0.328,
+            0.229,
+            0.345
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "rithmic law equation."
+            },
+            {
+              "type": "text",
+              "content": "14,23",
+              "styles": [
+                "superscript"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "equation",
+          "index": 5,
+          "bbox": [
+            0.05,
+            0.353,
+            0.309,
+            0.387
+          ],
+          "image_path": "images/page_3_equation_5.jpg",
+          "content": "\\log \\varepsilon = \\log \\varepsilon_ {\\mathrm{p}} + v _ {\\mathrm{b}} (1 - k) \\log \\left(\\frac {\\varepsilon_ {\\mathrm{b}}}{\\varepsilon_ {\\mathrm{p}}}\\right)"
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.049,
+            0.393,
+            0.481,
+            0.694
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "where k is a fitting constant of the composite, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\nu _ { \\mathrm { b } }"
+            },
+            {
+              "type": "text",
+              "content": " the volume fraction of ceramic, and "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon _ { \\mathrm { p } }"
+            },
+            {
+              "type": "text",
+              "content": " and "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon _ { \\mathrm { b } }"
+            },
+            {
+              "type": "text",
+              "content": " are the relative permittivities of pure polymer and ceramic, respectively. For "
+            },
+            {
+              "type": "equation_inline",
+              "content": "k ,"
+            },
+            {
+              "type": "text",
+              "content": " a value of 0.3 for well-dispersed polymer–ceramic composites has been reported."
+            },
+            {
+              "type": "text",
+              "content": "23",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " For our composites, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "k   =   0 . 4 3"
+            },
+            {
+              "type": "text",
+              "content": " was used, and the relative permittivities of the pure BST bulk and COC polymer were 1760 and 2.4, respectively. The modified Lichtenecker equation showed very good correspondence with the measurement results of the BSTc-COC composite (Fig. 2a) up to relatively high loadings. In the case of the BSTn-COC composite, the equation shows good matching with measurement results at a "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\leq   1 0 \\%"
+            },
+            {
+              "type": "text",
+              "content": " volume fraction. However, a significant discrepancy can be observed at higher loadings of the nano-BST powder because of the high SSA of the nanopowder. In a composite system with high loading of ceramic filler and/or high surface area of the filler, the interfacial bonding region between the polymer and ceramic becomes larger and is very significant to the dielectric properties of the composites."
+            },
+            {
+              "type": "text",
+              "content": "19,22,24",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " Other models especially made for nanocomposites, such as the interphase power law model (IPL model),"
+            },
+            {
+              "type": "text",
+              "content": "24",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " need to be used."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.048,
+            0.694,
+            0.481,
+            0.847
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The relative permittivity and loss of the BSTc-COC composite with 40 vol.% of BST as a function of temperature (from "
+            },
+            {
+              "type": "equation_inline",
+              "content": "-165  to   22   ^{\\circ} C )"
+            },
+            {
+              "type": "text",
+              "content": " at 0.1 MHz is shown in Fig. 3. The results show that the Curie peak is hard to define, which is understandable since the ceramic loading was still relatively low. The presented composites could thus be feasible for applications requiring relatively stable but moderately high relative permittivity. A higher loading level or modification of the polymer matrix is needed, however, if electrical tuning of relative permittivity available with ferroelectric composites is desired."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 8,
+          "bbox": [
+            0.051,
+            0.863,
+            0.166,
+            0.878
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "4. Conclusions"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.05,
+            0.893,
+            0.48,
+            0.94
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Novel thermoplastic 0-3 type BST-COC composites were studied using common-size "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{(Ba_{0.55}Sr_{0.45}TiO_{3})}"
+            },
+            {
+              "type": "text",
+              "content": " and nanosize "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{(Ba_{0.5}Sr_{0.5}TiO_{3})}"
+            },
+            {
+              "type": "text",
+              "content": " BST powders and a thermoplastic COC poly-"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "bbox": [
+            0.5,
+            0.083,
+            0.933,
+            0.37
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "mer (TOPAS® 8007S-04). The composites were prepared with different volume fractions of BST powders. The microstructures of the composites showed homogeneous distribution of the BST fillers in the COC polymer matrix in all the samples. The relative permittivity and loss tangent were investigated as a function of BST loading at 1 GHz and as a function of temperature at 0.1 MHz. The results showed that the relative permittivity and loss tangent of the composites gradually increased as the volume fraction of BST was increased. The BSTn-COC composite with nanopowder showed higher relative permittivity and loss at BST loading over 10 vol.% compared with the composites with common-size BST powder. Using a 25% volume fraction of BST, a relative permittivity of 7.3 and a loss tangent of 0.0023 were obtained for the BSTn-COC nanocomposite at 1 GHz, and 6.0 and 0.0009, respectively, for the common BSTc-COC composite. The modified equation of the Lichtenecker logarithmic law showed good correspondence for composites made from common-size BST powder, but discrepancies were observed in composites with nano-BST powder at >10 vol.% loading."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "paragraph_title",
+          "index": 11,
+          "bbox": [
+            0.503,
+            0.384,
+            0.649,
+            0.4
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Acknowledgements"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "bbox": [
+            0.5,
+            0.414,
+            0.933,
+            0.506
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "This research was supported by the CoNaPo project (No. 40135/05, 40116/06). The authors would like to acknowledge the Finnish Funding Agency for Technology and Innovation (Tekes), Perlos Oyj, Pulse Finland Oy, Premix Oy, Ticona Norden Finland Oy, and Aspocomp Technology Oy for funding the project, and Mr. Timo Vahera for preparation of the samples."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 13,
+          "bbox": [
+            0.505,
+            0.519,
+            0.588,
+            0.535
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "References"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "ref_text",
+          "index": 14,
+          "bbox": [
+            0.511,
+            0.549,
+            0.931,
+            0.574
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1. Dietz, H. K., Fine lines in high yield (Part CXXIV): high performance dielectrics. CircuiTree, 2006, 19(1), 52–53."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 15,
+          "bbox": [
+            0.511,
+            0.575,
+            0.93,
+            0.611
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "2. Dias, C. J. and Das-Gupta, D. K., Inorganic ceramic/polymer ferroelectric composite electrets. IEEE Trans. Dielectr. Electr. Insul., 1996, 3(5), 706–734."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 16,
+          "bbox": [
+            0.511,
+            0.612,
+            0.931,
+            0.649
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "3. Reichmanis, E., Katz, H., Kloc, C. and Maliakal, A., Plastic electronic devices: from materials design to device applications. Bell Labs Tech. J., 2005, 10(3), 87–105."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 17,
+          "bbox": [
+            0.511,
+            0.65,
+            0.931,
+            0.699
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "4. Rao, Y., Yue, J. and Wong, C. P., High K polymer-ceramic nano-composite development, characterization, and modeling for embedded capacitor RF application. In IEEE Conference Proceedings of Electronic Components and Technology, 2001, pp. 1408–1412."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 18,
+          "bbox": [
+            0.511,
+            0.7,
+            0.931,
+            0.736
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "5. Kuo, D. H., Chang, C. C., Su, T. Y., Wang, W. K. and Lin, B. Y., Dielectric properties of three ceramic/epoxy composites. Mater. Chem. Phys., 2004, 85, 201–206."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 19,
+          "bbox": [
+            0.511,
+            0.738,
+            0.931,
+            0.787
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "6. Cho, S. D., Jan, K. W., Hyun, J. G., Lee, S., Paik, K. W., Kim, H. et al., Epoxy/BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " composite films and pastes for high dielectric constant and low-tolerance embedded capacitors fabrication in organic substrates. IEEE Trans. Dielectr. Electr. Pack. Manuf., 2005, 28(4), 297–303."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 20,
+          "bbox": [
+            0.511,
+            0.788,
+            0.931,
+            0.825
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "7. Rao, Y., Takahashi, A. and Wong, C. P., Di-block copolymer surfactant study to optimize filler dispersion in high dielectric constant polymer–ceramic composite. Compos. Part A, 2003, 34, 1113–1116."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 21,
+          "bbox": [
+            0.511,
+            0.826,
+            0.93,
+            0.862
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "8. Ramajo, L., Reboredo, M. and Castro, M., Dielectric response and relaxation phenomena in composites of epoxy resin with BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " particles. Compos. Part A, 2005, 36, 1267–1274."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 22,
+          "bbox": [
+            0.51,
+            0.864,
+            0.931,
+            0.899
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "9. Muralidhar, C. and Pillai, P. K. C., Dielectric behaviour of barium titanate (BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ")/polyvinylidene fluoride (PVDF) composite. J. Mater. Sci. Lett., 1987, 6, 346–348."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 23,
+          "bbox": [
+            0.506,
+            0.901,
+            0.931,
+            0.938
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "10. Adkary, S. U., Chan, H. L. W., Choy, C. L., Sundaravel, B. and Wilson, I. H., Characterisation of proton irradiated Ba"
+            },
+            {
+              "type": "text",
+              "content": "0",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ".65"
+            },
+            {
+              "type": "text",
+              "content": "Sr",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "0",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ".35"
+            },
+            {
+              "type": "text",
+              "content": "TiO",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "/P(VDF-TrFE) ceramic-polymer composites. Compos. Sci. Tech., 2002, 62, 2161–2167."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "index": 0,
+          "bbox": [
+            0.299,
+            0.057,
+            0.716,
+            0.068
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "T. Hu et al. / Journal of the European Ceramic Society 27 (2007) 3997–4001"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 1,
+          "bbox": [
+            0.918,
+            0.057,
+            0.947,
+            0.067
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "4001"
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 2,
+          "bbox": [
+            0.07,
+            0.083,
+            0.495,
+            0.119
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "11. Liou, J. W. and Chiou, B. S., Dielectric tunability of barium strontium titanate/silicone-rubber composite. J. Phys. Condens. Matter, 1998, 10, 2773–2786."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 3,
+          "bbox": [
+            0.07,
+            0.121,
+            0.495,
+            0.156
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "12. Xie, S. H., Wei, X. Z., Xu, Z. K. and Xu, Y. Y., Polyimide/BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " composites with controllable dielectric properties. Compos. Part A, 2005, 36, 1152–1157."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 4,
+          "bbox": [
+            0.071,
+            0.158,
+            0.495,
+            0.194
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "13. Olszowy, M., Pawlaczyk, Cz., Markiewicz, E. and Kulek, J., Dielectric and pyroelectric properties of BaTiO3-PVC composites. Phys. Stat. Sol. (a), 2005, 202(9), 1848–1853."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 5,
+          "bbox": [
+            0.071,
+            0.196,
+            0.495,
+            0.22
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "14. Chiang, C. K. and Popielarz, R., Polymer composites with high dielectric constant. Ferroelectrics, 2002, 275, 1–9."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 6,
+          "bbox": [
+            0.071,
+            0.221,
+            0.495,
+            0.258
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "15. Badheka, P., Magadala, V., Devaraju, N. G., Lee, B. I. and Kim, E. S., Effect of dehydroxylation of hydrothermal barium titanate on dielectric properties in polystyrene composite. J. Appl. Polym. Sci., 2006, 99, 2815–2821."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 7,
+          "bbox": [
+            0.071,
+            0.258,
+            0.495,
+            0.295
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "16. Abbas, S. M., Chandra, M., Verma, A., Chatterjee, R. and Goel, T. C., Complex permittivity and microwave absorption properties of a composite dielectric absorber. Compos. Part A, 2006, 37, 2148–2154."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 8,
+          "bbox": [
+            0.07,
+            0.296,
+            0.495,
+            0.333
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "17. Wang, Y. and Huang, J., Single screw extrusion compounding of particulate filled thermoplastics: state of dispersion and its influence on impact properties. J. Appl. Polym. Sci., 1996, 60, 1779–1791."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 9,
+          "bbox": [
+            0.07,
+            0.334,
+            0.495,
+            0.358
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "18. Bahadur, S. and Sunkara, C., Effect of transfer film structure, composition and bonding on the tribological behaviour of polyphenylene sulfide"
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 10,
+          "bbox": [
+            0.541,
+            0.083,
+            0.947,
+            0.107
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "filled with nano particles of TiO"
+            },
+            {
+              "type": "text",
+              "content": "2",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ", ZnO, CuO and SiC. Wear, 2005, 258, 1411–1421."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "ref_text",
+          "index": 11,
+          "bbox": [
+            0.522,
+            0.108,
+            0.947,
+            0.157
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "19. Hanemann, T., Boehm, J., Henzi, P., Honnef, K., Litfin, K., Ritzhaupt-Kleissl, E. et al., From micro to nano: properties and potential applications of micro- and nano-filled polymer ceramic composites in microsystem technology. IEE Proc. Nanobiotechnol., 2004, 151(4), 167–172."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 12,
+          "bbox": [
+            0.521,
+            0.158,
+            0.947,
+            0.195
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "20. Dias, C. J., Igreja, R., Marat-Mendes, R., Inacio, P., Marat-Mendes, J. N. and ´ Das-Gupta, D. K., Recent advances in ceramic–polymer composite electrets. IEEE Trans. Dielectr. Electr. Insul., 2004, 11(1), 35–40."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 13,
+          "bbox": [
+            0.521,
+            0.196,
+            0.947,
+            0.233
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "21. Lee, H. G. and Kim, H. G., Ceramic particle size dependence of dielectric and piezoelectric properties of piezoelectric ceramic-polymer composites. J. Appl. Phys., 1990, 67(4), 2024–2028."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 14,
+          "bbox": [
+            0.521,
+            0.233,
+            0.947,
+            0.27
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "22. Roy, M., Nelson, J. K., MacCrone, R. K., Schadler, L. S., Reed, C. W., Keefe, R. et al., Polymer nanocomposite dielectrics—the role of the interface. IEEE Trans. Dielectr. Electr. Insul., 2005, 12(4), 629–643."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 15,
+          "bbox": [
+            0.52,
+            0.271,
+            0.948,
+            0.32
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "23. Rao, Y., Wong, C. P., Qu, J. and Marinis, T., Self-consistent model for dielectric constant prediction of polymer–ceramic composite. In Proceedings of International Symposium on Advanced Packaging Materials, 2000. p. 44–9."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 16,
+          "bbox": [
+            0.52,
+            0.321,
+            0.948,
+            0.358
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "24. Todd, M. and Shi, F., Dielectric characteristics of complex composite systems containing interphase regions. In Proceedings of 9th International Symposium on Advanced Packaging Materials, 2004. p. 112–7."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

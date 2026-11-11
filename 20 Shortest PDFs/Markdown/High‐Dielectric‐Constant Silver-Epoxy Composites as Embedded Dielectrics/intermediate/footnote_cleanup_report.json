@@ -1,0 +1,54 @@
+{
+  "source": "model_output.json",
+  "footnotes_found": 3,
+  "kept": 1,
+  "removed": 2,
+  "matched_and_removed_from_markdown": 2,
+  "items": [
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "[*] Prof. B. I. Lee, Dr. L. Qi  \nSchool of Materials Science and Engineering, Clemson University  \nClemson, SC 29634 (USA)  \nE-mail: burt.lee@ces.clemson.edu  \nDr. S. H. Chen  \nDepartment of Biomedical Engineering, Duke University  \nDurham, NC 27708 (USA)  \nDr. W. D. Samuels, Dr. G. J. Exarhos  \nDepartment of Materials Science  \nPacific Northwest National Laboratory  \nRichland, WA 99352 (USA)  \n[**] The authors acknowledge financial support from the U. S. Department of Energy under contract DE-AC06-76RL through Pacific Northwest National Laboratory operated by Battelle Memorial Institute.",
+      "decision": "remove",
+      "reason": "administrative_or_contact_noise",
+      "noise_signals": [
+        "email_address",
+        "email_metadata"
+      ],
+      "useful_signals": [],
+      "affiliation_like": true,
+      "markdown_match_score": 1.0,
+      "removed_from_markdown": true,
+      "removal_mode": "whole_block"
+    },
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "[*] Prof. G. W. Meng, Dr. X. An, Dr. Q. Wei, Dr. X. Zhang, Dr. Y. Hao, Prof. L. D. Zhang  \nKey Laboratory of Materials Physics, Institute of Solid State Physics  \nChinese Academy of Sciences  \nHefei 230031 (P.R. China)  \nE-mail: gwmeng@issp.ac.cn",
+      "decision": "remove",
+      "reason": "administrative_or_contact_noise",
+      "noise_signals": [
+        "email_address",
+        "email_metadata"
+      ],
+      "useful_signals": [],
+      "affiliation_like": true,
+      "markdown_match_score": 1.0,
+      "removed_from_markdown": true,
+      "removal_mode": "whole_block"
+    },
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "[**] This work was supported by the Natural Science Foundation of China (Grant No. 10374092 and 50271068) and the Ministry of Science and Technology of China (Grant No. G1 999 064 501).",
+      "decision": "keep",
+      "reason": "uncertain_kept_conservatively",
+      "noise_signals": [
+        "phone_number"
+      ],
+      "useful_signals": [],
+      "affiliation_like": false
+    }
+  ],
+  "warnings": []
+}

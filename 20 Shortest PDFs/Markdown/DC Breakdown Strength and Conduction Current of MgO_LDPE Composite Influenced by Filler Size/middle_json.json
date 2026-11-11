@@ -1,0 +1,1557 @@
+{
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.9"
+    },
+    "document": {
+      "title": "DC Breakdown Strength and Conduction Current of MgO/LDPE Composite Influenced by Filler Size",
+      "authors": [
+        "Shunsuke Okuzumi;Yoshinobu Murakami;Masayuki Nagao;Yoitsu Sekiguchi;Ch. Chakradhar Reddy;Yoshinao Murata"
+      ],
+      "subject": "2008 Annual Report Conference on Electrical Insulation and Dielectric Phenomena;2008; ; ;10.1109/CEIDP.2008.4772933",
+      "created_at": "2009-01-29T17:07:56Z",
+      "modified_at": "2018-11-13T19:12:30-05:00",
+      "producer_application": "Apex PDFWriter; modified using iText® 7.1.1 ©2000-2018 iText Group NV (AGPL-version)",
+      "page_count": 4,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.1719970703125,
+          "height_pt": 842.27197265625
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.2000122070312,
+          "height_pt": 842.1599731445312
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0800170898438,
+          "height_pt": 842.0399780273438
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.2000122070312,
+          "height_pt": 842.27197265625
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "index": 0,
+          "bbox": [
+            0.219,
+            0.03,
+            0.761,
+            0.046
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "2008 Annual Report Conference on Electrical Insulation Dielectric Phenomena"
+            }
+          ]
+        },
+        {
+          "type": "doc_title",
+          "index": 1,
+          "bbox": [
+            0.086,
+            0.105,
+            0.918,
+            0.169
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "DC Breakdown Strength and Conduction Current of MgO/LDPE Composite Influenced by Filler Size"
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.263,
+            0.181,
+            0.738,
+            0.198
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Shunsuke Okuzumi "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{1}"
+            },
+            {
+              "type": "text",
+              "content": " , Yoshinobu Murakami "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{1}"
+            },
+            {
+              "type": "text",
+              "content": " , Masayuki Nagao "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{1}"
+            },
+            {
+              "type": "text",
+              "content": " ,"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.257,
+            0.197,
+            0.744,
+            0.212
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Yoitsu Sekiguchi "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{2}"
+            },
+            {
+              "type": "text",
+              "content": " , Ch. Chakradhar Reddy "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{2}"
+            },
+            {
+              "type": "text",
+              "content": "  and Yoshinao Murata "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{2}"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.186,
+            0.211,
+            0.816,
+            0.24
+          ],
+          "content": [
+            {
+              "type": "equation_inline",
+              "content": "^{1}"
+            },
+            {
+              "type": "text",
+              "content": " Toyohashi University of Technology, 1-1 Hibarigaoka, Tenpaku, Toyohashi, 441-8580, Japan  \n "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{2}"
+            },
+            {
+              "type": "text",
+              "content": " J-Power Systems Corporation, 5-1-1 Hitaka, Hitachi, 319-1414, Japan"
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.068,
+            0.253,
+            0.49,
+            0.457
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Abstract- A nano-composite material is attracting many researchers' attention in the field of dielectric and electrical insulation. The purpose of this study is to investigate the influence of MgO filler size on electrical properties of MgO/LDPE nanocomposite. The volume resistivity, DC breakdown strength and the impulse breakdown strength of low-density polyethylene (LDPE) containing nano-filler or micro-filler of magnesium oxide (MgO) were measured. The volume resistivity of the sample without the MgO filler increases by addition of the MgO nano-filler or the MgO micro-filler. The impulse breakdown strength and the DC breakdown strength of the sample without the MgO filler measured with McKeown type electrode increases by the addition of the MgO nano-filler but that does not increase by the addition of the MgO micro-filler. From the result, it becomes clear that the addition of the MgO nano-filler is suitable for the DC insulating material rather than that of the MgO micro-filler."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 6,
+          "bbox": [
+            0.216,
+            0.466,
+            0.343,
+            0.479
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "I. INTRODUCTION"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.067,
+            0.489,
+            0.492,
+            0.785
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Polymer insulating materials are widely applied to power apparatuses and cables. Traditionally, additive agents and fillers are often used for improving insulating and mechanical properties [1]. Recently, nano-composite material is attracting many researchers' attention in the field of dielectric and electrical insulation [2]. A nano-composite polymer is composed of nano-filler, of which diameter is as small as a few tens to a few hundreds of nanometers, and a polymer as a matrix. Since the sectional area of the interface between the filler and the matrix is enormously large compared to that of conventional micro-composite materials, some improvement of insulating performance is expected to be realized by using such technology. In previous paper, it is reported by the authors that the addition of nano-sized magnesium oxide (MgO) to a low-density polyethylene (LDPE) brought significantly improvement of electrical properties like DC breakdown strength, the volume resistivity, the space charge and the electrical treeing [3]-[5]. The purpose of this study is to investigate the electrical properties influenced by the MgO filler size. In this paper, the volume resistivity, DC breakdown strength and the impulse breakdown strength of LDPE containing nano-filler or micro-filler of MgO were measured."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 8,
+          "bbox": [
+            0.237,
+            0.793,
+            0.323,
+            0.806
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "II. SAMPLE"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.067,
+            0.819,
+            0.491,
+            0.874
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "MgO/LDPE nanocomposites were prepared from raw LDPE and magnesium oxide powder of several ten nm, of which concentration was 0.2, 0.5, 1, 2, 5 and 10 phr. The film was prepared with a blown method. Here the unit of “phr”"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 10,
+          "bbox": [
+            0.582,
+            0.26,
+            0.865,
+            0.505
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 10,
+              "bbox": [
+                0.582,
+                0.26,
+                0.865,
+                0.505
+              ],
+              "image_path": "images/page_0_image_10.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 11,
+              "bbox": [
+                0.519,
+                0.511,
+                0.906,
+                0.533
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 1. TEM photograph of MgO/LDPE nano-composite material, MgO content is 5 phr."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 12,
+          "bbox": [
+            0.579,
+            0.553,
+            0.867,
+            0.796
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 12,
+              "bbox": [
+                0.579,
+                0.553,
+                0.867,
+                0.796
+              ],
+              "image_path": "images/page_0_image_12.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 13,
+              "bbox": [
+                0.518,
+                0.803,
+                0.921,
+                0.827
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 2. Laser microscope photograph of MgO/LDPE micro-composite material, MgO content is 5 phr."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "bbox": [
+            0.508,
+            0.834,
+            0.933,
+            0.876
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "represents “parts per hundred parts of resin”. For example, 1 phr nanocomposite consists of 1 part of filler and 100 parts of LDPE. LDPE without MgO nano-filler, corresponding to 0"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 15,
+          "bbox": [
+            0.087,
+            0.951,
+            0.374,
+            0.965
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "978-1-4244-2549-5/\\$25.00 © 2008 IEEE"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 16,
+          "bbox": [
+            0.094,
+            0.965,
+            0.899,
+            0.977
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on June 20,2025 at 17:40:36 UTC from IEEE Xplore. Restrictions apply."
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 17,
+          "bbox": [
+            0.485,
+            0.951,
+            0.515,
+            0.964
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "722"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "bbox": [
+            0.068,
+            0.104,
+            0.489,
+            0.198
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "phr, was also prepared as a reference. The film thickness is about 0.1 mm unless otherwise stated. Figure 1 shows the TEM photograph of the nanocomposite sample with 5 phr. A number of dark spots are seen in this figure. An energy dispersive X-ray fluorescence analyzer (EDX) spectrum, it is suggested that MgO particles are dispersed almost homogeneously in the LDPE matrix [6]."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "bbox": [
+            0.068,
+            0.197,
+            0.49,
+            0.267
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "MgO/LDPE microcomposites were also prepared from raw LDPE and magnesium oxide powder of several  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mu"
+            },
+            {
+              "type": "text",
+              "content": " m in diameter, of which concentration was 1, 2, and 5 phr. Figure 2 shows the photograph of leaser microscope of the microcomposite sample with 5 phr."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 2,
+          "bbox": [
+            0.168,
+            0.292,
+            0.392,
+            0.306
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "III. EXPERIMENTAL PROCEDURE"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "paragraph_title",
+          "index": 3,
+          "bbox": [
+            0.069,
+            0.317,
+            0.241,
+            0.33
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "A. Conduction Current"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.068,
+            0.33,
+            0.49,
+            0.504
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Figure 3 shows (a) the electrode configuration and (b) the experimental setup for the conduction current measurement. A gold electrode of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "40\\mathrm{mm}"
+            },
+            {
+              "type": "text",
+              "content": " in diameter was formed by vacuum evaporation on one side of the film. On the other side, a gold electrode of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "26\\mathrm{mm}"
+            },
+            {
+              "type": "text",
+              "content": " in diameter was formed as the main electrode and a gold electrode of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "32\\mathrm{mm}"
+            },
+            {
+              "type": "text",
+              "content": " in inner diameter and "
+            },
+            {
+              "type": "equation_inline",
+              "content": "40\\mathrm{mm}"
+            },
+            {
+              "type": "text",
+              "content": " in outer diameter was formed as the guard electrode. The conduction current was measured under a constant DC field of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "40\\mathrm{kV / mm}"
+            },
+            {
+              "type": "text",
+              "content": " at "
+            },
+            {
+              "type": "equation_inline",
+              "content": "303\\mathrm{K}"
+            },
+            {
+              "type": "text",
+              "content": ". The conduction current at 10 minutes after the DC filed application was employed to determine the volume resistivity. The volume resistivity was calculated by multiplying the applied field and the main electrode area to the reciprocal of conduction current."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 5,
+          "bbox": [
+            0.086,
+            0.51,
+            0.471,
+            0.651
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 5,
+              "bbox": [
+                0.086,
+                0.51,
+                0.471,
+                0.651
+              ],
+              "image_path": "images/page_1_image_5.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 6,
+              "bbox": [
+                0.198,
+                0.658,
+                0.344,
+                0.67
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "(a) Electrode configuration"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 7,
+          "bbox": [
+            0.094,
+            0.682,
+            0.45,
+            0.785
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 7,
+              "bbox": [
+                0.094,
+                0.682,
+                0.45,
+                0.785
+              ],
+              "image_path": "images/page_1_image_7.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 8,
+              "bbox": [
+                0.135,
+                0.794,
+                0.393,
+                0.806
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 3. Conduction current measurement system"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 9,
+          "bbox": [
+            0.07,
+            0.818,
+            0.373,
+            0.831
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "B. DC Breakdown and Impulse Breakdown"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "bbox": [
+            0.068,
+            0.832,
+            0.49,
+            0.874
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Figure 4 shows (a) the electrode configuration and (b) the experimental setup for DC or impulse breakdown test. The breakdown tests were performed in silicone oil at "
+            },
+            {
+              "type": "equation_inline",
+              "content": "303\\mathrm{K}"
+            },
+            {
+              "type": "text",
+              "content": " using"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "bbox": [
+            0.509,
+            0.104,
+            0.933,
+            0.133
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "McKeown type electrode [7]. In the DC breakdown test, the sample was subjected to a ramp voltage with increase rate of"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 12,
+          "bbox": [
+            0.544,
+            0.138,
+            0.923,
+            0.215
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 12,
+              "bbox": [
+                0.544,
+                0.138,
+                0.923,
+                0.215
+              ],
+              "image_path": "images/page_1_image_12.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 14,
+          "bbox": [
+            0.525,
+            0.244,
+            0.934,
+            0.393
+          ],
+          "content": [
+            {
+              "type": "image_caption",
+              "index": 13,
+              "bbox": [
+                0.641,
+                0.225,
+                0.801,
+                0.238
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "(a) McKeown type electrode"
+                }
+              ]
+            },
+            {
+              "type": "image_body",
+              "index": 14,
+              "bbox": [
+                0.525,
+                0.244,
+                0.934,
+                0.393
+              ],
+              "image_path": "images/page_1_image_14.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 15,
+              "bbox": [
+                0.655,
+                0.392,
+                0.788,
+                0.404
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "(b) Experimental Setup"
+                }
+              ]
+            },
+            {
+              "type": "image_caption",
+              "index": 16,
+              "bbox": [
+                0.586,
+                0.412,
+                0.855,
+                0.425
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 4. Experimental setup for DC breakdown test"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 17,
+          "bbox": [
+            0.51,
+            0.432,
+            0.932,
+            0.488
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "500 V/s. In impulse breakdown test, the sample was subjected to impulse voltage with wave front of 1.2  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mu"
+            },
+            {
+              "type": "text",
+              "content": " s. An impulse breakdown test was performed at the wave front of the one shot impulse."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 18,
+          "bbox": [
+            0.564,
+            0.501,
+            0.878,
+            0.515
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "IV. EXPERIMENTAL RESULT AND DISCUITION"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "paragraph_title",
+          "index": 19,
+          "bbox": [
+            0.51,
+            0.528,
+            0.683,
+            0.541
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "A. Conduction Current"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 20,
+          "bbox": [
+            0.509,
+            0.541,
+            0.932,
+            0.637
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Figure 5 shows the influence of the MgO nano-filler content and MgO micro-filler content on the volume resistivity under the field application of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "40\\mathrm{kV / mm}"
+            },
+            {
+              "type": "text",
+              "content": ". The open signs and solid signs in Fig. 5 are each values of three measurements in the sample with the MgO filler and values without that, respectively. The volume resistivity of the sample with MgO nano-filler was higher than that without"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 21,
+          "bbox": [
+            0.523,
+            0.655,
+            0.906,
+            0.841
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 21,
+              "bbox": [
+                0.523,
+                0.655,
+                0.906,
+                0.841
+              ],
+              "image_path": "images/page_1_chart_21.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 22,
+              "bbox": [
+                0.54,
+                0.849,
+                0.911,
+                0.872
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 5. Dependence of the MgO nano-filler and micro-filler content on volume resistivity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 23,
+          "bbox": [
+            0.485,
+            0.952,
+            0.514,
+            0.963
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "723"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 24,
+          "bbox": [
+            0.096,
+            0.965,
+            0.898,
+            0.977
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on June 20,2025 at 17:40:36 UTC from IEEE Xplore. Restrictions apply."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "bbox": [
+            0.067,
+            0.104,
+            0.492,
+            0.333
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "MgO filler. The MgO nano-filler content above 1 or 2 phr, the volume resistivity of the sample with MgO nano-filler show saturated value. It was reported by the authors that the charge density and the charge mobility of the sample with the MgO nano-filler decreased compared with that without the MgO filler [4]. It is considered that the trapping effect by the addition of the MgO nano-filler may suppresses the conduction current. In the case of the MgO micro-filler, there was increasing trend in some degree with increasing the MgO micro-filler content. However, the volume resistivity of 1 phr sample with the MgO micro-filler decreased than that of 0 phr sample. The sample with MgO nano-filler also exhibited higher volume resistivity compared with the sample with MgO micro-filler in spite of MgO filler content. It was considered that the difference of sectional area around the filler between the MgO nano-filler and the MgO micro-filler influenced the conduction mechanism."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 1,
+          "bbox": [
+            0.068,
+            0.343,
+            0.374,
+            0.357
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "B. DC Breakdown and Impulse Breakdown"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.067,
+            0.357,
+            0.491,
+            0.61
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Figure 6 shows the influence of the MgO nano-filler and micro-filler content on impulse breakdown strength using McKeown type electrode. The breakdown strength was calculated by dividing the breakdown voltage by the film thickness. The error bar and the signs are standard deviation and the average about 10 samples, respectively. The indication in figures is the same with this unless otherwise stated. In the case of the MgO nano-filler sample, the impulse breakdown strength of the sample with the MgO nano-filler increased than that without MgO filler. Above the MgO nano-filler content of 1 phr, the impulse breakdown strength of the sample with MgO nano-filler show also saturated value. In the case of the MgO micro-filler sample, the impulse breakdown strength of the sample with MgO micro-filler compared with that with MgO nano-filler is the same or increased slightly. The sample with MgO nano-filler also exhibited higher impulse breakdown strength compared with the sample with MgO micro-filler in spite of MgO filler content as well as the result of the volume resistivity."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.085,
+            0.61,
+            0.49,
+            0.624
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Figure 7 shows the influence of the MgO nano-filler and"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 4,
+          "bbox": [
+            0.081,
+            0.643,
+            0.48,
+            0.839
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 4,
+              "bbox": [
+                0.081,
+                0.643,
+                0.48,
+                0.839
+              ],
+              "image_path": "images/page_2_chart_4.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 5,
+              "bbox": [
+                0.078,
+                0.843,
+                0.464,
+                0.867
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 6. Influence of MgO nano-filler and micro-filler content on Impulse breakdown strength measured with McKeown type electrode"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 6,
+          "bbox": [
+            0.519,
+            0.111,
+            0.919,
+            0.307
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 6,
+              "bbox": [
+                0.519,
+                0.111,
+                0.919,
+                0.307
+              ],
+              "image_path": "images/page_2_chart_6.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 7,
+              "bbox": [
+                0.516,
+                0.313,
+                0.918,
+                0.337
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 7. Influence of the MgO nano-filler content on DC breakdown strength using McKeown type electrode"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "bbox": [
+            0.508,
+            0.345,
+            0.932,
+            0.545
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "micro-filler content on the DC breakdown strength measured with McKeown type electrode. The DC breakdown strength of the sample with the MgO nano-filler increased than that without MgO nano-filler. Above the MgO nano-filler content of 0.2 or 2 phr, the DC breakdown strength of the sample with MgO nano-filler also showed almost saturated value. These characteristics of the DC breakdown strength of the sample with the MgO nano-filler are strikingly similar to that of the volume resistivity as shown in Fig. 5. In the case of the MgO micro-filler sample, the DC breakdown strength of the sample with the MgO micro-filler is almost the same or deceased slightly compared with that without the MgO filler. The sample with MgO nano-filler also exhibited higher DC breakdown strength compared with the sample with MgO micro-filler in spite of MgO filler content."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.508,
+            0.543,
+            0.932,
+            0.625
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Figure 8 shows the summary of the breakdown strengths measured with the McKeown type electrode. The open signs and solid signs in Fig.8 are the results of the impulse breakdown test and that of the DC breakdown test, respectively. The DC breakdown strength of 0 phr sample is lower than the impulse breakdown strength of that. The effect"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 10,
+          "bbox": [
+            0.521,
+            0.642,
+            0.916,
+            0.84
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 10,
+              "bbox": [
+                0.521,
+                0.642,
+                0.916,
+                0.84
+              ],
+              "image_path": "images/page_2_chart_10.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 11,
+              "bbox": [
+                0.519,
+                0.843,
+                0.912,
+                0.867
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 8. Summary of the average on breakdown test measured McKeown type electrode"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 12,
+          "bbox": [
+            0.485,
+            0.951,
+            0.515,
+            0.963
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "724"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 13,
+          "bbox": [
+            0.096,
+            0.965,
+            0.898,
+            0.977
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on June 20,2025 at 17:40:36 UTC from IEEE Xplore. Restrictions apply."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "bbox": [
+            0.068,
+            0.105,
+            0.49,
+            0.197
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "of the addicting MgO nano-filler excelled under DC field rather than under impulse field. DC breakdown strength of 0 phr sample and the sample with MgO micro-filler was higher than impulse breakdown strength of those while DC breakdown strength of the sample with MgO nano-filler was almost same compared with impulse breakdown strength of that."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "bbox": [
+            0.068,
+            0.197,
+            0.49,
+            0.731
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The addition of a few MgO nano-filler brought the improvement of the volume resistivity, impulse breakdown strength and DC breakdown strength as shown in Figs.5, 6 and 7. Those characteristics of the sample with the MgO nano-filler showed a similar trend which those characteristics were saturated. However it was recognized that the addition of MgO micro-filler did not exhibit improvement of electrical properties. It is suggested that the improvement properties depend on the filler size of MgO and smaller filler size of MgO brought clearly the improvement of electrical properties. It is considered that the higher DC breakdown strength of the sample with MgO nano-filler can be explained by the thermal breakdown process. In other words, it was considered that higher volume resistivity bringing the suppression of joule heating led to higher DC breakdown strength of the sample with the MgO nano-filler. Impulse breakdown strength of the sample with the MgO nano-filler also increased but it is not as effective as that under DC voltage. As mentioned above, DC breakdown strength of the sample with MgO nano-filler was almost same compared with impulse breakdown strength of that. It is considered that DC breakdown strength of the sample with the MgO nano-filler is corresponding to impulse breakdown strength of that since the electron avalanche is considered to be scattered by the MgO nano-filler. However, the saturation, especially on DC breakdown strength, is difficult to be interpreted only by the electron avalanche breakdown process. Breakdown strength of the sample with the MgO micro-filler under DC and impulse voltage are almost same or slightly decrease/increase due to the extinction of the addition effect of the MgO nano-filler, bringing the trap of charge. It was reported by the authors that the suppression effect of conduction current determined by the space charge leads to higher DC breakdown strength of the sample with the MgO nano-filler from the space charge measurement up to the breakdown under ramp voltage with an increment of 500 V/s .[8] The space charge formation strictly depends on an increment rate of applied voltage. Therefore, it is necessary that the relationship of the breakdown strength and the volume resistivity including the effect of the space charge formation and the filler size was investigated."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 2,
+          "bbox": [
+            0.219,
+            0.753,
+            0.34,
+            0.766
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "V. CONCLUSION"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.068,
+            0.776,
+            0.49,
+            0.857
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "To understand influence of MgO filler size on the electrical properties of MgO/LDPE nano-composite and micro-composite materials, their volume resistivity under the DC voltage, the DC breakdown strength and the impulse breakdown strength were measured. The main results are as follows."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.511,
+            0.105,
+            0.932,
+            0.158
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "(1) The volume resistivity of LDPE increases by addition of the MgO nano-filler or the MgO micro-filler. The volume resistivity of nanocomposite is larger than that of microcomposite."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.511,
+            0.158,
+            0.932,
+            0.211
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "(2) The impulse breakdown strength of LDPE measured with McKeown type electrode increases by the addition of the MgO nano-filler but that does not increase by the addition of the MgO micro-filler."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.511,
+            0.211,
+            0.932,
+            0.264
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "(3) The DC breakdown strength of LDPE measured with McKeown type electrode also increases by the addition of the MgO nano-filler but that does not increase by the addition of the MgO micro-filler."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.511,
+            0.265,
+            0.932,
+            0.305
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "(4) It becomes clear that the addition of the MgO nano-filler is suitable for the DC insulating material rather than that of the MgO micro-filler."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 8,
+          "bbox": [
+            0.667,
+            0.319,
+            0.805,
+            0.331
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ACKNOWLEDGMENT"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.51,
+            0.341,
+            0.932,
+            0.382
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "This research work was partly supported by a Grant-in-Aid for Scientific Research (B) (No. 19360130) from the Ministry of Education, Science, Sports, and Culture Japan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 10,
+          "bbox": [
+            0.69,
+            0.394,
+            0.781,
+            0.407
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "REFERENCES"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "ref_text",
+          "index": 11,
+          "bbox": [
+            0.513,
+            0.418,
+            0.929,
+            0.462
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[1] E. Watanaber Y. Takeda, M. Yoshizawa, T. Moriya and M. Nakajima, \"The Effect of Filler Particle Size on Ultrasonic Image of Electrical Breakdown Region in Fill-Added Insulating Materials\", IEEE Conf. Electr. Insul. Dielectr. Phenomena, pp. 697-700, 1996"
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 12,
+          "bbox": [
+            0.513,
+            0.468,
+            0.928,
+            0.49
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[2] T. J. Lewis, “Nanometric Dielectrics”, IEEE Trans. Dielectr. Electr. Insul., vol.1, pp. 812-823, 1994."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 13,
+          "bbox": [
+            0.513,
+            0.496,
+            0.93,
+            0.539
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[3] S. Masuda, S. Okuzumi, R. Kurniant, Y. Murakami, M. Nagao, Y. Murata, Y. Sekiguchi, \"DC Conduction and Electrical Breakdown of MgO/LDPE Nanocomposite\", 2007 Annual Report Conference on Electrical Insulation and Dielectric Phenomena, pp.697-700, 2007"
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 14,
+          "bbox": [
+            0.513,
+            0.545,
+            0.929,
+            0.588
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[4] Y. Murakami, M. Nemoto, S. Okuzumi, S. Masuda, M. Nagao, N. Hozumi, Y. Sekiguchi and Y. Murata, “DC Conduction and Electrical Breakdown of MgO/LDPE Nanocomposite”, IEEE Trans. Dielectr. Electr. Insul., vol.15, pp. 33-39, 2008."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 15,
+          "bbox": [
+            0.513,
+            0.595,
+            0.928,
+            0.628
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[5] R. Kurnianto, Y. Murakami, M. Nagao, N. Hozumi and Y. Murata, Treeing Breakdown in Inorganic-filler/LDPE Nano-composite\", IEEJ Trans.FM., vol.128, No.1, pp. 29-34, 2007."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 16,
+          "bbox": [
+            0.513,
+            0.633,
+            0.93,
+            0.666
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[6] Y. Murata, Y. Sekiguchi, Y. Inoue and M. Kanaoka: \"Investigation of Electrical phenomena of Inorganic-filler/LDPE Nanocomposite Material\", IEEE Inter. Symp. Elect., Insul. Mater., pp.650-653, 2005"
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 17,
+          "bbox": [
+            0.513,
+            0.673,
+            0.929,
+            0.706
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[7] J. J. McKeown, “Intrinsic electric strengths of organic polymeric materials” Proceedings of Institute of Electrical Engineers, vol.112, No.4, pp.824-828(1965)"
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 18,
+          "bbox": [
+            0.513,
+            0.711,
+            0.929,
+            0.754
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[8] Y. Murakami, S. Okuzumi,, M. Nagao, N. Hozumi, Y. Sekiguchii, M. Goshowaki and Y. Murata: \"The Space Charge Measurement in MgO/LDPE Nanocomposite up to the Breakdown under DC Ramp Voltage\", IEEE Inter. Symp. Elect., Insul. Mater., 2008"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 19,
+          "bbox": [
+            0.486,
+            0.952,
+            0.514,
+            0.963
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "725"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 20,
+          "bbox": [
+            0.096,
+            0.965,
+            0.898,
+            0.976
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on June 20,2025 at 17:40:36 UTC from IEEE Xplore. Restrictions apply."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

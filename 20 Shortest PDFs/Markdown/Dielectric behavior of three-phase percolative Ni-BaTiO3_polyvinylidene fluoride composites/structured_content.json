@@ -1,0 +1,969 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.07,
+            0.058,
+            0.121,
+            0.441
+          ],
+          "content": "Applied Physics Letters"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.198,
+            0.087,
+            0.517,
+            0.1
+          ],
+          "content": "RESEARCH ARTICLE | DECEMBER 16 2002"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.199,
+            0.102,
+            0.854,
+            0.144
+          ],
+          "level": 1,
+          "content": "Dielectric behavior of three-phase percolative Ni–BaTiO3 /polyvinylidene fluoride composites "
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.2,
+            0.148,
+            0.4,
+            0.162
+          ],
+          "content": "Z.-M. Dang; Y. Shen; C.-W. Nan"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.212,
+            0.171,
+            0.348,
+            0.184
+          ],
+          "content": "Check for updates"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.2,
+            0.191,
+            0.409,
+            0.204
+          ],
+          "content": "**Appl. Phys. Lett.** 81, 4814–4816 (2002)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.2,
+            0.204,
+            0.382,
+            0.217
+          ],
+          "content": "[https://doi.org/10.1063/1.1529085](https://doi.org/10.1063/1.1529085)"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.747,
+            0.235,
+            0.871,
+            0.295
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_7.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.214,
+            0.322,
+            0.498,
+            0.338
+          ],
+          "level": 2,
+          "content": "Articles You May Be Interested In"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.214,
+            0.349,
+            0.858,
+            0.378
+          ],
+          "content": "[Low loss high dielectric permittivity of polyvinylidene fluoride and K x Ti y Ni 1 − x − y O   ( x = 0.05 ,   y = 0.02 ) composites](https://pubs.aip.org/aip/jap/article/107/12/124115/146158/Low-loss-high-dielectric-permittivity-of)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.216,
+            0.383,
+            0.361,
+            0.396
+          ],
+          "content": "**J. Appl. Phys.** (June 2010)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.215,
+            0.401,
+            0.825,
+            0.417
+          ],
+          "content": "[On the question of percolation threshold in polyvinylidene fluoride/nanocrystalline nickel composites](https://pubs.aip.org/aip/apl/article/92/13/132905/238204/On-the-question-of-percolation-threshold-in)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.216,
+            0.42,
+            0.373,
+            0.434
+          ],
+          "content": "**Appl. Phys. Lett.** (April 2008)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.215,
+            0.439,
+            0.81,
+            0.454
+          ],
+          "content": "[Size-dependences of the dielectric and ferroelectric properties of BaTiO 3 /polyvinylidene fluoride](https://pubs.aip.org/aip/jap/article/108/1/014102/395117/Size-dependences-of-the-dielectric-and)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.216,
+            0.455,
+            0.323,
+            0.468
+          ],
+          "content": "[nanocomposites](https://pubs.aip.org/aip/jap/article/108/1/014102/395117/Size-dependences-of-the-dielectric-and)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.216,
+            0.473,
+            0.356,
+            0.486
+          ],
+          "content": "**J. Appl. Phys.** (July 2010)"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.219,
+            0.766,
+            0.485,
+            0.902
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_16.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.578,
+            0.782,
+            0.848,
+            0.817
+          ],
+          "content": "Your One-Stop Shop for the Best Brands in Optics"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.512,
+            0.826,
+            0.913,
+            0.838
+          ],
+          "content": "• Extensive inventory with over 34.000 products available & 2.900 new products"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.55,
+            0.837,
+            0.875,
+            0.848
+          ],
+          "content": "• Fast shipping from our 9 distribution centres around the globe"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.848,
+            0.877,
+            0.86
+          ],
+          "content": "• Bringing 80+ years of optical expertise to customers worldwide"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.97,
+            0.462,
+            0.987,
+            0.537
+          ],
+          "content": "07 July 2025 16:15:22"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.022,
+            0.871,
+            0.181,
+            0.904
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.587,
+            0.876,
+            0.737,
+            0.897
+          ],
+          "content": "CO Edmund"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.766,
+            0.879,
+            0.828,
+            0.892
+          ],
+          "content": "Shop Now"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.081,
+            0.033,
+            0.258,
+            0.045
+          ],
+          "content": "APPLIED PHYSICS LETTERS"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.446,
+            0.033,
+            0.606,
+            0.045
+          ],
+          "content": "VOLUME 81, NUMBER 25"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.795,
+            0.033,
+            0.918,
+            0.045
+          ],
+          "content": "16 DECEMBER 2002"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.079,
+            0.062,
+            0.874,
+            0.104
+          ],
+          "level": 1,
+          "content": "Dielectric behavior of three-phase percolative Ni–BaTiO<sub>3</sub>Õpolyvinylidene fluoride composites"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.138,
+            0.11,
+            0.424,
+            0.126
+          ],
+          "content": "Z.-M. Dang, Y. Shen, and C.-W. Nan<sup>a)</sup>"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.695,
+            0.968,
+            0.918,
+            0.982
+          ],
+          "content": "© 2002 American Institute of Physics"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.137,
+            0.125,
+            0.676,
+            0.153
+          ],
+          "content": "Department of Materials Science and Engineering, Tsinghua University, Beijing 100084, People’s Republic of China"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.138,
+            0.158,
+            0.529,
+            0.174
+          ],
+          "content": "\\~Received 4 September 2002; accepted 19 October 2002!"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.137,
+            0.18,
+            0.801,
+            0.304
+          ],
+          "content": "A three-phase percolative composite with a ferroelectric phase $\\mathrm{(BaTiO_{3})}$ and metallic inclusions \\~Ni! embedded into polyvinylidene fluoride matrix was prepared by using a simple blending and hot-molding technique. Effective medium approximations and percolation theory were employed in order to design and describe the dielectric behavior of such three-phase composites. Our experimental results showed that the static dielectric constant of such a three-phase composite can reach above 800 when the Ni concentration is close to its percolation threshold. Such composites have a potential to become capacitors and can be easily fabricated into various shapes due to its flexibility. © 2002 American Institute of Physics. @DOI: 10.1063/1.1529085#"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.34,
+            0.489,
+            0.795
+          ],
+          "content": "Recently, particulate composites \\~so-called 0–3 composites! of ferroelectric ceramics and polymers have attracted much attention due to their easy processing and flexibility \\~see, for example, Refs. 1 and 2!. As dielectric materials, however, the dielectric constant of such 0–3 polymer–matrix composites still keeps a low level of about 50 at room temperature.<sup>1–5</sup> For example, in a $\\mathrm { B a T i O } _ { 3 }$ /epoxy composite, though $\\mathrm { B a T i O } _ { 3 }$ has a relative high dielectric constant above 1000, the effective dielectric constant of the composite with high $\\mathrm { B a T i O } _ { 3 }$ concentration still remains a relatively low value due to lower dielectric constant of the epoxy matrix. Bai $e t   a { l . } ^ { 1 }$ have reported a high dielectric constant of «$= 2 5 0$ in the polymer–matrix composite with high concentration \\~50 vol %! of relaxor ferroelectric ceramic particles, which makes the composite lose its flexibility. On the other hand, Pecharroman et $a { l _ { \\ast } ^ {   6 } }$ have reported $\\mathrm{Ni/BaTiO}_{3}$ metal/ ceramic composites with high dielectric constant of «$= 8 0   0 0 0$ but the metal/ceramic composites still need to be sintered at high temperature about $1 3 0 0   ^ { \\circ } \\mathrm { C }$ under the special protection of preventing from oxidation of Ni. In this work, we report a three-phase polymer–matrix composite with high dielectric constant of above 500. The composite is based on the mixture rules and percolation theory, and consists of an insulating polymer matrix and small, homogeneously distributed ferroelectrics ceramic particles $\\mathrm{(BaTiO_{3})}$ and metallic particles \\~Ni!. Such a three-phase polymer–matrix composite is flexible, and can be easily fabricated into various shapes with low processing temperature. It might be attractive for applications in capacitors and electric energy storage devices."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.795,
+            0.489,
+            0.916
+          ],
+          "content": "The electrical properties of such composites can be analyzed by percolation theory when metallic filler concentration is close to the percolation threshold. Though their electrical properties have widely been investigated in recent years, they have not yet been well-understood under alternating current. It is well known that this type of composite demonstrates a metal–insulator transition with increasing metallic filler concentration. Several teams have found ex-"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.34,
+            0.919,
+            0.475
+          ],
+          "continues_prev": true,
+          "content": "perimental evidence of a rise in the dielectric constant in the neighborhood of the percolation threshold.<sup>6–11</sup> The dielectric constant of such composites can be much larger than that of the polymer matrix. This abnormal behavior can be comprehended if one takes into account the fact that near the percolation threshold there are many conducting particles secluded by thin insulating layers. Therefore, the composites in the neighborhood of the percolation threshold could become a capacitor."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.476,
+            0.92,
+            0.673
+          ],
+          "content": "Our composites were prepared by a simple blending and hot-molding procedure. $\\mathrm { B a T i O } _ { 3 }$ and Ni powders with a nearly spherical shape were used and their grain sizes are about 1 and $0 . 2 \\quad \\mu \\mathrm { m } ,$ respectively. Polyvinylidene fluoride \\~PVDF! power was used as the polymer matrix. A suitable amount of $\\mathrm { B a T i O } _ { 3 }$ and Ni powders were blended with PVDF powder. The mixtures were then molded by pressing at about $2 0 0   ^ { \\circ } \\mathrm { C }$ under a pressure of 10 MPa. Disk-shaped samples of 12 mm in diameter were cut from the molded sheet \\~1 mm in thickness! and silver-paint electrodes were applied to the samples. The dielectric properties of the samples were measured using an HP 4192A impedance analyzer in the frequency range of 100 Hz–40 MHz at room temperature."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.673,
+            0.921,
+            0.764
+          ],
+          "content": "Figure 1\\~a! shows the dielectric constant at 100 Hz for the two-phase Ba $\\mathrm{TiO}_{3}/\\mathrm{PVDF}$ composites. As expected, the dielectric constant increases with the volume fraction of $\\mathrm { B a T i O } _ { 3 }$ . For illustration and comparison, Fig. 1\\~a! also shows the calculations from well-known Maxwell–Garnett approximation:<sup>7,12</sup>"
+        },
+        {
+          "type": "equation",
+          "bbox": [
+            0.537,
+            0.772,
+            0.916,
+            0.813
+          ],
+          "content": "\\varepsilon = \\varepsilon_ {1} \\left(1 + \\frac {3 f _ {\\mathrm{BaTiO} _ {3}} \\beta}{1 - f _ {\\mathrm{BaTiO} _ {3}} \\beta}\\right),\\tag{1}",
+          "image_source": "images/page_1_equation_14.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.509,
+            0.821,
+            0.918,
+            0.851
+          ],
+          "content": "and Bruggeman self-consistent effective medium approximation:<sup>7,12,13</sup>"
+        },
+        {
+          "type": "equation",
+          "bbox": [
+            0.538,
+            0.865,
+            0.916,
+            0.896
+          ],
+          "content": "(1 - f _ {\\mathrm{BaTiO} _ {3}}) \\frac {\\varepsilon_ {1} - \\varepsilon}{\\varepsilon_ {1} + 2 \\varepsilon} + f _ {\\mathrm{BaTiO} _ {3}} \\frac {\\varepsilon_ {2} - \\varepsilon}{\\varepsilon_ {2} + 2 \\varepsilon} = 0,\\tag{2}",
+          "image_source": "images/page_1_equation_16.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.509,
+            0.905,
+            0.919,
+            0.951
+          ],
+          "content": "where $\\beta = ( \\varepsilon _ { 2 } - \\varepsilon _ { 1 } ) / ( \\varepsilon _ { 2 } + 2 \\varepsilon _ { 1 } ) ;$ « is the dielectric constant of the $\\mathrm{BaTiO}_{3}/\\mathrm{PVDF}$ composite; $\\varepsilon _ { 1 }   =   8 . 5$ and $\\varepsilon _ { 2 }   =   3 0 0 0$ are used as the dielectric constants of the PVDF matrix and"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.972,
+            0.46,
+            0.987,
+            0.54
+          ],
+          "content": "07 July 2025 16:15:22"
+        },
+        {
+          "type": "page_footnote",
+          "bbox": [
+            0.081,
+            0.936,
+            0.311,
+            0.951
+          ],
+          "content": "<sup>a</sup>!Electronic mail: cwnan@tsinghua.edu.cn"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.081,
+            0.967,
+            0.31,
+            0.982
+          ],
+          "content": "0003-6951/2002/81(25)/4814/3/\\$19.00"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.483,
+            0.969,
+            0.516,
+            0.981
+          ],
+          "content": "4814"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.081,
+            0.033,
+            0.399,
+            0.048
+          ],
+          "content": "Appl. Phys. Lett., Vol. 81, No. 25, 16 December 2002"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.726,
+            0.034,
+            0.859,
+            0.047
+          ],
+          "content": "Dang, Shen, and Nan"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.884,
+            0.034,
+            0.918,
+            0.046
+          ],
+          "content": "4815"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.128,
+            0.068,
+            0.433,
+            0.26
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_chart_3.jpg"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.133,
+            0.272,
+            0.439,
+            0.464
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.131,
+                0.463,
+                0.151,
+                0.476
+              ],
+              "content": "(b)"
+            },
+            {
+              "bbox": [
+                0.079,
+                0.487,
+                0.488,
+                0.553
+              ],
+              "content": "FIG. 1. \\~a! Variation of the dielectric constant « of the BaTiO<sub>3</sub> /PVDF composites with the volume fraction of $\\mathrm { B a T i O } _ { 3 }$ particles, $f _ { \\mathrm { B a T i O } _ { 2 } }$ . For comparison, the calculations by using Maxwell–Garrett and Bruggeman equations are also shown; \\~b! SEM micrographs of the fractured surface of the BaTiO<sub>3</sub> /PVDF composite with $f _ { \\mathrm { B a T i O } _ { 3 } }   =   0 . 4$"
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_2_image_4.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.568,
+            0.489,
+            0.985
+          ],
+          "content": "Ba $\\mathrm { T i O } _ { 3 }$ ceramic particles, respectively; and $f _ { \\mathrm { B a T i O } _ { 3 } }$ is the volume fraction of the $\\mathrm { B a T i O } _ { 3 }$ particles. The Maxwell– Garnett approximation is known to be reasonable for matrixbased composites consisting of a continuum matrix with embedded inclusions, while in Bruggeman self-consistent effective medium approximation each phase is equally treated. As seen from Fig. 1\\~a!, at $f _ { \\mathrm { B a T i O } _ { 3 } } \\mathrm { < } 0 . 1 5$ , the experimental results are in good agreement with those calculated by using Eqs. \\~1! and \\~2!, both of which give similar results. $As $f _ { \\mathrm { B a T i O } _ { 3 } }$$ increases, there are some $\\mathrm { B a T i O } _ { 3 }$ ceramic particles aggregated in the composites. If there are particle clusters and continuous percolation cluster in the composites, the Maxwell–Garnett approximation underestimates the effective dielectric constant of the composites, as shown in Fig. $1(a). \\mathrm{At} f_{\\mathrm{BaTiO}_3}=0.2$ , the enhancement in the effective dielectric constant of the composite reaches as high as 3–4 times of that of the polymer matrix. As $f _ { \\mathrm { B a T i O } _ { 3 } } \\mathrm { > } 0 . 2$ , some $\\mathrm { B a T i O } _ { 3 }$ particles begin to aggregate to form particle clusters. In the case of large $f _ { \\mathrm { B a T i O } _ { 3 } } ,$ , Bruggeman effective medium approximation is more valid.<sup>7</sup> However, Fig. 1\\~a! illustrates that the experimental data are lower than those calculated from Eq. \\~2! for $f _ { \\mathrm { B a T i O } _ { 3 } } \\mathrm { > } 0 . 2$ , especially in the high $f _ { \\mathrm { B a T i O } _ { 3 } }$ range, and even the dielectric constant decreases as $f _ { \\mathrm { B a T i O } _ { 3 } } \\mathrm { > } 0 . 5$ . The lower dielectric constant than expected in the high $f _ { \\mathrm { B a T i O } _ { 3 } }$ range is due to pores caused by the high concentration of ceramic fillers. SEM micrograph @Fig. 1\\~b!# of the fractured"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.578,
+            0.065,
+            0.855,
+            0.228
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.509,
+                0.237,
+                0.918,
+                0.299
+              ],
+              "content": "FIG. 2. Variation of the effective dielectric constant e of the Ni–BaTiO<sub>3</sub> /PVDF composites with the Ni volume fraction, $f _ { \\mathrm { N i } }   .$ The solid line denotes the fit of the experimental data to Eq. \\~3!. Dependence of the dielectric loss tan d on $f _ { \\mathrm { N i } }$ is shown in the inset, and the solid line is a guide for the eyes."
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_2_chart_8.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.509,
+            0.322,
+            0.918,
+            0.385
+          ],
+          "continues_prev": true,
+          "content": "surface for the $\\mathrm{BaTiO}_{3}/\\mathrm{PVDF}$ composite with $f _ { \\mathrm { B a T i O } _ { 3 } }   =   0 . 4$ shows that there are pores in the sample. Therefore, in this work, the volume fraction of $\\mathrm { B a T i O } _ { 3 }$ powder in the composites is chosen as 0.2 for further investigation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.385,
+            0.919,
+            0.538
+          ],
+          "content": "The dielectric constant of the $\\mathrm{BaTiO}_{3}/\\mathrm{PVDF}$ composites can be enhanced further by addition of metallic particles in terms of the percolation phenomenon. Figure 2 shows the dielectric behavior measured for the three-phase $\\mathrm{Ni}-\\mathrm{BaTiO}_{3}/\\mathrm{PVDF}$ composites. Usually only a small increase in the dielectric constant occurs unless the metallic particle concentration is very close to the percolation thresh old. This is because the variation of the effective dielectric constant in the neighborhood of the percolation threshold is given by the following power law:"
+        },
+        {
+          "type": "equation",
+          "bbox": [
+            0.538,
+            0.553,
+            0.916,
+            0.59
+          ],
+          "content": "\\varepsilon = \\varepsilon_ {o} \\left| \\frac {f _ {c} - f _ {\\mathrm{Ni}}}{f _ {c}} \\right| ^ {- q},\\tag{3}",
+          "image_source": "images/page_2_equation_12.jpg"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.586,
+            0.604,
+            0.851,
+            0.769
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_chart_13.jpg"
+        },
+        {
+          "type": "chart",
+          "bbox": [
+            0.576,
+            0.78,
+            0.854,
+            0.945
+          ],
+          "content": "",
+          "captions": [
+            {
+              "bbox": [
+                0.51,
+                0.958,
+                0.918,
+                0.984
+              ],
+              "content": "FIG. 3. \\~a! Dielectric constant « and \\~b! electrical conductivity s of the Ni–BaTiO<sub>3</sub> /PVDF composites as a function of frequency f."
+            }
+          ],
+          "footnotes": [],
+          "image_source": "images/page_2_chart_14.jpg"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.972,
+            0.459,
+            0.986,
+            0.54
+          ],
+          "content": "07 July 2025 16:15:22"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "page_number",
+          "bbox": [
+            0.081,
+            0.034,
+            0.115,
+            0.046
+          ],
+          "content": "4816"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.139,
+            0.034,
+            0.458,
+            0.047
+          ],
+          "content": "Appl. Phys. Lett., Vol. 81, No. 25, 16 December 2002"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.785,
+            0.034,
+            0.918,
+            0.048
+          ],
+          "content": "Dang, Shen, and Nan"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.065,
+            0.489,
+            0.279
+          ],
+          "content": "where $\\varepsilon _ { o }$ is the dielectric constant of $\\mathrm{BaTiO}_{3}/\\mathrm{PVDF}$ composite with $f_{\\mathrm{BaTiO}_{3}}=0.2\\left[\\mathrm{Fig.~1(a)}\\right],f_{\\mathrm{Ni}}$ is the volume fraction of the metallic Ni particles, $f _ { c }$ is the percolation threshold, and q is a critical exponent of about 1. As can be seen in Fig. 2, the experimental values of the dielectric constant are in good agreement with Eq. \\~3!, with $f _ { \\mathrm { N i } }   \\approx   0 . 2 3$ and $q   \\sim   1$ . Of interesting to note is that the values of the effective dielectric constant at room temperature can reach up to 800. Similarly to the change in the dielectric constant with $f _ { \\mathrm { N i } }$ , the dielectric loss tan d of the composites increases with $f _ { \\mathrm { N i } }$ \\~see the inset in Fig. 2!. At the same percolation threshold tan d also sharply increases. Though the value of tan d is about 0.5 at the percolation threshold, it is still acceptable for applications."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.279,
+            0.489,
+            0.401
+          ],
+          "content": "Figure 3 shows the dielectric constant and electrical conductivity as a function of frequency f. The dielectric constant shows a slight drop with increasing frequency for the composites with lower Ni volume fraction such as $f _ { \\mathrm { N i } }   \\leqslant   0 . 1 8$ @Fig. 3\\~a!#, while the dielectric constant of the composites with $f _ { \\mathrm { N i } } { \\longrightarrow } f _ { c }$ reduces more rapidly with frequency. Accordingly, the conductivity s increases with frequency @Fig. 3\\~b!#. According to the percolation theory,7 as $f _ { \\mathrm { N i } } { \\longrightarrow } f _ { c }$"
+        },
+        {
+          "type": "equation",
+          "bbox": [
+            0.108,
+            0.406,
+            0.485,
+            0.421
+          ],
+          "content": "\\sigma^ {\\propto} \\omega^ {u}, \\varepsilon^ {\\propto} \\omega^ {u - 1},\\tag{4}",
+          "image_source": "images/page_3_equation_5.jpg"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.429,
+            0.488,
+            0.475
+          ],
+          "content": "where $\\omega = 2 \\pi f$ and u is a critical exponent. The data for the composite with $f_{ Ni } = 0.22   [ Fig.  3(a)]   give   u = 0.83$ which is close to the normal value from the percolation theory.<sup>7</sup>"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.508,
+            0.065,
+            0.92,
+            0.203
+          ],
+          "content": "In summary, a three-phase percolative composites with a ferroelectrics phase $\\mathrm{(BaTiO_{3})}$ and metallic inclusions \\~Ni! embedded into the PVDF matrix has been prepared using a blending and hot-molding technique. The experimental results have shown that the effective dielectric constant of the percolative composites can be greatly enhanced. The easy processing, flexibility, and good dielectric behavior of the three-phase particulate composites potentially make the composites particularly attractive for practical applications."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.509,
+            0.211,
+            0.919,
+            0.242
+          ],
+          "content": "This work was supported by the NSF of China \\~Grant Nos. 50232030 and 50172026! and Tsinghua Foundation."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.515,
+            0.257,
+            0.917,
+            0.282
+          ],
+          "content": "1 <sub>Y</sub>. Bai, Z.-Y. Cheng, V. Bharti, H. S. Xu, and Q. M. Zhang, Appl. Phys. Lett. 76, 3804 \\~2000!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.516,
+            0.282,
+            0.917,
+            0.306
+          ],
+          "content": "2 <sub>D</sub>.-H. Kuo, C.-C. Chang, T.-Y. Su, W.-K. Wang, and B.-Y. Lin, J. Eur. Ceram. Soc. 21, 1171 \\~2001!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.516,
+            0.305,
+            0.917,
+            0.33
+          ],
+          "content": "3 <sub>R</sub>. Gregorio, J. M. Cestari, and F. E. Bernardino, J. Mater. Sci. 31, 2925 \\~1996!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.516,
+            0.33,
+            0.917,
+            0.354
+          ],
+          "content": "4 <sub>H</sub>. L. W. Chan, W. K. Chan, Y. Zhang, and C. L. Choy, IEEE Trans. Electr. Insul. 5, 505 \\~1998!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.516,
+            0.353,
+            0.917,
+            0.366
+          ],
+          "content": "5 <sub>C</sub>. J. Dias and D. K. Das-Gupta, IEEE Trans. Electr. Insul. 3, 706 \\~1996!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.516,
+            0.366,
+            0.917,
+            0.389
+          ],
+          "content": "6 <sub>C</sub>. Pecharroman, F. Esteban-Bategon, and J. S. Moya, Adv. Mater. 13, 1541 \\~2001!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.516,
+            0.389,
+            0.755,
+            0.402
+          ],
+          "content": "7 <sub>C</sub>. W. Nan, Prog. Mater. Sci. 37, 1 \\~1993!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.515,
+            0.401,
+            0.854,
+            0.414
+          ],
+          "content": "8 <sub>C</sub>. Pecharroman and J. S. Moya, Adv. Mater. 12, 294 \\~2000!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.514,
+            0.413,
+            0.858,
+            0.426
+          ],
+          "content": "9 J. J. Wu and D. S. McLachlan, Phys. Rev. B 56, 1236 \\~1997!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.425,
+            0.866,
+            0.438
+          ],
+          "content": "10 J. J. Wu and D. S. McLachlan, Phys. Rev. B 58, 14880 \\~1998!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.437,
+            0.766,
+            0.45
+          ],
+          "content": "11 <sub>C</sub>. Brosseau, J. Appl. Phys. 91, 3197 \\~2002!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.449,
+            0.766,
+            0.461
+          ],
+          "content": "12 <sub>C</sub>.-W. Nan, Phys. Rev. B 63, 176201 \\~2001!."
+        },
+        {
+          "type": "ref_text",
+          "bbox": [
+            0.513,
+            0.461,
+            0.844,
+            0.475
+          ],
+          "content": "13 <sub>D</sub>. A. G. Bruggeman, Ann. Phys. \\~Leipzig! 24, 636 \\~1935!."
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.971,
+            0.459,
+            0.987,
+            0.54
+          ],
+          "content": "07 July 2025 16:15:22"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.9"
+    },
+    "document": {
+      "created_at": "2025-07-07T16:15:24+00:00",
+      "modified_at": "2025-07-07T16:15:24+00:00",
+      "producer_application": "iTextSharp 4.1.6 by 1T3XT",
+      "page_count": 4,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "txt"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 842.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

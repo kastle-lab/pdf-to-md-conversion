@@ -1,0 +1,20 @@
+{
+  "source": "model_output.json",
+  "footnotes_found": 1,
+  "kept": 1,
+  "removed": 0,
+  "matched_and_removed_from_markdown": 0,
+  "items": [
+    {
+      "page_idx": null,
+      "type": "footnote",
+      "text": "a The value of low field (about 3 V/mm) dielectric constant is from the dielectric spectroscopy measurement.",
+      "decision": "keep",
+      "reason": "uncertain_kept_conservatively",
+      "noise_signals": [],
+      "useful_signals": [],
+      "affiliation_like": false
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,2007 @@
+{
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.9"
+    },
+    "document": {
+      "created_at": "2025-06-23T19:33:41+00:00",
+      "modified_at": "2025-06-23T19:33:41+00:00",
+      "producer_application": "iTextSharp 4.1.6 by 1T3XT",
+      "page_count": 4,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "txt"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 842.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "index": 0,
+          "bbox": [
+            0.07,
+            0.058,
+            0.121,
+            0.441
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Applied Physics Letters"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.198,
+            0.087,
+            0.486,
+            0.1
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "RESEARCH ARTICLE | MARCH 24 2003"
+            }
+          ]
+        },
+        {
+          "type": "doc_title",
+          "index": 2,
+          "bbox": [
+            0.2,
+            0.103,
+            0.753,
+            0.144
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Rescaled electrical properties of ZnO/low density polyethylene nanocomposites "
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.2,
+            0.148,
+            0.537,
+            0.162
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "J. I. Hong; L. S. Schadler; R. W. Siegel; E. Mårtensson"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.21,
+            0.171,
+            0.347,
+            0.184
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Check for updates"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.201,
+            0.191,
+            0.41,
+            0.203
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Appl. Phys. Lett.",
+              "styles": [
+                "bold"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " 82, 1956–1958 (2003)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.2,
+            0.205,
+            0.381,
+            0.217
+          ],
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://doi.org/10.1063/1.1563306",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "https://doi.org/10.1063/1.1563306"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 7,
+          "bbox": [
+            0.747,
+            0.235,
+            0.871,
+            0.295
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 7,
+              "bbox": [
+                0.747,
+                0.235,
+                0.871,
+                0.295
+              ],
+              "image_path": "images/page_0_image_7.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 8,
+          "bbox": [
+            0.214,
+            0.322,
+            0.497,
+            0.337
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Articles You May Be Interested In"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.215,
+            0.349,
+            0.84,
+            0.363
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Distinctive electrical properties in sandwich-structured "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }"
+            },
+            {
+              "type": "text",
+              "content": " "
+            },
+            {
+              "type": "hyperlink",
+              "url": "https://pubs.aip.org/aip/apl/article/108/9/092902/31720/Distinctive-electrical-properties-in-sandwich",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "/low density polyethylene nanocomposites"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "bbox": [
+            0.217,
+            0.368,
+            0.382,
+            0.381
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Appl. Phys. Lett.",
+              "styles": [
+                "bold"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " (March 2016)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "bbox": [
+            0.215,
+            0.386,
+            0.757,
+            0.401
+          ],
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://pubs.aip.org/aip/apl/article/102/1/012902/126725/Space-charge-suppression-induced-by-deep-traps-in",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Space charge suppression induced by deep traps in polyethylene/zeolite nanocomposite"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "bbox": [
+            0.216,
+            0.405,
+            0.391,
+            0.419
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Appl. Phys. Lett.",
+              "styles": [
+                "bold"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " (January 2013)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "bbox": [
+            0.215,
+            0.424,
+            0.804,
+            0.438
+          ],
+          "content": [
+            {
+              "type": "hyperlink",
+              "url": "https://pubs.aip.org/aip/apl/article/99/14/142903/908831/Effect-of-deep-trapping-states-on-space-charge",
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Effect of deep trapping states on space charge suppression in polyethylene/ZnO nanocomposite"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "bbox": [
+            0.216,
+            0.443,
+            0.39,
+            0.456
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Appl. Phys. Lett.",
+              "styles": [
+                "bold"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " (October 2011)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "bbox": [
+            0.43,
+            0.782,
+            0.696,
+            0.803
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Applied Physics Letters"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "bbox": [
+            0.43,
+            0.81,
+            0.782,
+            0.861
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Special Topics Open for Submissions"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 17,
+          "bbox": [
+            0.022,
+            0.871,
+            0.18,
+            0.904
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Publishing"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 18,
+          "bbox": [
+            0.218,
+            0.765,
+            0.417,
+            0.903
+          ],
+          "content": []
+        },
+        {
+          "type": "text",
+          "index": 19,
+          "bbox": [
+            0.431,
+            0.873,
+            0.553,
+            0.89
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Learn More"
+            }
+          ]
+        },
+        {
+          "type": "aside_text",
+          "index": 20,
+          "bbox": [
+            0.971,
+            0.461,
+            0.987,
+            0.54
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "23 June 2025 19:33:40"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 21,
+          "bbox": [
+            0.791,
+            0.871,
+            0.912,
+            0.898
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Publishing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "footer",
+          "index": 0,
+          "bbox": [
+            0.696,
+            0.968,
+            0.918,
+            0.982
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "© 2003 American Institute of Physics"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.081,
+            0.033,
+            0.258,
+            0.045
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "APPLIED PHYSICS LETTERS"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 2,
+          "bbox": [
+            0.458,
+            0.032,
+            0.618,
+            0.045
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "VOLUME 82, NUMBER 12"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 3,
+          "bbox": [
+            0.817,
+            0.033,
+            0.918,
+            0.045
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "24 MARCH 2003"
+            }
+          ]
+        },
+        {
+          "type": "doc_title",
+          "index": 4,
+          "bbox": [
+            0.079,
+            0.062,
+            0.781,
+            0.103
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Rescaled electrical properties of ZnOÕlow density polyethylene nanocomposites"
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.138,
+            0.11,
+            0.476,
+            0.126
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "J. I. Hong, L. S. Schadler,"
+            },
+            {
+              "type": "text",
+              "content": "a",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ") and R. W. Siegel"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.137,
+            0.125,
+            0.675,
+            0.152
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Materials Science and Engineering Department and Rensselaer Nanotechnology Center, Rensselaer Polytechnic Institute, Troy, New York 12180"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.138,
+            0.157,
+            0.253,
+            0.173
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "E. Mårtensson"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "bbox": [
+            0.138,
+            0.171,
+            0.478,
+            0.186
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ABB Corporate Research, SE-721 78 Västerås, Sweden"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.138,
+            0.192,
+            0.526,
+            0.208
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "~Received 4 November 2002; accepted 3 February 2003!"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "bbox": [
+            0.137,
+            0.215,
+            0.8,
+            0.337
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ZnO/low density polyethylene ~LDPE! nanocomposites were prepared using melt mixing with good dispersion of the ZnO nanoparticles. The electrical properties ~dc resistivity and breakdown strength! of the composite with various concentrations of ZnO up to the percolation limit were measured and compared to the corresponding electrical properties of submicron ZnO filled LDPE. It was observed that the nanocomposites exhibited a lower percolation limit and a slower decrease in resistivity with filler concentration compared to the conventional composite. The dielectric breakdown strength was also found to be higher for the nanocomposite at high filler concentration. © 2003 American Institute of Physics. @DOI: 10.1063/1.1563306#"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "bbox": [
+            0.078,
+            0.373,
+            0.489,
+            0.652
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Polymers are often used for electrical insulation. The chemical stability of polymers allows their use in harsh conditions, and polymers are generally regarded as a good insulating material. Both the mechanical and electrical properties of polymers can be further improved or modified with the addition of inorganic fillers. Increases in the mechanical strength of nanocomposites have been reported and changes in electrical conductivity due to the addition of carbon black or another conductive filler"
+            },
+            {
+              "type": "text",
+              "content": "4,5",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " have been studied for many years. The properties have been found to change with the dispersion state, geometric shape, and surface quality of the filler particles, as well as with the particle size. In recent years, nanoscale fillers have attracted interest because the properties of nanoparticles are different from bulk materials due to their small size and corresponding increase in surface area."
+            },
+            {
+              "type": "text",
+              "content": "8–1",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "1 Thus, it is expected that the addition of nanoparticles into a polymer will lead to an unprecedented ability to control the electrical properties of filled polymers."
+            },
+            {
+              "type": "text",
+              "content": "12,13",
+              "styles": [
+                "superscript"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "bbox": [
+            0.077,
+            0.653,
+            0.49,
+            0.917
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Low density polyethylene ~LDPE! was chosen as a representative polymer matrix in this work because it is one of the most widely used polymers for electrical insulation in the cable and wire industry due to its high breakdown strength and resistivity."
+            },
+            {
+              "type": "text",
+              "content": "14",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " Another advantage is that good dispersion of the filler can be achieved through melt mixing. ZnO is a semiconducting material well known for its nonlinear electrical conducting properties, and has been studied by many researchers.15–17 The conductivity of ZnO is much higher than that of LDPE and is dominated by the properties of its surfaces.18 The conductivities of ZnO/LDPE composites are thus expected to change, depending on the concentration of ZnO filler, as the ZnO interparticle distance and surface chemistry changes. However, the detailed relationship between the filler concentration and conductivity of the composite is unknown. The behavior near the percolation threshold, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "p _ { c }"
+            },
+            {
+              "type": "text",
+              "content": " , at which filler concentration the resistivity"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "bbox": [
+            0.508,
+            0.372,
+            0.919,
+            0.45
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "starts to change rapidly, is also of interest."
+            },
+            {
+              "type": "text",
+              "content": "19",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " Classical percolation theory predicts a power law dependence of conductivity on the filler concentration, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\sigma   \\approx   ( p   -   p _ { c } ) ^ { t }"
+            },
+            {
+              "type": "text",
+              "content": " , with exponent t52."
+            },
+            {
+              "type": "text",
+              "content": "19,20",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " However, experimental measurements frequently reported t values different from 2.21,22"
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "bbox": [
+            0.508,
+            0.45,
+            0.919,
+            0.512
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In this letter, we attempt to understand how ZnO nanoparticles and their surfaces affect the electrical properties of ZnO/LDPE polymer composites in comparison to those filled with conventional submicron size ZnO."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "bbox": [
+            0.508,
+            0.512,
+            0.919,
+            0.665
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ZnO/LDPE nanocomposites were produced by melt mixing commercial grade DOW 681I and 49 nm diameter ZnO nanoparticles in a Haake batch mixer. ZnO nanoparticles were obtained from Nanophase Technologies Corporation. To avoid any thermal degradation of the polymer matrix, the mixing time was set to 10–13 min at 200 °C.23 The specimen was then hot pressed into a disc shape with a diameter of 63.5 mm and a thickness of ;0.4 mm for the measurements of dc resistivity. ZnO/LDPE composites with ZnO several hundred nanometers in diameter were processed similarly."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "bbox": [
+            0.509,
+            0.665,
+            0.919,
+            0.712
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In order to realize the full effects of nanoscale fillers on the nanocomposite properties, they must be dispersed well in the matrix. Figure 1 shows a FESEM micrograph of the frac-"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 17,
+          "bbox": [
+            0.557,
+            0.735,
+            0.872,
+            0.913
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 17,
+              "bbox": [
+                0.557,
+                0.735,
+                0.872,
+                0.913
+              ],
+              "image_path": "images/page_1_image_17.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 18,
+              "bbox": [
+                0.51,
+                0.925,
+                0.919,
+                0.951
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "FIG. 1. FESEM image of a ZnO/LDPE nanocomposite. Good dispersion of nanoparticles in the LDPE matrix can be observed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "aside_text",
+          "index": 19,
+          "bbox": [
+            0.972,
+            0.458,
+            0.987,
+            0.541
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "23 June 2025 19:33:40"
+            }
+          ]
+        },
+        {
+          "type": "page_footnote",
+          "index": 20,
+          "bbox": [
+            0.081,
+            0.936,
+            0.265,
+            0.951
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "a",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "!Electronic mail: schadl@rpi.edu"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 21,
+          "bbox": [
+            0.081,
+            0.967,
+            0.31,
+            0.982
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "0003-6951/2003/82(12)/1956/3/$20.00"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 22,
+          "bbox": [
+            0.484,
+            0.969,
+            0.516,
+            0.981
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1956"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "index": 0,
+          "bbox": [
+            0.081,
+            0.033,
+            0.376,
+            0.048
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Appl. Phys. Lett., Vol. 82, No. 12, 24 March 2003"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.788,
+            0.034,
+            0.86,
+            0.048
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Hong et al."
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 2,
+          "bbox": [
+            0.885,
+            0.034,
+            0.918,
+            0.046
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1957"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 3,
+          "bbox": [
+            0.089,
+            0.064,
+            0.474,
+            0.29
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 3,
+              "bbox": [
+                0.089,
+                0.064,
+                0.474,
+                0.29
+              ],
+              "image_path": "images/page_2_chart_3.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 4,
+              "bbox": [
+                0.281,
+                0.294,
+                0.301,
+                0.308
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "(a)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 5,
+          "bbox": [
+            0.088,
+            0.326,
+            0.472,
+            0.554
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 5,
+              "bbox": [
+                0.088,
+                0.326,
+                0.472,
+                0.554
+              ],
+              "image_path": "images/page_2_chart_5.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 6,
+              "bbox": [
+                0.281,
+                0.558,
+                0.302,
+                0.572
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "(b)"
+                }
+              ]
+            },
+            {
+              "type": "chart_caption",
+              "index": 7,
+              "bbox": [
+                0.079,
+                0.581,
+                0.488,
+                0.62
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "FIG. 2. dc resistivity of nanocomposites measured at an applied field strength of 10 kV/cm. Resistivity as a function of ~a! ZnO content and ~b! interparticle distance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "bbox": [
+            0.078,
+            0.643,
+            0.488,
+            0.705
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ture surface ~at cryogenic temperature! of the ZnO/LDPE nanocomposite. Nanoparticles are shown as white spheres dispersed throughout the entire area examined. Excellent dispersion was achieved."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.078,
+            0.705,
+            0.488,
+            0.767
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The dc resistivity was measured with a Keithley 6517A electrometer and 6008 electrode cell. The current through the specimen was measured after steady state was reached, which took 1–3 days."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "bbox": [
+            0.078,
+            0.767,
+            0.489,
+            0.985
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Figure 2 shows the dc resistivity of ZnO/LDPE nanocomposites compared to composites made with micron-scale filler. The measured dc resistivity of the nanocomposite began to decrease with volume fraction at 14 vol %. The resistivity of the micron-scale filled composite did not start to decrease until the concentration reached 30 vol. %, above which the resistivity decreased rapidly, as expected from percolation theory, and more rapidly than the nanocomposites. The difference in the percolation limit between the two types of samples can be understood from the difference in the interparticle distance of the filler particles in the composite. From a purely geometric consideration, assuming a spherical shape for the particles and a uniform size distribution and dispersion, the interparticle distance, l, is expressed as"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 11,
+          "bbox": [
+            0.518,
+            0.064,
+            0.908,
+            0.295
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 11,
+              "bbox": [
+                0.518,
+                0.064,
+                0.908,
+                0.295
+              ],
+              "image_path": "images/page_2_chart_11.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 12,
+              "bbox": [
+                0.509,
+                0.304,
+                0.918,
+                0.33
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "FIG. 3. Breakdown strength of ZnO/LDPE composites as a function of ZnO content."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "equation",
+          "index": 13,
+          "bbox": [
+            0.537,
+            0.35,
+            0.917,
+            0.369
+          ],
+          "image_path": "images/page_2_equation_13.jpg",
+          "content": "l = r \\left[ (4 \\pi / 3 \\nu) ^ {1 / 3} - 2 \\right],\\tag{1}"
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "bbox": [
+            0.508,
+            0.379,
+            0.919,
+            0.591
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "where "
+            },
+            {
+              "type": "equation_inline",
+              "content": "r"
+            },
+            {
+              "type": "text",
+              "content": " is the radius of the particle and n is the volume fraction. The interparticle distance for the nanocomposite with 14 vol % nanoparticles corresponds to the interparticle distance in the composite with 30 vol % of micron size particles ~approximately 40 nm! and the conduction between particles starts at approximately the same interparticle distance, as shown in Fig. 2~b!. Once the average interparticle distance becomes less than a certain critical value, the conduction between particles can commence via tunneling between particles and a decrease in resistivity can be observed. Therefore, the start of conduction occurs at the same interparticle distance, but it occurs at a different fractional distance when the distance is scaled with the average size of the filler particles in the composite."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "bbox": [
+            0.508,
+            0.59,
+            0.92,
+            0.787
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In addition to the lower percolation limit in the nanocomposites, the rate of decrease of resistivity with increasing ZnO content is much slower. This leads to higher values of resistivity for the nancomposite at high volume percent filler compared to the micron-scale filled composite. There are two possible reasons for this difference in the rate of resistivity decline. Due to the small size of the nanoparticle, the percolated path for conduction, which is composed of connections of nanoparticles, contains more interfaces for electrons to pass over the thickness of the specimen. Furthermore, the interfaces themselves were observed by transmission electron microscopy to be covered with polyethylene molecules resulting in higher interface resistivity."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "bbox": [
+            0.508,
+            0.787,
+            0.921,
+            0.985
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "One of the limitations of filled polymers compared to unfilled polymers is that the dielectric breakdown strength decreases due to the presence of the particles. Measured breakdown strengths of ZnO/LDPE samples showed such a decrease with filler concentration ~Fig. 3!. The decrease of breakdown strength is similar for the nanocomposites and micron-size filled samples up to about 15 vol % ZnO filler. At 40 vol % ZnO filler concentration, however, the measured breakdown strength for the nanocomposite was found to be considerably greater ~by more than a factor of 3! than that for the micron filled ZnO/LDPE composite. The breakdown strength of the filler is different from that of matrix material, and the filler particles work as barriers to keep the break-"
+            }
+          ]
+        },
+        {
+          "type": "aside_text",
+          "index": 17,
+          "bbox": [
+            0.972,
+            0.458,
+            0.986,
+            0.542
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "23 June 2025 19:33:40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "page_number",
+          "index": 0,
+          "bbox": [
+            0.082,
+            0.034,
+            0.115,
+            0.046
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1958"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.139,
+            0.034,
+            0.434,
+            0.047
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Appl. Phys. Lett., Vol. 82, No. 12, 24 March 2003"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 2,
+          "bbox": [
+            0.847,
+            0.034,
+            0.918,
+            0.047
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Hong et al."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.078,
+            0.065,
+            0.489,
+            0.307
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "down from propagating throughout the thickness of the specimen. The number density of the barriers is higher for a nanocomposite, and it is less probable for the breakdown to occur throughout the thickness of the specimen, resulting in the measurement of higher breakdown strength. At the same time, the interparticle distance for the nanocomposite is smaller @as indicated by Eq. ~1!#, and the breakdown probability between two particles is higher for the nanocomposite than for the micron filled composite of the same filler concentration. The measured breakdown strength is determined by the breakdown probability between two neighboring particles and the number of particles over the thickness of the specimen. The decreases of the breakdown strength by the two factors exhibit little difference at low filler concentration, but the difference becomes evident at high filler concentration."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.078,
+            0.307,
+            0.489,
+            0.445
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In conclusion, owing to the interfaces between nanoparticles and polymer matrix, the resistivity and breakdown strength of the nanocomposites were found to be much higher at the highest nanoparticle loading levels investigated. The resistivity decreases exponentially with increasing ZnO volume content of the nanoparticles, but at a rate considerably less than that expected for a sharp onset of percolation. The electrical conduction is thought to be due to the tunneling between ZnO filler particles."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.079,
+            0.453,
+            0.489,
+            0.514
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The authors acknowledge ABB for funding this work and Nanophase Technologies Corporation for donating nanoparticles. The authors also thank Professor J. Keith Nelson for discussions and advice."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 6,
+          "bbox": [
+            0.516,
+            0.066,
+            0.917,
+            0.092
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1 "
+            },
+            {
+              "type": "text",
+              "content": "M",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Ieda, M. Nagao, and M. Hikita, IEEE Trans. Dielectr. Electr. Insul. 1, 934 ~1994!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 7,
+          "bbox": [
+            0.516,
+            0.092,
+            0.916,
+            0.106
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "2 "
+            },
+            {
+              "type": "text",
+              "content": "C",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Brosseau, P. Quéffélec, and P. Talbot, J. Appl. Phys. 89, 4532 ~2001!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 8,
+          "bbox": [
+            0.516,
+            0.105,
+            0.916,
+            0.13
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "3 "
+            },
+            {
+              "type": "text",
+              "content": "C",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". B. Ng, B. J. Ash, L. S. Schadler, and R. W. Siegel, Adv. Compos. Lett. 10, 101 ~2001!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 9,
+          "bbox": [
+            0.516,
+            0.13,
+            0.9,
+            0.144
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "4 "
+            },
+            {
+              "type": "text",
+              "content": "K",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". T. Chung, A. Sabo, and A. P. Pica, J. Appl. Phys. 53, 6867 ~1982!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 10,
+          "bbox": [
+            0.516,
+            0.144,
+            0.918,
+            0.169
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "5 "
+            },
+            {
+              "type": "text",
+              "content": "X",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". W. Zhang, Y. Pan, Q. Zheng, and X. S. Yi, J. Polym. Sci., Part B: Polym. Phys. 38, 2739 ~2000!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 11,
+          "bbox": [
+            0.516,
+            0.17,
+            0.917,
+            0.195
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "6 "
+            },
+            {
+              "type": "text",
+              "content": "M",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Sumita, K. Sakata, S. Asai, K. Miyasaka, and H. Nakagawa, Polym. Bull. ~Berlin! 25, 265 ~1991!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 12,
+          "bbox": [
+            0.516,
+            0.195,
+            0.917,
+            0.22
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "7 "
+            },
+            {
+              "type": "text",
+              "content": "L",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Flandin, M. Verdier, B. Boutherin, Y. Brechet, and J. Y. Cavaille, J. Polym. Sci., Part B: Polym. Phys. 37, 805 ~1999!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 13,
+          "bbox": [
+            0.516,
+            0.22,
+            0.917,
+            0.245
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "8 "
+            },
+            {
+              "type": "text",
+              "content": "M",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Kawasumi, N. Hasegawa, M. Kato, A. Usuki, and A. Okada, Macromolecules 30, 6333 ~1997!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 14,
+          "bbox": [
+            0.515,
+            0.245,
+            0.826,
+            0.258
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "9 "
+            },
+            {
+              "type": "text",
+              "content": "Y",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Wang and N. Herron, J. Phys. Chem. 95, 525 ~1991!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 15,
+          "bbox": [
+            0.514,
+            0.258,
+            0.768,
+            0.271
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "10 "
+            },
+            {
+              "type": "text",
+              "content": "R",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". W. Siegel, Nanostruct. Mater. 3, 1 ~1993!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 16,
+          "bbox": [
+            0.513,
+            0.271,
+            0.917,
+            0.295
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "11 "
+            },
+            {
+              "type": "text",
+              "content": "H",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Gleiter, J. Weissmüller, O. Wollersheim, and R. Wurschum, Acta Mater. 49, 737 ~2001!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 17,
+          "bbox": [
+            0.513,
+            0.296,
+            0.804,
+            0.309
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "12 "
+            },
+            {
+              "type": "text",
+              "content": "D",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Y. Godovsky, Adv. Polym. Sci. 153, 163 ~2000!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 18,
+          "bbox": [
+            0.513,
+            0.309,
+            0.848,
+            0.322
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "13 "
+            },
+            {
+              "type": "text",
+              "content": "R",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Gangopadhyay and A. De, Chem. Mater. 12, 608 ~2000!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 19,
+          "bbox": [
+            0.513,
+            0.322,
+            0.901,
+            0.335
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "14 "
+            },
+            {
+              "type": "text",
+              "content": "M",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". S. Khalil and A. Gastli, IEEE Trans. Power Deliv. 14, 699 ~1999!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 20,
+          "bbox": [
+            0.514,
+            0.335,
+            0.756,
+            0.348
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "15 "
+            },
+            {
+              "type": "text",
+              "content": "E",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". E. Hahn, J. Appl. Phys. 22, 855 ~1951!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 21,
+          "bbox": [
+            0.513,
+            0.347,
+            0.796,
+            0.36
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "16 "
+            },
+            {
+              "type": "text",
+              "content": "T",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". K. Gupta, J. Am. Ceram. Soc. 73, 1817 ~1990!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 22,
+          "bbox": [
+            0.513,
+            0.36,
+            0.917,
+            0.385
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "17 "
+            },
+            {
+              "type": "text",
+              "content": "Y",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Nakamura, T. Harada, H. Kuribara, A. Kishimoto, N. Motohira, and H. Yanagida, J. Am. Ceram. Soc. 82, 3069 ~1999!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 23,
+          "bbox": [
+            0.514,
+            0.385,
+            0.916,
+            0.41
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "18 "
+            },
+            {
+              "type": "text",
+              "content": "C",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". W. Nan, A. Tshöpe, S. Holten, H. Kliem, and R. Birringer, J. Appl. Phys. 85, 7735 ~1999!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 24,
+          "bbox": [
+            0.512,
+            0.411,
+            0.918,
+            0.436
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "19 "
+            },
+            {
+              "type": "text",
+              "content": "D",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Stauffer and A. Aharony, Introduction to Percolation Theory ~Taylor & Francis Inc., Washington, DC, 1991!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 25,
+          "bbox": [
+            0.512,
+            0.436,
+            0.743,
+            0.449
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "20 "
+            },
+            {
+              "type": "text",
+              "content": "F",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Carmona, Physica A 157, 461 ~1989!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 26,
+          "bbox": [
+            0.512,
+            0.449,
+            0.778,
+            0.462
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "21 "
+            },
+            {
+              "type": "text",
+              "content": "M",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". B. Heaney, Phys. Rev. B 52, 12477 ~1995!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 27,
+          "bbox": [
+            0.512,
+            0.461,
+            0.917,
+            0.487
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "22 "
+            },
+            {
+              "type": "text",
+              "content": "Y",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ". Song, T. W. Noh, S. I. Lee, and J. R. Gaines, Phys. Rev. B 33, 904 ~1986!."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 28,
+          "bbox": [
+            0.512,
+            0.487,
+            0.917,
+            0.512
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "23 J. I. Hong, K. S. Cho, C. I. Chung, L. S. Schadler, and R. W. Siegel, J. Mater. Res. 17, 940 ~2002!."
+            }
+          ]
+        },
+        {
+          "type": "aside_text",
+          "index": 29,
+          "bbox": [
+            0.972,
+            0.459,
+            0.987,
+            0.542
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "23 June 2025 19:33:40"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

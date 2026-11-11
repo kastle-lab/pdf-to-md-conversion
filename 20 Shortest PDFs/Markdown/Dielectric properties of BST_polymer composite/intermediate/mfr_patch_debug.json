@@ -1,0 +1,22 @@
+{
+  "patched_methods": [
+    "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict",
+    "mineru.model.mfr.unimernet.Unimernet.UnimernetModel.batch_predict"
+  ],
+  "hook_calls": 1,
+  "calls": [
+    {
+      "source": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict",
+      "page_count": 5,
+      "detections_per_page": [
+        2,
+        9,
+        4,
+        9,
+        0
+      ],
+      "saved": 24
+    }
+  ],
+  "capture_errors": []
+}

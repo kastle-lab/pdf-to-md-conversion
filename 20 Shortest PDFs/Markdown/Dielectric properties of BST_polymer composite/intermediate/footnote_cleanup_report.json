@@ -1,0 +1,29 @@
+{
+  "source": "model_output.json",
+  "footnotes_found": 1,
+  "kept": 0,
+  "removed": 1,
+  "matched_and_removed_from_markdown": 1,
+  "items": [
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "∗ Corresponding author. Tel.: +358 8 553 2725; fax: +358 8 553 2728. E-mail address: hutao@ee.oulu.fi (T. Hu).",
+      "decision": "remove",
+      "reason": "administrative_or_contact_noise",
+      "noise_signals": [
+        "correspondence_notice",
+        "email_address",
+        "email_metadata",
+        "phone_fax_metadata",
+        "phone_number"
+      ],
+      "useful_signals": [],
+      "affiliation_like": false,
+      "markdown_match_score": 1.0,
+      "removed_from_markdown": true,
+      "removal_mode": "whole_block"
+    }
+  ],
+  "warnings": []
+}

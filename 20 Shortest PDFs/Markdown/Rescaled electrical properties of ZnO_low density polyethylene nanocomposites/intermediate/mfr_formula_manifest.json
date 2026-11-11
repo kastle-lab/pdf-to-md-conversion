@@ -1,0 +1,90 @@
+{
+  "formula_count": 4,
+  "capture_errors": [],
+  "formulas": [
+    {
+      "page_idx": 0,
+      "page_number": 1,
+      "formula_number_on_page": 1,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        904,
+        819,
+        962,
+        848
+      ],
+      "bbox_normalized": [
+        0.546884,
+        0.35015,
+        0.581972,
+        0.362548
+      ],
+      "latex": "\\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }",
+      "image_path": "equations/page_0001_formula_001_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 1,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        260,
+        1987,
+        295,
+        2016
+      ],
+      "bbox_normalized": [
+        0.152941,
+        0.903182,
+        0.173529,
+        0.916364
+      ],
+      "latex": "p _ { c }",
+      "image_path": "equations/page_0002_formula_001_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 2,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1229,
+        891,
+        1373,
+        922
+      ],
+      "bbox_normalized": [
+        0.722941,
+        0.405,
+        0.807647,
+        0.419091
+      ],
+      "latex": "\\sigma   \\approx   ( p   -   p _ { c } ) ^ { t }",
+      "image_path": "equations/page_0002_formula_002_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 1,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        949,
+        838,
+        973,
+        864
+      ],
+      "bbox_normalized": [
+        0.558235,
+        0.380909,
+        0.572353,
+        0.392727
+      ],
+      "latex": "r",
+      "image_path": "equations/page_0003_formula_001_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    }
+  ]
+}

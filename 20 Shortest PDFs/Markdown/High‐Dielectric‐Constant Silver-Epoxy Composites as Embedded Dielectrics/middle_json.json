@@ -1,0 +1,3170 @@
+{
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.9"
+    },
+    "document": {
+      "title": "High-Dielectric-Constant Silver-Epoxy Composites as Embedded Dielectrics",
+      "created_at": "2005-07-06T14:11:16+02:00",
+      "modified_at": "2009-07-07T05:06:09-04:00",
+      "creator_application": "3B2 6.05d/W",
+      "producer_application": "PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 5.0.5 (Windows)",
+      "page_count": 5,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 794.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 794.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 794.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 794.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 794.0
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "index": 0,
+          "bbox": [
+            0.651,
+            0.026,
+            0.823,
+            0.066
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ADVANCED MATERIALS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "bbox": [
+            0.077,
+            0.095,
+            0.491,
+            0.156
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "parameters. Nevertheless, the preliminary findings here are expected to benefit the nanowire community in stimulating further investigation of these alternatives in nanowire growth, characterization, and application development."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 2,
+          "bbox": [
+            0.08,
+            0.181,
+            0.203,
+            0.199
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Experimental"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.077,
+            0.212,
+            0.492,
+            0.454
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The synthetic approach involves a carbothermal reduction process followed by catalyst-assisted heteroepitaxial growth using a previously reported reaction chamber setup  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "[8]"
+            },
+            {
+              "type": "text",
+              "content": " . Briefly, the source consisted of powder forms of stannous tin oxide (SnO, 99.999 % purity) and synthetic graphite (99.999 % purity) in a 1:1 weight ratio. The source was placed 2–3 cm upstream of the  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\alpha"
+            },
+            {
+              "type": "text",
+              "content": " -sapphire substrates inside a horizontal tubular reactor with an open egress. The substrate was coated with a 2 nm thin film of a catalyst material by ion-beam sputtering. Stannous tin oxide was the source material of choice here due to its relative thermal and chemical volatility compared with stannic tin oxide. The open-egress design creates a relatively more oxidative environment by back-diffusion of ambient oxygen and carbon dioxide. Cross-contamination was minimized by allowing only one catalyst species in the chamber per run and baking the chamber at 1000 °C and 450 sccm argon for one hour between runs. Other process conditions were fixed at a constant argon carrier gas flow rate (Ar, 99.999 %, 450 sccm), 840–860 °C temperature window, and a growth time of 60 min. Characterization was performed by scanning electron microscopy (SEM) using a field-emission Hitachi S4000 at 10 kV and 15  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mu"
+            },
+            {
+              "type": "text",
+              "content": " A, without deposition of a gold coat on the samples."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.3,
+            0.458,
+            0.491,
+            0.496
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Received: October 18, 2004  \nFinal version: March 15, 2005  \nPublished online: May 19, 2005"
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 5,
+          "bbox": [
+            0.085,
+            0.536,
+            0.489,
+            0.563
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[1] P. Nguyen, H. T. Ng, Y. Yamada, M. K. Smith, J. Li, J. Han, M. Meyyappan, Nano Lett. 2004, 4, 651."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 6,
+          "bbox": [
+            0.086,
+            0.563,
+            0.489,
+            0.587
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[2] H. T. Ng, J. Han, T. Yamada, P. Nguyen, Y. P. Chen, M. Meyyappan, Nano Lett. 2004, 4, 1247."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 7,
+          "bbox": [
+            0.087,
+            0.587,
+            0.413,
+            0.601
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[3] R. S. Wagner, W. C. Ellis, Appl. Phys. Lett. 1964, 4, 89."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 8,
+          "bbox": [
+            0.087,
+            0.6,
+            0.385,
+            0.613
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[4] P. Yang, Y. Wu, R. Fan, Int. J. Nanosci. 2002, 1, 1."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 9,
+          "bbox": [
+            0.087,
+            0.612,
+            0.391,
+            0.625
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[5] Y. Wu, P. Yang, J. Am. Chem. Soc. 2001, 123, 3165."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 10,
+          "bbox": [
+            0.087,
+            0.625,
+            0.442,
+            0.638
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[6] X. F. Duan, C. M. Lieber, J. Am. Chem. Soc. 2000, 122, 188."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 11,
+          "bbox": [
+            0.087,
+            0.637,
+            0.489,
+            0.662
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[7] H. T. Ng, B. Chen, J. Li, J. Han, M. Meyyappan, J. Wu, S. X. Li, E. E. Halter, Appl. Phys. Lett. 2003, 82, 2023."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 12,
+          "bbox": [
+            0.087,
+            0.663,
+            0.489,
+            0.688
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[8] P. Nguyen, H. T. Ng, J. Kong, A. M. Cassell, R. Quinn, J. Li, J. Han, M. McNeil, M. Meyyappan, Nano Lett. 2003, 3, 925."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 13,
+          "bbox": [
+            0.087,
+            0.688,
+            0.489,
+            0.712
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[9] P. Nguyen, Masters Thesis, San José State University, San José, CA 2003."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 14,
+          "bbox": [
+            0.082,
+            0.713,
+            0.489,
+            0.738
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[10] G. Gu, M. Burghard, G. T. Kim, P. Düsberg, P. W. Chiu, V. Krstic, S. Roth, W. Q. Han, J. Appl. Phys. 2001, 90, 5747."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 15,
+          "bbox": [
+            0.081,
+            0.738,
+            0.489,
+            0.762
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[11] Z. W. Pan, Z. R. Dai, C. Ma, Z. L. Wang, J. Am. Chem. Soc. 2002, 124, 1817."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 16,
+          "bbox": [
+            0.081,
+            0.762,
+            0.489,
+            0.8
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[12] D. P. Yu, C. S. Lee, I. Bello, X. S. Sun, Y. H. Tang, G. W. Zhou, Z. G. Bai, Z. Zhang, S. Q. Feng, Solid State Commun. 1998, 105, 403."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 17,
+          "bbox": [
+            0.081,
+            0.8,
+            0.412,
+            0.813
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[13] S. Sharma, M. Sunkara, Nanotechnology 2004, 15, 130."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 18,
+          "bbox": [
+            0.081,
+            0.813,
+            0.448,
+            0.826
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[14] J. B. Baxter, F. Wu, E. Aydil, Appl. Phys. Lett. 2003, 81, 3797."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 19,
+          "bbox": [
+            0.082,
+            0.826,
+            0.249,
+            0.838
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[15] P. Nguyen, unpublished."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 20,
+          "bbox": [
+            0.081,
+            0.838,
+            0.489,
+            0.862
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[16] CRC Handbook of Chemistry and Physics, 78th ed. (Ed: D. R. Lide), CRC Press, Boca Raton, FL 1998."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 21,
+          "bbox": [
+            0.081,
+            0.863,
+            0.459,
+            0.876
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[17] S. Sharma, M. K. Sunkara, J. Am. Chem. Soc. 2002, 124, 12288."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 22,
+          "bbox": [
+            0.082,
+            0.876,
+            0.49,
+            0.9
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[18] X. Liu, C. Li, H. Song, J. Han, C. Zhou, Appl. Phys. Lett. 2003, 82, 1950."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 23,
+          "bbox": [
+            0.081,
+            0.901,
+            0.49,
+            0.925
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[19] Y. X. Chen, L. J. Campbell, W. L. Zhou, J. Cryst. Growth 2004, 270, 505."
+            }
+          ]
+        },
+        {
+          "type": "doc_title",
+          "index": 24,
+          "bbox": [
+            0.506,
+            0.095,
+            0.92,
+            0.136
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "High-Dielectric-Constant Silver–Epoxy Composites as Embedded Dielectrics**"
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "text",
+          "index": 25,
+          "bbox": [
+            0.508,
+            0.149,
+            0.846,
+            0.182
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "By Lai Qi, Burtrand I. Lee, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{*}"
+            },
+            {
+              "type": "text",
+              "content": "  Sihai Chen, William D. Samuels, and Gregory J. Exarhos"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 26,
+          "bbox": [
+            0.505,
+            0.195,
+            0.921,
+            0.52
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Embedded-capacitor technology is an important emerging technology that will enable significant improvement of the performance and functionality of future electronic devices."
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[1,2]}"
+            },
+            {
+              "type": "text",
+              "content": " Embedded capacitors are specially printed portions of printed-circuit-board (PCB) laminates which perform the charge-storing function but do not require space on the surface of the PCB. One major technical challenge for implementing this technology is the development of appropriate dielectric materials with good electrical and mechanical properties, because traditional ceramic dielectrics cannot be applied by current PCB manufacturing methodologies."
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[3,4]}"
+            },
+            {
+              "type": "text",
+              "content": " Particulate-filled (0–3 connectivity) polymer-based composites provide an ideal solution, possessing enhanced electrical properties and retaining the mechanical properties of the matrix. Much research work has been done on ceramic-polymer systems that adopt traditional ceramics as fillers, e.g., BaTiO"
+            },
+            {
+              "type": "equation_inline",
+              "content": "_{3}"
+            },
+            {
+              "type": "text",
+              "content": ","
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[5]}"
+            },
+            {
+              "type": "text",
+              "content": " PZT,"
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[6]}"
+            },
+            {
+              "type": "text",
+              "content": " and PMN-PT."
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[7,8]}"
+            },
+            {
+              "type": "text",
+              "content": " The advantages of these composites include predictable dielectric behavior, low dielectric loss, and easy fabrication. However, in most cases these composites have relatively low dielectric constants, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{\\mathrm{r}}"
+            },
+            {
+              "type": "text",
+              "content": ", (usually <100) even with high ceramic loadings (>50 vol.-%). High ceramic loadings will deteriorate the mechanical qualities of the composites and the resulting PCBs."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 27,
+          "bbox": [
+            0.506,
+            0.52,
+            0.921,
+            0.7
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In developing the percolation theory of the conductor–insulator composites, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[9]}"
+            },
+            {
+              "type": "text",
+              "content": "  the observation of a dramatic increase of  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{r}"
+            },
+            {
+              "type": "text",
+              "content": "  at the percolation threshold "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[10]}"
+            },
+            {
+              "type": "text",
+              "content": "  brings up interest of using these composites as dielectrics. Pecharromán et al. reported ultra-high  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{r}"
+            },
+            {
+              "type": "text",
+              "content": "  values (>80 000) in nickel-doped  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "BaTiO_{3}"
+            },
+            {
+              "type": "text",
+              "content": "  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[11]}"
+            },
+            {
+              "type": "text",
+              "content": "  and molybdenum-doped mullite. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[12]}"
+            },
+            {
+              "type": "text",
+              "content": "  For the metal–polymer system, Rao et al. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[13]}"
+            },
+            {
+              "type": "text",
+              "content": "  reported a threshold  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{r}"
+            },
+            {
+              "type": "text",
+              "content": "  of 2000 in silver-flake-doped epoxy. Dang et al. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[14,15]}"
+            },
+            {
+              "type": "text",
+              "content": "  reported  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{r}"
+            },
+            {
+              "type": "text",
+              "content": "  values of 400 in a nickel–poly(vinylidene fluoride) composite. Similar enhancements of  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{r}"
+            },
+            {
+              "type": "text",
+              "content": "  in other metal–polymer systems were observed by Fan et al. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[16]}"
+            },
+            {
+              "type": "text",
+              "content": "  Nevertheless, the benefits of these high- "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{r}"
+            },
+            {
+              "type": "text",
+              "content": "  values in prepared metal–polymer composites were"
+            }
+          ]
+        },
+        {
+          "type": "page_footnote",
+          "index": 28,
+          "bbox": [
+            0.509,
+            0.746,
+            0.921,
+            0.927
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[*] Prof. B. I. Lee, Dr. L. Qi  \nSchool of Materials Science and Engineering, Clemson University  \nClemson, SC 29634 (USA)  \nE-mail: burt.lee@ces.clemson.edu  \nDr. S. H. Chen  \nDepartment of Biomedical Engineering, Duke University  \nDurham, NC 27708 (USA)  \nDr. W. D. Samuels, Dr. G. J. Exarhos  \nDepartment of Materials Science  \nPacific Northwest National Laboratory  \nRichland, WA 99352 (USA)  \n[**] The authors acknowledge financial support from the U. S. Department of Energy under contract DE-AC06-76RL through Pacific Northwest National Laboratory operated by Battelle Memorial Institute."
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 29,
+          "bbox": [
+            0.08,
+            0.952,
+            0.244,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Adv. Mater. 2005, 17, 1777–1781"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 30,
+          "bbox": [
+            0.333,
+            0.951,
+            0.537,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "DOI: 10.1002/adma.200401816"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 31,
+          "bbox": [
+            0.621,
+            0.952,
+            0.919,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "© 2005 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim"
+            }
+          ]
+        },
+        {
+          "type": "aside_text",
+          "index": 32,
+          "bbox": [
+            0.965,
+            0.042,
+            0.99,
+            0.208
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "COMMUNICATIONS"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 33,
+          "bbox": [
+            0.942,
+            0.951,
+            0.976,
+            0.965
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1777"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "index": 0,
+          "bbox": [
+            0.008,
+            0.041,
+            0.034,
+            0.206
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "COMMUNICATIONS"
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.174,
+            0.026,
+            0.344,
+            0.065
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ADVANCED MATERIALS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.077,
+            0.096,
+            0.491,
+            0.199
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "counteracted by the high reported dielectric losses, e.g., values of tan "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\delta"
+            },
+            {
+              "type": "text",
+              "content": " of 0.24,"
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[13]}"
+            },
+            {
+              "type": "text",
+              "content": " 0.18,"
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[14]}"
+            },
+            {
+              "type": "text",
+              "content": " "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\sim"
+            },
+            {
+              "type": "text",
+              "content": " 0.5,"
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[15]}"
+            },
+            {
+              "type": "text",
+              "content": " and "
+            },
+            {
+              "type": "equation_inline",
+              "content": ">2"
+            },
+            {
+              "type": "text",
+              "content": "."
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[16]}"
+            },
+            {
+              "type": "text",
+              "content": " It is also risky to prepare percolative dielectrics with a threshold composition due to the abrupt variation of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{\\mathrm{r}}"
+            },
+            {
+              "type": "text",
+              "content": " near the threshold. According to Rao et al.,"
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[13]}"
+            },
+            {
+              "type": "text",
+              "content": " the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{\\mathrm{r}}"
+            },
+            {
+              "type": "text",
+              "content": " increased from 200 to 2000 with a filler concentration increase from 11.03 vol."
+            },
+            {
+              "type": "equation_inline",
+              "content": "-\\%"
+            },
+            {
+              "type": "text",
+              "content": " to 11.43 vol."
+            },
+            {
+              "type": "equation_inline",
+              "content": "-\\%"
+            },
+            {
+              "type": "text",
+              "content": " and decreased to nearly zero at 11.52 vol."
+            },
+            {
+              "type": "equation_inline",
+              "content": "-\\%"
+            },
+            {
+              "type": "text",
+              "content": "."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.077,
+            0.199,
+            0.492,
+            0.348
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Moreover, to make the metal–polymer composite practically useful, the influence of the filler size has to be considered. In a classic 0–3 percolation model, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[9,17,18]}"
+            },
+            {
+              "type": "text",
+              "content": " the randomly distributed metal fillers form clusters (conducting networks) within the matrix. When the size of the largest cluster approaches the size of the matrix, discharge between electrodes (percolation) happens. Based on a random distribution, the cluster volume, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "V_{cluster}"
+            },
+            {
+              "type": "text",
+              "content": ", is proportional to the product of the number of fillers that in the cluster, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "N_{filler}"
+            },
+            {
+              "type": "text",
+              "content": ", and the average filler volume, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "V_{filler}"
+            },
+            {
+              "type": "text",
+              "content": ", as"
+            }
+          ]
+        },
+        {
+          "type": "equation",
+          "index": 4,
+          "bbox": [
+            0.08,
+            0.361,
+            0.489,
+            0.378
+          ],
+          "image_path": "images/page_1_equation_4.jpg",
+          "content": "V _ {\\text {cluster}} \\propto N _ {\\text {filler}} V _ {\\text {filler}}\\tag{1}"
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.079,
+            0.39,
+            0.46,
+            0.406
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Derived from Equation 1, at the threshold concentration,"
+            }
+          ]
+        },
+        {
+          "type": "equation",
+          "index": 6,
+          "bbox": [
+            0.08,
+            0.421,
+            0.489,
+            0.437
+          ],
+          "image_path": "images/page_1_equation_6.jpg",
+          "content": "\\bar {N} _ {\\text {filler}} \\propto \\bar {V} _ {\\text {cluster}} / V _ {\\text {filler}}\\tag{2}"
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.078,
+            0.451,
+            0.491,
+            0.512
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "where  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\bar{N}_{filler}"
+            },
+            {
+              "type": "text",
+              "content": "  and  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\bar{V}_{cluster}"
+            },
+            {
+              "type": "text",
+              "content": "  are the threshold filler number and the threshold cluster volume, respectively. The threshold filler number is proportional to the threshold filler concentration,  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\bar{C}_{filler}"
+            },
+            {
+              "type": "text",
+              "content": " , as"
+            }
+          ]
+        },
+        {
+          "type": "equation",
+          "index": 8,
+          "bbox": [
+            0.079,
+            0.524,
+            0.489,
+            0.541
+          ],
+          "image_path": "images/page_1_equation_8.jpg",
+          "content": "\\bar {N} _ {\\text {filler}} \\propto \\bar {C} _ {\\text {filler}}\\tag{3}"
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.078,
+            0.556,
+            0.491,
+            0.602
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "For a specific system, the percolation probability, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "P_{\\mathrm{pcl}}"
+            },
+            {
+              "type": "text",
+              "content": ", is always proportional to the filler concentration but inversely proportional to the threshold concentration, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\bar{C}_{\\mathrm{filler}}"
+            },
+            {
+              "type": "text",
+              "content": ", as"
+            }
+          ]
+        },
+        {
+          "type": "equation",
+          "index": 10,
+          "bbox": [
+            0.08,
+            0.614,
+            0.489,
+            0.631
+          ],
+          "image_path": "images/page_1_equation_10.jpg",
+          "content": "P _ {\\mathrm{pcl}} \\propto 1 / \\tilde {C} _ {\\text {filler}}\\tag{4}"
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "bbox": [
+            0.079,
+            0.645,
+            0.154,
+            0.659
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Therefore,"
+            }
+          ]
+        },
+        {
+          "type": "equation",
+          "index": 12,
+          "bbox": [
+            0.079,
+            0.673,
+            0.489,
+            0.69
+          ],
+          "image_path": "images/page_1_equation_12.jpg",
+          "content": "P _ {\\mathrm{pcl}} \\propto V _ {\\text {filler}} / \\bar {V} _ {\\text {cluster}} \\pm (D _ {\\text {filler}} / \\bar {D} _ {\\text {cluster}}) ^ {3}\\tag{5}"
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "bbox": [
+            0.077,
+            0.705,
+            0.492,
+            0.929
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "where "
+            },
+            {
+              "type": "equation_inline",
+              "content": "D_{\\text{filler}}"
+            },
+            {
+              "type": "text",
+              "content": " and "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\bar{D}_{\\text{cluster}}"
+            },
+            {
+              "type": "text",
+              "content": " are the diameters of filler and the threshold cluster, respectively. This means that the percolation probability is closely related to the size ratio of the filler to the composite thickness. In the classic model"
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[9]}"
+            },
+            {
+              "type": "text",
+              "content": " or for bulk samples,"
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[13-16]}"
+            },
+            {
+              "type": "text",
+              "content": " the insulating matrix is considered to be infinitely large in three dimensions compared with the size of fillers. Therefore, the influence of the size ratio on the percolation probability is negligible. However, for practical capacitors, dielectric materials need to be fabricated into thin layers of a typical thickness of 20–100 "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mu"
+            },
+            {
+              "type": "text",
+              "content": "m"
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[3]}"
+            },
+            {
+              "type": "text",
+              "content": " to increase the volumetric packaging density. Therefore, in practical applications, this 3D infinity model is no longer valid, especially when the filler size is in the micrometer range and comparable to the thickness of the dielectric layer. Thus, for capacitor applications, the size of metal fillers in a metal–polymer"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "bbox": [
+            0.506,
+            0.096,
+            0.92,
+            0.14
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "composite has to be in the nanometer range. However, the so-far reported studies "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[13-16]}"
+            },
+            {
+              "type": "text",
+              "content": " on the metal–polymer composites adopted micrometer-size metal powders or even metal flakes."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "bbox": [
+            0.506,
+            0.141,
+            0.921,
+            0.362
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In this communication, we report the synthesis of an epoxy-based composite containing randomly distributed silver nanoparticles 40 nm in size. Ag nanoparticles were prepared by a redox reaction between silver nitrate and sodium borohydride. The surface of the Ag nanoparticles is coated with a thin layer of mercaptosuccinic acid (MSA). The synthesized Ag–epoxy composite has a high dielectric constant above 300 and a relatively low dielectric loss of 0.05 while retaining the flexibility of the polymer matrix. Figure 1 shows the X-ray diffraction (XRD) patterns of the synthesized Ag particles and their corresponding transmission electron microscopy (TEM) images. The average particle size could be controlled from 3 nm to 40 nm by changing the surfactant/silver molar ratio (S/Ag) from 1:1 to 1:50. Below 3 nm, the Ag particles were basically amorphous. When the size was increased to above"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 16,
+          "bbox": [
+            0.525,
+            0.385,
+            0.909,
+            0.89
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 16,
+              "bbox": [
+                0.525,
+                0.385,
+                0.909,
+                0.89
+              ],
+              "image_path": "images/page_1_chart_16.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 17,
+              "bbox": [
+                0.507,
+                0.9,
+                0.918,
+                0.928
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Figure 1. XRD patterns and TEM images of silver nanoparticles synthesized in different sizes by varying the surfactant/silver ratio (S/Ag)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 18,
+          "bbox": [
+            0.023,
+            0.952,
+            0.059,
+            0.965
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1778"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 19,
+          "bbox": [
+            0.08,
+            0.952,
+            0.378,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "© 2005 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 20,
+          "bbox": [
+            0.513,
+            0.951,
+            0.619,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "www.advmat.de"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 21,
+          "bbox": [
+            0.753,
+            0.952,
+            0.918,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Adv. Mater. 2005, 17, 1777–1781"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "index": 0,
+          "bbox": [
+            0.652,
+            0.026,
+            0.823,
+            0.065
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ADVANCED MATERIALS"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "bbox": [
+            0.077,
+            0.096,
+            0.491,
+            0.14
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "5 nm, the typical diffraction pattern belonging to cubic silver could be observed. When the size increased to 40 nm, the Ag particles could be considered to be well crystallized."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.078,
+            0.14,
+            0.491,
+            0.229
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The prototype capacitors were fabricated by spin-coating the synthesized Ag–epoxy (40 nm Ag) mixture onto a gold-coated aluminum substrate. After curing at  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "160^{\\circ}"
+            },
+            {
+              "type": "text",
+              "content": " C for 1 h, a typical coating thickness of 20  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mu"
+            },
+            {
+              "type": "text",
+              "content": " m was acquired. A series of Ag–epoxy composites with various Ag volume fractions were prepared in order to locate the optimum composition."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.077,
+            0.228,
+            0.492,
+            0.422
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "To have a better understanding of the organic coating, inductively coupled plasma atomic emission spectroscopy (ICP–AES) measurements were conducted to determine the elemental composition of the synthesized 40 nm Ag nanoparticles. The results showed a nanoparticle composition of C, 0.329; H, 0.004; O, 0.527; Na, 0.262; S, 0.215; and Ag, 92.67 (provided in wt.-%). An estimated molecular formula can be calculated as  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "C_{4.2}H_{5.2}O_{4.9}Na_{1.7}SAg_{128.6}"
+            },
+            {
+              "type": "text",
+              "content": " . The comparison of the Fourier-transform IR (FTIR) spectra of 40 nm Ag nanoparticles and pure MSA confirms the existence of S–Ag bonds, as shown in Figure 2a. The typical S–H stretching vibration peak at  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "2547\\ cm^{-1}"
+            },
+            {
+              "type": "text",
+              "content": " [19] disappeared when MSA molecules adsorbed on the Ag particles. The double peaks of the carboxylate vibra-"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 4,
+          "bbox": [
+            0.094,
+            0.449,
+            0.48,
+            0.641
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 4,
+              "bbox": [
+                0.094,
+                0.449,
+                0.48,
+                0.641
+              ],
+              "image_path": "images/page_2_chart_4.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 5,
+          "bbox": [
+            0.09,
+            0.647,
+            0.474,
+            0.879
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 5,
+              "bbox": [
+                0.09,
+                0.647,
+                0.474,
+                0.879
+              ],
+              "image_path": "images/page_2_chart_5.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 6,
+              "bbox": [
+                0.078,
+                0.889,
+                0.491,
+                0.927
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Figure 2. a) FTIR spectra of MSA-coated Ag and pure MSA powders; b) thermogravimetric curves of MSA-coated Ag and pure MSA (solid lines) and derivatives of the curves (dotted lines)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.505,
+            0.094,
+            0.921,
+            0.243
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "tion at 1573 cm "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{-1}"
+            },
+            {
+              "type": "text",
+              "content": " (asymmetric) and 1369 cm "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{-1}"
+            },
+            {
+              "type": "text",
+              "content": " (symmetric) in the Ag spectrum show that the organics existed mostly as carboxyl salts. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[20]}"
+            },
+            {
+              "type": "text",
+              "content": " Figure 2b compares the thermogravimetric results of 40 nm Ag and pure MSA. Most of the solvent in Ag particles was removed below 100 °C. For pure MSA, 90 % of the decomposition happened between 200 °C and 300 °C. For coated Ag particles, some MSA molecules (possibly without S–Ag bonds) decomposed between 230 °C and 250 °C as pure MSA, while the rest (possibly with S–Ag bonds) gradually decomposed between 250 °C and 420 °C."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "footer",
+          "index": 8,
+          "bbox": [
+            0.08,
+            0.953,
+            0.244,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Adv. Mater. 2005, 17, 1777–1781"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.506,
+            0.243,
+            0.921,
+            0.303
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Figure 3a shows the measured dielectric constants of prepared epoxy composites filled with "
+            },
+            {
+              "type": "equation_inline",
+              "content": "40\\mathrm{nm}"
+            },
+            {
+              "type": "text",
+              "content": " Ag particles as a function of the Ag volume fraction. A moderate increase in dielectric constant was observed when the Ag volume fraction"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 10,
+          "bbox": [
+            0.52,
+            0.323,
+            0.907,
+            0.495
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 10,
+              "bbox": [
+                0.52,
+                0.323,
+                0.907,
+                0.495
+              ],
+              "image_path": "images/page_2_chart_10.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 11,
+          "bbox": [
+            0.518,
+            0.499,
+            0.699,
+            0.641
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 11,
+              "bbox": [
+                0.518,
+                0.499,
+                0.699,
+                0.641
+              ],
+              "image_path": "images/page_2_chart_11.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 12,
+          "bbox": [
+            0.701,
+            0.5,
+            0.91,
+            0.64
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 12,
+              "bbox": [
+                0.701,
+                0.5,
+                0.91,
+                0.64
+              ],
+              "image_path": "images/page_2_chart_12.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 13,
+              "bbox": [
+                0.507,
+                0.651,
+                0.92,
+                0.702
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Figure 3. a) Evolution of the relative dielectric constant, "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\varepsilon_{\\mathrm{n}}"
+                },
+                {
+                  "type": "text",
+                  "content": " of the Ag-epoxy composites as a function of silver volume fraction at room temperature; b) the best fit of the "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "1\\mathrm{kHz}"
+                },
+                {
+                  "type": "text",
+                  "content": " and "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "1\\mathrm{MHz}"
+                },
+                {
+                  "type": "text",
+                  "content": " "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\varepsilon_{\\mathrm{r}}"
+                },
+                {
+                  "type": "text",
+                  "content": " data to Equation 6; c) the dependence of the loss factor, tan "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\delta"
+                },
+                {
+                  "type": "text",
+                  "content": ", on silver volume fraction."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "bbox": [
+            0.506,
+            0.734,
+            0.921,
+            0.854
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "was below 12 vol.-%. The increase of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{\\mathrm{r}}"
+            },
+            {
+              "type": "text",
+              "content": " became significant when Ag addition was more than 15 vol.-%. At a frequency of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1\\mathrm{kHz}"
+            },
+            {
+              "type": "text",
+              "content": " and room temperature, the maximum value of 308 was reached with 22 vol.-% of Ag. The decrease of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{\\mathrm{r}}"
+            },
+            {
+              "type": "text",
+              "content": " upon increasing frequencies was due to the slow dielectric relaxation of epoxy resins. As shown in Figure 3b, when the Ag volume fraction was below 15 vol.-%, the variation of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{\\mathrm{r}}"
+            },
+            {
+              "type": "text",
+              "content": " showed a good agreement with the typical power law[21]"
+            }
+          ]
+        },
+        {
+          "type": "equation",
+          "index": 15,
+          "bbox": [
+            0.508,
+            0.865,
+            0.918,
+            0.883
+          ],
+          "image_path": "images/page_2_equation_15.jpg",
+          "content": "\\varepsilon_ {\\mathrm{r}} = \\varepsilon_ {0} \\mid (f _ {\\mathrm{c}} - f) / f _ {\\mathrm{c}} \\mid^ {- q}\\tag{6}"
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "bbox": [
+            0.506,
+            0.897,
+            0.92,
+            0.927
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "where "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_0, f_{\\mathrm{c}}, f,"
+            },
+            {
+              "type": "text",
+              "content": " and "
+            },
+            {
+              "type": "equation_inline",
+              "content": "q"
+            },
+            {
+              "type": "text",
+              "content": " are the relative dielectric constant of the matrix, the percolation threshold, Ag volume fraction, and a"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 17,
+          "bbox": [
+            0.383,
+            0.951,
+            0.488,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "www.advmat.de"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 18,
+          "bbox": [
+            0.621,
+            0.952,
+            0.919,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "© 2005 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim"
+            }
+          ]
+        },
+        {
+          "type": "aside_text",
+          "index": 19,
+          "bbox": [
+            0.965,
+            0.042,
+            0.99,
+            0.208
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "COMMUNICATIONS"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 20,
+          "bbox": [
+            0.942,
+            0.952,
+            0.976,
+            0.965
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1779"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "index": 0,
+          "bbox": [
+            0.009,
+            0.042,
+            0.034,
+            0.205
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "COMMUNICATIONS"
+            }
+          ]
+        },
+        {
+          "type": "doc_title",
+          "index": 1,
+          "bbox": [
+            0.174,
+            0.026,
+            0.344,
+            0.065
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ADVANCED MATERIALS"
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.077,
+            0.096,
+            0.492,
+            0.228
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "critical exponent, respectively. However, above 15 vol.-% of Ag the curve deviates from the theoretical prediction, which is supposed to be an abrupt descent of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{\\mathrm{r}}"
+            },
+            {
+              "type": "text",
+              "content": " to nearly zero. On the contrary, the rate of increase of the measured "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{\\mathrm{r}}"
+            },
+            {
+              "type": "text",
+              "content": " gradually decreases, forming a broad peak over a wide volume fraction range of nearly 20 vol.-%. Apparently, this decrease of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{\\mathrm{r}}"
+            },
+            {
+              "type": "text",
+              "content": " is not caused by conduction. Microstructure investigation revealed that the porosity of the sample with 25.2 vol.-% of Ag is significantly higher than those of the other samples with less Ag."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.077,
+            0.228,
+            0.492,
+            0.48
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The introduction of porosity is possibly caused by the absorbed surfactant layer, which keeps Ag particles from directly contacting each other and leaves space between them. This is also the reason why the dry MSA-coated Ag powders result in a density of only about  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "2.1 \\, g cm^{-3}"
+            },
+            {
+              "type": "text",
+              "content": " . When the epoxy amount is not enough to occupy the void between particles, pores form. Another possibility is that with higher Ag content, the viscosity of the composites increases considerably, which makes the removal of solvent difficult. With the same drying time, samples with more Ag will contain more solvent residue, which will form micropores during curing. Therefore, the observed maximum  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{r}"
+            },
+            {
+              "type": "text",
+              "content": "  point should not be a real percolation threshold. It is only a point where the influence of porosity on  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{r}"
+            },
+            {
+              "type": "text",
+              "content": "  overwhelms the contribution from adding Ag. Nevertheless, for practical applications, this is definitely an advantage. It makes the material safe for use, because percolation means failure for a charge-storage device."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.077,
+            0.48,
+            0.492,
+            0.761
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The dielectric loss, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\tan \\delta"
+            },
+            {
+              "type": "text",
+              "content": ", of prepared Ag–epoxy composites is shown in Figure 3c. The loss factor gradually increased from 0.008 to 0.05 as the Ag fraction was increased from 0 to 25.2 vol.-%. Similarly, we did not observe the rapid climbing of the tan "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\delta"
+            },
+            {
+              "type": "text",
+              "content": " values. This indicates that the threshold has not been reached, which agrees with the above conjecture; i.e., due to the organic coating, the formation of a conducting filler network is difficult. This loss factor is significantly lower than those reported values.[13-16] As shown in Figure 4a, the breakdown voltage of prepared Ag–epoxy composites decreases with increasing Ag volume fraction as expected. No abrupt change of breakdown voltages was observed, which indicates no change in the breakdown mechanism. In other words, percolation was not reached in those composites. The measured conductivity of the prepared composites is also shown in Figure 4a. The variation of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\sigma_{\\mathrm{eff}}"
+            },
+            {
+              "type": "text",
+              "content": " as a function of Ag volume fraction was relatively gentle, which agrees with the tan "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\delta"
+            },
+            {
+              "type": "text",
+              "content": " data. The relative dielectric constants of the prepared Ag–epoxy composites showed little temperature dependence from 25 °C to 135 °C, as shown in Figure 4b."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.077,
+            0.761,
+            0.492,
+            0.923
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In summary, the novel Ag–epoxy composites in this work are nanometer-scale 0–3 type composites designed for embedded-capacitor applications. The high dielectric constant (>300) and relatively low dielectric loss (<0.05) render this material a promising potential to be used as an embedded dielectric. The organic coating on the Ag nanoparticle surface is found to be the cause of several interesting phenomena that do not appear in the classic bulk-metal-insulator composites, i.e., the desired high concentration tolerance and undesired porosity problem. A better understanding of the mechanisms that determine how surfactants influence those issues will"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 6,
+          "bbox": [
+            0.521,
+            0.096,
+            0.909,
+            0.29
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 6,
+              "bbox": [
+                0.521,
+                0.096,
+                0.909,
+                0.29
+              ],
+              "image_path": "images/page_3_chart_6.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 7,
+          "bbox": [
+            0.527,
+            0.297,
+            0.865,
+            0.448
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 7,
+              "bbox": [
+                0.527,
+                0.297,
+                0.865,
+                0.448
+              ],
+              "image_path": "images/page_3_chart_7.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 8,
+              "bbox": [
+                0.508,
+                0.459,
+                0.919,
+                0.509
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Figure 4. a) Breakdown field, "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "E_{\\mathrm{brk}}"
+                },
+                {
+                  "type": "text",
+                  "content": ", at 200 Vs"
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "^{-1}"
+                },
+                {
+                  "type": "text",
+                  "content": " (●) and electrical conductivity, "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\sigma_{\\mathrm{eff}}(\\triangle)"
+                },
+                {
+                  "type": "text",
+                  "content": ", of the Ag–epoxy composites as a function of Ag volume fraction at room temperature and 1 kHz. b) The relative dielectric constant, "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\varepsilon_n"
+                },
+                {
+                  "type": "text",
+                  "content": " of the Ag–epoxy composites as a function of temperature at 1 kHz."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.506,
+            0.54,
+            0.919,
+            0.569
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "prove to be helpful for developing successful 0–3 type nanocomposites."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "paragraph_title",
+          "index": 10,
+          "bbox": [
+            0.509,
+            0.596,
+            0.632,
+            0.614
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Experimental"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "bbox": [
+            0.506,
+            0.627,
+            0.921,
+            0.771
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The Ag nanoparticles were prepared by a method similar to those previously reported  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "[22,23]"
+            },
+            {
+              "type": "text",
+              "content": " . A predetermined amount of  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "AgNO_{3}"
+            },
+            {
+              "type": "text",
+              "content": "  was dissolved in 2 mL of distilled water. A certain amount of mercaptosuccinic acid (MSA) and dodecanoic acid (DDA) were dissolved in 20 ml anhydrous methanol. The molar ratio of MSA to DDA was set to 1:4.5. The molar ratio of MSA to silver was varied from 1:1 to 1:100. The  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "AgNO_{3}"
+            },
+            {
+              "type": "text",
+              "content": "  solution was then mixed with the surfactant solution under stirring. A freshly prepared  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "NaBH_{4}"
+            },
+            {
+              "type": "text",
+              "content": "  solution in anhydrous methanol was then added dropwise. The reacting solution was kept under stirring for an additional 10 min. The dark precipitate was separated from the liquid by centrifugation. The precipitated silver nanoparticles were washed by distilled water and then refluxed in methanol three times."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "bbox": [
+            0.506,
+            0.771,
+            0.921,
+            0.892
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The Ag nanoparticles were dispersed in acetone after refluxing. A certain amount of the epoxy resin (3,4-epoxycyclohexylmethyl-3,4-epoxycyclohexanecarboxylate, Aldrich) was mixed with the Ag by ball-milling for 10 h. The mixture was then mixed with the epoxy hardener (hexahydro-4-methylphthalic anhydride, Aldrich) by mechanical stirring. The thoroughly mixed epoxy–silver composites were spin-coated onto a gold-sputtered aluminum substrate. The samples were heated at  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "45^{\\circ}"
+            },
+            {
+              "type": "text",
+              "content": " C for 2 h and then at  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "160^{\\circ}"
+            },
+            {
+              "type": "text",
+              "content": " C for 1 h to cure the epoxy. This coating–heating cycle was repeated several times to achieve the desired film thickness. A gold layer was deposited as the top electrode after the curing."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "bbox": [
+            0.744,
+            0.897,
+            0.92,
+            0.922
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Received: November 4, 2004  \nFinal version: April 6, 2005"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 14,
+          "bbox": [
+            0.024,
+            0.952,
+            0.059,
+            0.965
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1780"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 15,
+          "bbox": [
+            0.081,
+            0.952,
+            0.377,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "© 2005 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 16,
+          "bbox": [
+            0.514,
+            0.952,
+            0.618,
+            0.965
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "www.advmat.de"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 17,
+          "bbox": [
+            0.754,
+            0.953,
+            0.918,
+            0.965
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Adv. Mater. 2005, 17, 1777–1781"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "index": 0,
+          "bbox": [
+            0.652,
+            0.026,
+            0.823,
+            0.066
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ADVANCED MATERIALS"
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 1,
+          "bbox": [
+            0.087,
+            0.106,
+            0.342,
+            0.119
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[1] R. Funer, Printed Circuit Des. 2002, 19, 8."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 2,
+          "bbox": [
+            0.087,
+            0.119,
+            0.364,
+            0.131
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[2] R. Snogren, Printed Circuit Fabr. 2002, 25, 26."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 3,
+          "bbox": [
+            0.088,
+            0.131,
+            0.317,
+            0.144
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[3] R. Ulrich, Circuit World 2004, 30, 20."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 4,
+          "bbox": [
+            0.087,
+            0.144,
+            0.489,
+            0.169
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[4] S. K. Bhattacharya, P. M. Raj, D. Balaraman, H. Windlass, R. R. Tummala, Circuit World 2004, 30, 31."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 5,
+          "bbox": [
+            0.087,
+            0.169,
+            0.489,
+            0.194
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[5] R. Popielarz, C. K. Chiang, R. Nozaki, J. Obrzut, Macromolecules 2001, 34, 5910."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 6,
+          "bbox": [
+            0.087,
+            0.194,
+            0.489,
+            0.219
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[6] H. Windlass, P. M. Raj, D. Balaraman, S. K. Bhattacharya, R. R. Tummala, IEEE Trans. Adv. Packag. 2003, 26, 10."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 7,
+          "bbox": [
+            0.087,
+            0.219,
+            0.489,
+            0.243
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[7] Y. Bai, Z. Y. Cheng, V. Bharti, H. S. Xu, Q. M. Zhang, Appl. Phys. Lett. 2000, 76, 3804."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 8,
+          "bbox": [
+            0.087,
+            0.244,
+            0.489,
+            0.268
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[8] S. Ogitani, S. A. Bidstrup-Allen, P. A. Kohl, IEEE Trans. Adv. Packag. 2000, 23, 313."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 9,
+          "bbox": [
+            0.087,
+            0.269,
+            0.362,
+            0.282
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[9] S. Kirkpatrick, Rev. Mod. Phys. 1973, 45, 574."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 10,
+          "bbox": [
+            0.082,
+            0.282,
+            0.489,
+            0.306
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[10] D. M. Grannan, J. C. Garland, D. B. Tanner, Phys. Rev. Lett. 1981, 46, 375."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 11,
+          "bbox": [
+            0.082,
+            0.307,
+            0.489,
+            0.331
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[11] C. Pecharromán, F. Esteban-Betegón, J. F. Bartolomé, S. López-Esteban, J. S. Moya, Adv. Mater. 2001, 13, 1541."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 12,
+          "bbox": [
+            0.082,
+            0.332,
+            0.411,
+            0.345
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[12] C. Pecharromán, J. S. Moya, Adv. Mater. 2000, 12, 294."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 13,
+          "bbox": [
+            0.082,
+            0.345,
+            0.489,
+            0.369
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[13] Y. Rao, C. P. Wong, IEEE Proc. Electron. Compon. Technol. Conf. 2002, 920."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 14,
+          "bbox": [
+            0.081,
+            0.369,
+            0.453,
+            0.383
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[14] Z. M. Dang, Y. H. Lin, C. W. Nan, Adv. Mater. 2003, 15, 1625."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 15,
+          "bbox": [
+            0.082,
+            0.382,
+            0.469,
+            0.394
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[15] Z. M. Dang, Y. Shen, C. W. Nan, Appl. Phys. Lett. 2002, 81, 4814."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 16,
+          "bbox": [
+            0.082,
+            0.395,
+            0.488,
+            0.419
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[16] L. Fan, Y. Kumashiro, C. P. Wong, IEEE Proc. Electron. Compon. Technol. Conf. 2003, 167."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 17,
+          "bbox": [
+            0.082,
+            0.42,
+            0.489,
+            0.445
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[19] The Aldrich Library of FT-IR Spectra, Vol. 1, 1st ed., Aldrich Chemical Co., Milwaukee, WI 1985, p. 528."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 18,
+          "bbox": [
+            0.082,
+            0.445,
+            0.49,
+            0.482
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[20] N. B. Colthup, L. H. Daly, S. E. Wiberley, in Introduction to Infrared and Raman Spectroscopy, 3rd ed., Academic Press, San Diego, CA 1990, p. 291."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 19,
+          "bbox": [
+            0.082,
+            0.483,
+            0.302,
+            0.495
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[17] D. Stauffer, Phys. Rep. 1979, 54, 1."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 20,
+          "bbox": [
+            0.082,
+            0.495,
+            0.332,
+            0.508
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[18] C. W. Nan, Prog. Mater. Sci. 1993, 37, 1."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 21,
+          "bbox": [
+            0.082,
+            0.508,
+            0.488,
+            0.532
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[21] D. R. Bowman, D. Stroud, Phys. Rev. B: Condens. Matter Mater. Phys. 1989, 40, 4641."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 22,
+          "bbox": [
+            0.082,
+            0.533,
+            0.44,
+            0.545
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[22] N. R. Jana, X. G. Peng, J. Am. Chem. Soc. 2003, 125, 14280."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 23,
+          "bbox": [
+            0.082,
+            0.546,
+            0.384,
+            0.558
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[23] S. H. Chen, K. Kimura, Langmuir 1999, 15, 1075."
+            }
+          ]
+        },
+        {
+          "type": "doc_title",
+          "index": 24,
+          "bbox": [
+            0.079,
+            0.605,
+            0.431,
+            0.646
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Synthesis and Photoluminescence of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{SnO}_2 / \\mathrm{SiO}_2"
+            },
+            {
+              "type": "text",
+              "content": " Microrings**"
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "text",
+          "index": 25,
+          "bbox": [
+            0.078,
+            0.66,
+            0.42,
+            0.692
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "By Xiaohong An, Guowen Meng, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{*}"
+            },
+            {
+              "type": "text",
+              "content": "  Qing Wei, Xueru Zhang, Yufeng Hao, and Lide Zhang"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 26,
+          "bbox": [
+            0.078,
+            0.705,
+            0.491,
+            0.766
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "It is well known that the physical, optical, and electronic properties of materials are dependant on their shape when their size is reduced to micrometer- and nanometer-scale dimensions. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[1-4]}"
+            },
+            {
+              "type": "text",
+              "content": "  Two-dimensional structures, such as rings, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[5-7]}"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 27,
+          "bbox": [
+            0.506,
+            0.093,
+            0.921,
+            0.612
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "disks, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[8,9]}"
+            },
+            {
+              "type": "text",
+              "content": "  prisms, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[10,11]}"
+            },
+            {
+              "type": "text",
+              "content": "  and plates, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[12,13]}"
+            },
+            {
+              "type": "text",
+              "content": "  are believed to be remarkably effective in controlling optical properties. For these reasons, micro-/nanostructured rings have become a new and interesting focus of research. Several methods have been used to prepare rings consisting of semiconductors, metals, polymers, and other materials. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[14-19]}"
+            },
+            {
+              "type": "text",
+              "content": "  For example, capped InAs quantum rings have been prepared by molecular beam epitaxy and subsequent annealing. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[14,15]}"
+            },
+            {
+              "type": "text",
+              "content": "  Ordered arrays of Au, Ni, and Si nanorings have been fabricated by using  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "Ar^{+}"
+            },
+            {
+              "type": "text",
+              "content": " sputter redeposition in a porous alumina mask. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[16]}"
+            },
+            {
+              "type": "text",
+              "content": "  Polystyrene microring resonators have been fabricated via a nanoimprinting technique. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[17]}"
+            },
+            {
+              "type": "text",
+              "content": "  Amorphous metal and semiconductor nanorings have been prepared by direct-writing inorganic electron-beam lithography. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{[19]}"
+            },
+            {
+              "type": "text",
+              "content": "  However, preparing rings by the above methods requires the use of sophisticated equipment. Here, we demonstrate that  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "SnO_{2}/SiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  microrings can be synthesized via a two-step process. In the first step, mixed powders of  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "SiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": ", carbon black, and Sn are heated at 1050 °C in a flowing argon/oxygen atmosphere to produce  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "SnO_{2}/SiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  nanoparticles (NPs) on a silicon wafer. In the second step, the obtained  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "SnO_{2}/SiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  NPs on the Si wafer are heated at 1100 °C and transformed into  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "SnO_{2}/SiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  microrings. Photoluminescence (PL) spectra of the  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "SnO_{2}/SiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  microrings with different sizes reveal two similar peaks, a UV peak centered at 393 nm and a green peak at 513 nm. When the microrings become smaller, the intensity of the 513 nm emission increases and the relative intensity of the 393 nm emission decreases. As for the PL spectrum of  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "SnO_{2}/SiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  NPs, only a strong peak around 513 nm could be observed. Thus the PL spectrum of  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "SnO_{2}/SiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  microrings can be controlled by their size and shape. Additionally, the appearance of a peak at 393 nm indicates that  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "SnO_{2}/SiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  microrings with a larger outer diameter may have favorable UV PL and may be used as UV laser emitters. The method reported here may be used to fabricate microrings of other materials."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 28,
+          "bbox": [
+            0.506,
+            0.612,
+            0.922,
+            0.924
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The general morphology of the white products obtained after the first step is shown in Figure 1a. It can be seen that large quantities of NPs are formed on the Si substrate. Energy-dispersive X-ray (EDX) analysis reveals that the NPs are composed of Si, O, and Sn. X-ray diffraction (XRD) analysis further reveals that the NPs are composed of  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "SiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  and  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "SnO_{2}"
+            },
+            {
+              "type": "text",
+              "content": " . A close-up scanning electron microscopy (SEM) image of the NPs (Fig. 1a, inset) reveals that the NPs on the Si substrate are not uniform in size and are packed together. Statistics from counting twenty of these NPs shows that the diameters of the NPs vary from 50 to 150 nm, with an average of 100 nm. Figure 1b shows the morphology of the final products after the second step. It can be seen that large numbers of microrings are self-assembled on the Si substrate, and have outer diameters of several micrometers and wall thicknesses of about 400 nm. The mean outer diameter is about 2  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mu"
+            },
+            {
+              "type": "text",
+              "content": " m according to statistics obtained by counting twenty microrings. A close-up view of the microrings (Fig. 1b, inset) reveals that the walls of the microrings are not uniform, and every microring consists of a few tens of segments, which are connected and packed together to form a circularly shaped ring."
+            }
+          ]
+        },
+        {
+          "type": "page_footnote",
+          "index": 29,
+          "bbox": [
+            0.084,
+            0.815,
+            0.485,
+            0.885
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[*] Prof. G. W. Meng, Dr. X. An, Dr. Q. Wei, Dr. X. Zhang, Dr. Y. Hao, Prof. L. D. Zhang  \nKey Laboratory of Materials Physics, Institute of Solid State Physics  \nChinese Academy of Sciences  \nHefei 230031 (P.R. China)  \nE-mail: gwmeng@issp.ac.cn"
+            }
+          ]
+        },
+        {
+          "type": "aside_text",
+          "index": 30,
+          "bbox": [
+            0.965,
+            0.042,
+            0.99,
+            0.208
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "COMMUNICATIONS"
+            }
+          ]
+        },
+        {
+          "type": "page_footnote",
+          "index": 31,
+          "bbox": [
+            0.079,
+            0.886,
+            0.492,
+            0.922
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[**] This work was supported by the Natural Science Foundation of China (Grant No. 10374092 and 50271068) and the Ministry of Science and Technology of China (Grant No. G1 999 064 501)."
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 32,
+          "bbox": [
+            0.08,
+            0.952,
+            0.246,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Adv. Mater. 2005, 17, 1781–1784"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 33,
+          "bbox": [
+            0.333,
+            0.951,
+            0.535,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "DOI: 10.1002/adma.200500207"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 34,
+          "bbox": [
+            0.942,
+            0.952,
+            0.975,
+            0.965
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "1781"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 35,
+          "bbox": [
+            0.622,
+            0.952,
+            0.919,
+            0.966
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "© 2005 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

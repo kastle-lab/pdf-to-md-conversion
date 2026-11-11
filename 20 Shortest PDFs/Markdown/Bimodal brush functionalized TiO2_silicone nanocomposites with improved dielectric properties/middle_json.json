@@ -1,0 +1,2498 @@
+{
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.9"
+    },
+    "document": {
+      "title": "Bimodal brush functionalized TiO<inf>2</inf>/silicone nanocomposites with improved dielectric properties",
+      "authors": [
+        "Yanhui Huang",
+        "Timothy M. Krentz",
+        "J. Keith Nelson",
+        "Linda S. Schadler",
+        "Michael Bell",
+        "Brian Benicewicz"
+      ],
+      "subject": "2015 IEEE Electrical Insulation Conference (EIC);2015; ; ;10.1109/ICACACT.2014.7223517",
+      "description": "2015 IEEE Electrical Insulation Conference (EIC);2015; ; ;10.1109/ICACACT.2014.7223517",
+      "created_at": "2015-07-08T09:47:33-05:00",
+      "modified_at": "2018-11-22T14:54:46-05:00",
+      "producer_application": "Acrobat Distiller 9.5.5 (Windows); modified using iText® 7.1.1 ©2000-2018 iText Group NV (AGPL-version)",
+      "page_count": 4,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "footer",
+          "index": 0,
+          "bbox": [
+            0.108,
+            0.963,
+            0.885,
+            0.975
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on July 07,2025 at 18:02:44 UTC from IEEE Xplore. Restrictions apply."
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "index": 1,
+          "bbox": [
+            0.16,
+            0.045,
+            0.839,
+            0.061
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "2015 Electrical Insulation Conference (EIC), Seattle, Washington, USA, 7 -10 June 2015"
+            }
+          ]
+        },
+        {
+          "type": "doc_title",
+          "index": 2,
+          "bbox": [
+            0.081,
+            0.075,
+            0.916,
+            0.141
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Bimodal Brush Functionalized TiO₂/silicone Nanocomposites with Improved Dielectric Properties"
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.082,
+            0.154,
+            0.464,
+            0.186
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Yanhui Huang, Timothy M. Krentz, J. Keith Nelson, and Linda S. Schadler"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.128,
+            0.188,
+            0.419,
+            0.232
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Dept. of Materials Science and Engineering\nRensselaer Polytechnic Institute\nTroy, NY USA"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.085,
+            0.239,
+            0.264,
+            0.255
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Email: huangy12@rpi.edu"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.073,
+            0.268,
+            0.489,
+            0.377
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Abstract— Bimodal ligand engineering was applied in  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": " /silicone nanocomposites to independently control the nanoparticle dispersion and interface properties. The introduction of well-dispersed anthracene grafted  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  nanoparticles improved the AC breakdown strength and retarded the space charge accumulation in silicone rubber. A candidate mechanism of charge trapping and impact ionization of  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  and anthracene is proposed to explain the improvements."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.073,
+            0.373,
+            0.489,
+            0.4
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Keywords: nanocomposite; silicone; bimodal ligand engineering; charge trapping; impact Ionization;"
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 8,
+          "bbox": [
+            0.219,
+            0.409,
+            0.358,
+            0.421
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "I. INTRODUCTION"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.072,
+            0.426,
+            0.49,
+            0.66
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Carefully tuning the interface properties of nanocomposites is critical to achieving good dielectric properties. This is usually done by grafting functional molecules to the nanoparticle. However, it is difficult to independently control the nanoparticle dispersion and the electronic features of the interface. Bimodal ligand engineering has proved an effective way to both introduce functionality and control dispersion [1]. In this method, two types of molecules are grafted to the nanoparticle: a low graft density of high molecular weight matrix compatible polymer and a high graft density of electronically active small molecules. The grafted polymers are used to create favorable interactions with the matrix and ensure a good dispersion of the nanoparticle, while the small molecules can act as potential charge trapping centers. This has been successful in "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{SiO_2}"
+            },
+            {
+              "type": "text",
+              "content": "/epoxy nanocomposites with a low graft density of polyglycidyl methacrylate long chains and a high graft density of small conjugated molecules [1, 2]."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "bbox": [
+            0.595,
+            0.157,
+            0.856,
+            0.219
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Michael Bell and Brian Benicewicz\nDept. of Chemistry and Biochemistry\nUniversity of South Carolina\nColumbia, SC USA"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "bbox": [
+            0.072,
+            0.659,
+            0.489,
+            0.825
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In this work, we expand the bimodal ligand engineering method to  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": " /silicone nanocomposites. By using a “grafting to” approach, two populations of polydimethylsiloxane (PDMS) chains were grafted to the  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  nanoparticles. The long chains entangled with the matrix and short chains provided sufficient shielding against the nanoparticle core-core attraction [3]. The nanoparticle dispersion improved after PDMS grafting and further attachment of anthracene molecules did not significantly impact the dispersion. The effects of  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  and anthracene were investigated by AC breakdown tests, dielectric spectroscopy, pulse electro-acoustic analysis (PEA) and a dc conductivity test."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 12,
+          "bbox": [
+            0.095,
+            0.833,
+            0.478,
+            0.848
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "II. MATERIAL SYNTHESIS AND SAMPLE PARAPARATION"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "paragraph_title",
+          "index": 13,
+          "bbox": [
+            0.074,
+            0.855,
+            0.435,
+            0.87
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "A. Synthesis of Anthracene Grafted "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " nanoparticles"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "bbox": [
+            0.073,
+            0.873,
+            0.489,
+            0.901
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The synthesis of PDMS grafted "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " nanoparticles was documented elsewhere [3]. The "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " nanoparticle are anatase"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "bbox": [
+            0.509,
+            0.26,
+            0.925,
+            0.316
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "with a narrow size distribution of 5 nm in diameter. Two populations of PDMS chains were grafted to the nanoparticles with a molecular weight of 36k at a graft density of 0.01 ch/nm "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{2}"
+            },
+            {
+              "type": "text",
+              "content": " and 10k at 0.1 ch/nm "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{2}"
+            },
+            {
+              "type": "text",
+              "content": "."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "image",
+          "index": 16,
+          "bbox": [
+            0.515,
+            0.324,
+            0.925,
+            0.404
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 16,
+              "bbox": [
+                0.515,
+                0.324,
+                0.925,
+                0.404
+              ],
+              "image_path": "images/page_0_image_16.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 17,
+              "bbox": [
+                0.511,
+                0.405,
+                0.924,
+                0.428
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 1 The TEM images of (a) "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "4\\mathrm{wt}\\%"
+                },
+                {
+                  "type": "text",
+                  "content": " as-synthesized "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\mathrm{TiO_2}"
+                },
+                {
+                  "type": "text",
+                  "content": ", (b) "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "2\\mathrm{wt}\\%"
+                },
+                {
+                  "type": "text",
+                  "content": " PDMS-"
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\mathrm{TiO_2}"
+                },
+                {
+                  "type": "text",
+                  "content": ", (c) "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "2\\mathrm{wt}\\%"
+                },
+                {
+                  "type": "text",
+                  "content": " PDMS-Anth-"
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\mathrm{TiO_2}"
+                },
+                {
+                  "type": "text",
+                  "content": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 18,
+          "bbox": [
+            0.511,
+            0.435,
+            0.882,
+            0.465
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "B. Grafting 9- anthracenemethylphosphonic acid to the PDMS grafted "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " nanoparticle"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 19,
+          "bbox": [
+            0.509,
+            0.467,
+            0.926,
+            0.605
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In a typical synthesis step, 0.056 g of 9-anthracenemethylphosphonic acid (the detailed synthesis of 9-anthracenemethylphosphonic acid will be discussed in another paper) was dissolved in 50 ml tetrahydrofuran (THF) and 1.0 g PDMS grafted  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  nanoparticles were added to the solution using an ice bath. The mixture was warmed up to room temperature and stirred overnight. The nanoparticles were recovered by precipitation in methanol, and then re-dispersed in THF. The graft density of anthracene is  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\sim0.3~ch/nm^{2}"
+            },
+            {
+              "type": "text",
+              "content": "  determined by UV-Vis spectroscopy [2]."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 20,
+          "bbox": [
+            0.511,
+            0.611,
+            0.674,
+            0.626
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "C. Sample Preparation"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 21,
+          "bbox": [
+            0.509,
+            0.629,
+            0.926,
+            0.768
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Silicone rubber (Sylgard "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{®}"
+            },
+            {
+              "type": "text",
+              "content": "  184 from Dow Corning) was used as the polymer matrix. Sylgard "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{®}"
+            },
+            {
+              "type": "text",
+              "content": "  184 contains 40 wt% fumed silica as a reinforcing filler. The resin was dissolved in THF to mix with the TiO "
+            },
+            {
+              "type": "equation_inline",
+              "content": "_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  nanoparticles and then the solvent was removed under vacuum. The cross-linker was added at a 10:1 weight ratio before shear mixing at 3500 rpm for 1 min. The resin was cast in a flat aluminum dish and cured at 110  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "{}^{\\circ}"
+            },
+            {
+              "type": "text",
+              "content": " C under vacuum for 1.5 h. The cured samples were stored in a desiccator and conditioned at 70  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "{}^{\\circ}"
+            },
+            {
+              "type": "text",
+              "content": " C under vacuum overnight before dielectric testing."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 22,
+          "bbox": [
+            0.594,
+            0.776,
+            0.849,
+            0.79
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "III. MATERIAL CHARACTERIZATION"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 23,
+          "bbox": [
+            0.509,
+            0.795,
+            0.927,
+            0.907
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Transmission electron microscopy (TEM) sections were microtomed from samples at  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "-140\\ ^{0}C"
+            },
+            {
+              "type": "text",
+              "content": "  with a thickness of 80 nm. The distribution of  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  nanoparticles in the silicone matrix was characterized from TEM images. The breakdown samples were  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "400 \\pm 30 \\mu m"
+            },
+            {
+              "type": "text",
+              "content": "  thin films. The thickness at several points was measured with a micrometer before testing. The top electrode was made of stainless steel and is spherical with a diameter of 5 mm. The bottom electrode was the supporting"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 24,
+          "bbox": [
+            0.084,
+            0.939,
+            0.402,
+            0.954
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "978-1-4799-7354-5/15/\\$31.00 ©2015 IEEE"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 25,
+          "bbox": [
+            0.484,
+            0.94,
+            0.516,
+            0.953
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "325"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "bbox": [
+            0.073,
+            0.072,
+            0.491,
+            0.321
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "aluminum dish on which the sample was cured. The tests were carried out in transformer-grade silicone oil to avoid flashover. The short term AC breakdown strength was measured by manually ramping the voltage at a rate of approximately 500 V/s, taking the maximum voltage as the breakdown voltage. Dielectric spectroscopy measurements were carried out with a Novocontrol Alpha analyzer. The pulse electro-acoustic (PEA) test used an aluminum bottom electrode as ground and a carbon black loaded semi-conductive polymer top electrode. The applied voltage was DC, and the probe pulse had a width of 10 ns, a repetition frequency of 140 Hz, and an amplitude of 300 V. The sample used for volume DC conductivity testing had a thickness of 50  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mu"
+            },
+            {
+              "type": "text",
+              "content": " m with a supporting aluminum disk as the anode, and a brass guarded electrode as the cathode. The voltage was increased in a stepwise manner using 500 V increments, but 10 min was allowed for stabilization at each voltage until breakdown. Three samples were tested for each group."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "chart",
+          "index": 1,
+          "bbox": [
+            0.096,
+            0.326,
+            0.457,
+            0.53
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 1,
+              "bbox": [
+                0.096,
+                0.326,
+                0.457,
+                0.53
+              ],
+              "image_path": "images/page_1_chart_1.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 2,
+              "bbox": [
+                0.074,
+                0.532,
+                0.489,
+                0.557
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 2 Weibul plot of measured breakdown strength of neat Sylgard "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "184^{\\text{®}}"
+                },
+                {
+                  "type": "text",
+                  "content": " and its nanocomposites."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 3,
+          "bbox": [
+            0.176,
+            0.566,
+            0.395,
+            0.579
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "IV. RESULTS AND DISCUSSION"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.073,
+            0.585,
+            0.489,
+            0.667
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "As shown in Fig. 1, the as-synthesized  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  tended to agglomerate into clusters larger than 50 nm in the silicone matrix. After grafting with two populations of PDMS chains, the dispersion state was greatly improved and individual particles can be seen. Further grafting with anthracene did not change the dispersion significantly."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.073,
+            0.666,
+            0.489,
+            0.763
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Fig. 2 shows a Weibull plot of the AC breakdown strength for different samples. The introduction of  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  nanoparticles regardless of the dispersion does not significantly change the AC breakdown strength of the silicone. But the breakdown strength was increased by 8 % in the 2wt% PDMS-Anth- "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  filled sample. Increasing the loading of nanoparticles to 4wt% did not further improve the breakdown strength."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.072,
+            0.762,
+            0.491,
+            0.915
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The real permittivity of neat silicone and  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  filled samples at high frequencies are almost the same with a value of 3.1, see Fig. 3. At low frequencies, an increase of real and imaginary permittivity was observed in all samples but with different slope and magnitude. For a better view of the low frequency processes, the dielectric susceptibility  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\chi^{*}"
+            },
+            {
+              "type": "text",
+              "content": "  was plotted as a function of frequency. As Jonscher [4] suggested,  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\chi^{*}"
+            },
+            {
+              "type": "text",
+              "content": "  can be defined as  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\chi^{*} = [\\varepsilon^{*} - \\varepsilon_{\\infty}] / \\varepsilon_{0} = \\chi' - i\\chi''"
+            },
+            {
+              "type": "text",
+              "content": " , where  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{0} = 8.854 \\times 10^{-12} F m^{-1}"
+            },
+            {
+              "type": "text",
+              "content": " , and  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon_{\\infty}"
+            },
+            {
+              "type": "text",
+              "content": "  is taken as the real permittivity at the frequency of 1 MHz. Several processes can operate in the low frequency region including hopping conduction (also known as low"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.509,
+            0.072,
+            0.925,
+            0.101
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "frequency dispersion–LFD) [5], pure dc conduction, and interfacial polarization."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "chart",
+          "index": 8,
+          "bbox": [
+            0.546,
+            0.107,
+            0.891,
+            0.268
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 8,
+              "bbox": [
+                0.546,
+                0.107,
+                0.891,
+                0.268
+              ],
+              "image_path": "images/page_1_chart_8.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 10,
+          "bbox": [
+            0.532,
+            0.287,
+            0.887,
+            0.46
+          ],
+          "content": [
+            {
+              "type": "chart_caption",
+              "index": 9,
+              "bbox": [
+                0.686,
+                0.274,
+                0.77,
+                0.287
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Frequency (Hz)"
+                }
+              ]
+            },
+            {
+              "type": "chart_body",
+              "index": 10,
+              "bbox": [
+                0.532,
+                0.287,
+                0.887,
+                0.46
+              ],
+              "image_path": "images/page_1_chart_10.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 11,
+              "bbox": [
+                0.511,
+                0.46,
+                0.925,
+                0.485
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 3 The real relative permittivity (inset), real susceptibility "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\chi'"
+                },
+                {
+                  "type": "text",
+                  "content": " and imaginary susceptibility "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\chi''"
+                },
+                {
+                  "type": "text",
+                  "content": " of different samples."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "bbox": [
+            0.533,
+            0.49,
+            0.921,
+            0.505
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In LFD, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\chi"
+            },
+            {
+              "type": "text",
+              "content": " follows a power law behavior with frequency[5],"
+            }
+          ]
+        },
+        {
+          "type": "equation",
+          "index": 13,
+          "bbox": [
+            0.61,
+            0.507,
+            0.923,
+            0.523
+          ],
+          "image_path": "images/page_1_equation_13.jpg",
+          "content": "\\chi^ {\\prime} (\\omega) \\propto \\chi^ {\\prime \\prime} (\\omega) \\propto \\omega^ {- n}, 0 <   \\mathrm{n} <   1.\\tag{1}"
+        },
+        {
+          "type": "text",
+          "index": 14,
+          "bbox": [
+            0.509,
+            0.525,
+            0.926,
+            0.553
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The LFD phenomena can easily be confused with the onset of dc conduction, for which"
+            }
+          ]
+        },
+        {
+          "type": "equation",
+          "index": 15,
+          "bbox": [
+            0.619,
+            0.554,
+            0.923,
+            0.598
+          ],
+          "image_path": "images/page_1_equation_15.jpg",
+          "content": "\\begin{array}{l}\\chi^ {\\prime} (\\omega) \\rightarrow c o n s t\\\\\\chi^ {\\prime \\prime} (\\omega) \\propto \\sigma_ {d c} / \\omega\\end{array}\\begin{array}{l}\\square\\\\\\boxed {\\omega} \\rightarrow 0\\end{array}\\tag{2}"
+        },
+        {
+          "type": "text",
+          "index": 16,
+          "bbox": [
+            0.509,
+            0.6,
+            0.925,
+            0.659
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "with "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\sigma_{\\mathrm{dc}}"
+            },
+            {
+              "type": "text",
+              "content": " as the frequency-independent dc conductivity [6]. Similarly the Maxwell-Wagner-Sillars (MWS) interfacial polarization effect predicts a limiting behavior of the form of (2) but on the higher-frequency side of the peak"
+            }
+          ]
+        },
+        {
+          "type": "equation",
+          "index": 17,
+          "bbox": [
+            0.609,
+            0.659,
+            0.923,
+            0.676
+          ],
+          "image_path": "images/page_1_equation_17.jpg",
+          "content": "\\chi^ {\\prime \\prime} (\\omega) \\propto \\omega^ {- 1} \\text {and} \\chi^ {\\prime} (\\omega) \\propto \\omega^ {- 2}\\tag{3}"
+        },
+        {
+          "type": "text",
+          "index": 18,
+          "bbox": [
+            0.508,
+            0.678,
+            0.927,
+            0.925
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "the relaxation time of which scales inversely with the conductivity of each phase [6]. The low frequency power-law behavior of each sample is analyzed and summarized in Table I. As Fig. 3 shows, the magnitude of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\chi"
+            },
+            {
+              "type": "text",
+              "content": " follows the descending order of neat Sylgard"
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{\\textregistered}"
+            },
+            {
+              "type": "text",
+              "content": " "
+            },
+            {
+              "type": "equation_inline",
+              "content": "184 > 4\\mathrm{wt}\\%"
+            },
+            {
+              "type": "text",
+              "content": " as-synthesized "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": ", "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\approx 2\\mathrm{wt}\\%"
+            },
+            {
+              "type": "text",
+              "content": " PDMS-"
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2} > 2\\mathrm{wt}\\%"
+            },
+            {
+              "type": "text",
+              "content": " PDMS-Anth-"
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": ", suggesting that some processes were suppressed with the addition of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " and anthracene. From this perspective, the relaxations in neat Sylgard"
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{\\textregistered}"
+            },
+            {
+              "type": "text",
+              "content": " 184 can be explained as a combination of LFD, dc conduction and the interfacial polarization between silica particles and polymer matrix. The introduction of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " reduced the magnitude of the existing interfacial polarization. This may be the caused by the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " limiting the movement of space charge, which would shift the polarization to lower frequencies. The addition of anthracene further reduced the conductivity and resulted in an even lower loss. The reduction in conductivity can potentially be explained by trapping of"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 19,
+          "bbox": [
+            0.484,
+            0.94,
+            0.516,
+            0.953
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "326"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 20,
+          "bbox": [
+            0.108,
+            0.963,
+            0.885,
+            0.976
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on July 07,2025 at 18:02:44 UTC from IEEE Xplore. Restrictions apply."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "bbox": [
+            0.702,
+            0.079,
+            0.724,
+            0.09
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "(1B)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "bbox": [
+            0.072,
+            0.073,
+            0.49,
+            0.275
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "charge by the surface states in "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " and anthracene. The well dispersed "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " nanoparticles and anthracene molecules may provide a myriad of deep traps for both electrons and holes as they have larger electron affinity (EA) (5.1 eV for "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " and 0.6 eV for anthracene) and smaller ionization potential (IP) (8.3 eV for "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " and 7.4 eV for anthracene) compared to the matrix polymer (estimated as polyethylene EA = -0.65 eV, IP = 8.15 eV)[7-9]. These traps would reduce the charge mobility and result in a low loss at low frequencies. The additional loss peak in the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "4\\mathrm{wt}\\%"
+            },
+            {
+              "type": "text",
+              "content": " as-synthesized "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " sample at "
+            },
+            {
+              "type": "equation_inline",
+              "content": "10\\mathrm{Hz}"
+            },
+            {
+              "type": "text",
+              "content": " is ascribed to the interfacial polarization between the polymer and "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " clusters. However, this peak disappeared in samples for which "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " nanoparticles were individually dispersed, implying a reduction of local field distortion."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 3,
+          "bbox": [
+            0.076,
+            0.309,
+            0.493,
+            0.473
+          ],
+          "content": [
+            {
+              "type": "table_caption",
+              "index": 2,
+              "bbox": [
+                0.082,
+                0.28,
+                0.481,
+                0.304
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "TABLE I. THE FITTED POWER-LAW BEHAVIOR OF DIFFERENT SAMPLES AT LOW FREQUENCIES AND THE INFERRED DOMINANT PROCESSES."
+                }
+              ]
+            },
+            {
+              "type": "table_body",
+              "index": 3,
+              "bbox": [
+                0.076,
+                0.309,
+                0.493,
+                0.473
+              ],
+              "image_path": "images/page_2_table_3.jpg",
+              "content": "<table><tr><td>Sample</td><td>Power-law Behavior at Low Frequencies</td><td>Dominant Processes</td></tr><tr><td>neat Sylgard® 184</td><td><eq>\\chi&#x27;(\\omega) \\propto \\omega^{-1.4}</eq>;<eq>\\chi&#x27;&#x27;(\\omega) \\propto \\omega^{-0.9}</eq></td><td>LFD, MWS, dc conduction</td></tr><tr><td>4wt% as-synthesized <eq>TiO_{2}</eq></td><td><eq>\\chi&#x27;(\\omega) \\propto \\chi&#x27;&#x27;(\\omega) \\propto \\omega^{-0.8}</eq></td><td>LFD, dc conduction</td></tr><tr><td>2wt% PDMS- <eq>TiO_{2}</eq></td><td><eq>\\chi&#x27;(\\omega) \\propto \\chi&#x27;&#x27;(\\omega) \\propto \\omega^{-0.9}</eq></td><td>LFD, dc conduction</td></tr><tr><td>2wt% PDMS-Anth-<eq>TiO_{2}</eq></td><td><eq>\\chi&#x27;(\\omega) \\propto \\omega^{-0.2}</eq>;<eq>\\chi&#x27;&#x27;(\\omega) \\propto \\omega^{-0.8}</eq></td><td>dc conduction</td></tr></table>"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.072,
+            0.485,
+            0.491,
+            0.856
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The trapping of charge by  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  and anthracene was further supported by the PEA test. Fig. plots the space charge profile of different samples as a function of time for voltage-on and voltage-off cases. The low Young's modulus of silicone rubber causes a large acoustic attenuation, which renders the magnitude of the image charge peak at the cathode 1/3 of that at the anode. For neat Sylgard "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{\\circledR}"
+            },
+            {
+              "type": "text",
+              "content": "  184 and 2wt% PDMS- "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  samples, heterocharge accumulation at the cathode was observed immediately after the voltage application (shown as a small spreaded peak near the cathode), which is not seen in the anthracene modified  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  filled sample. These fast moving heterocharges have a mobility greater than  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "10^{-11} m^{2} V^{-1} s^{-1}"
+            },
+            {
+              "type": "text",
+              "content": "  and may have a solitonic nature as proposed by Montanari et al. [10]. For those charges travelling at a slow speed ( "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mu \\sim 10^{-14} m^{2} V^{-1} s^{-1}"
+            },
+            {
+              "type": "text",
+              "content": " ), both electron and hole injection were observed in all samples and showed different transport speed and injected quantity, in the order of neat Sylard 184 > 2wt% PDMS- "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  > 2wt% PDMS-Anth- "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": " , suggesting a trapping mechanism operates in the  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  and anthracene modified TiO2 composites. This is further supported by comparing the charge decay rate in the voltage-off cases. The neat Sylgard "
+            },
+            {
+              "type": "equation_inline",
+              "content": "^{\\circledR}"
+            },
+            {
+              "type": "text",
+              "content": "  184 sample has the fastest charge decay rate and almost all charges decayed within the first minute, indicating that the charge resides in shallow traps, In the  "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": "  and anthracene modified TiO2 filled samples, the charge decayed at a much slower rate. Similar phenomena were observed at higher fields of 20 and 30 kV/mm."
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 5,
+          "bbox": [
+            0.512,
+            0.077,
+            0.699,
+            0.179
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 5,
+              "bbox": [
+                0.512,
+                0.077,
+                0.699,
+                0.179
+              ],
+              "image_path": "images/page_2_chart_5.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 6,
+          "bbox": [
+            0.512,
+            0.18,
+            0.699,
+            0.28
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 6,
+              "bbox": [
+                0.512,
+                0.18,
+                0.699,
+                0.28
+              ],
+              "image_path": "images/page_2_chart_6.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 7,
+          "bbox": [
+            0.708,
+            0.075,
+            0.919,
+            0.177
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 7,
+              "bbox": [
+                0.708,
+                0.075,
+                0.919,
+                0.177
+              ],
+              "image_path": "images/page_2_chart_7.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 8,
+          "bbox": [
+            0.702,
+            0.178,
+            0.918,
+            0.28
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 8,
+              "bbox": [
+                0.702,
+                0.178,
+                0.918,
+                0.28
+              ],
+              "image_path": "images/page_2_chart_8.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 9,
+          "bbox": [
+            0.512,
+            0.283,
+            0.699,
+            0.381
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 9,
+              "bbox": [
+                0.512,
+                0.283,
+                0.699,
+                0.381
+              ],
+              "image_path": "images/page_2_chart_9.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 10,
+          "bbox": [
+            0.703,
+            0.28,
+            0.919,
+            0.379
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 10,
+              "bbox": [
+                0.703,
+                0.28,
+                0.919,
+                0.379
+              ],
+              "image_path": "images/page_2_chart_10.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 11,
+              "bbox": [
+                0.511,
+                0.383,
+                0.925,
+                0.418
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 4 The space charge profile at "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "10\\mathrm{kV / mm}"
+                },
+                {
+                  "type": "text",
+                  "content": " of (1) neat Sylgard® 184, (2) "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "2\\mathrm{wt}\\%"
+                },
+                {
+                  "type": "text",
+                  "content": " PDMS-"
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\mathrm{TiO_2}"
+                },
+                {
+                  "type": "text",
+                  "content": ", (3) "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "2\\mathrm{wt}\\%"
+                },
+                {
+                  "type": "text",
+                  "content": " PDMS-Anth-"
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\mathrm{TiO_2}"
+                },
+                {
+                  "type": "text",
+                  "content": " ((A) for voltage-on and (B) for voltage-off cases). The red arrow shows the space charge evolution with time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 12,
+          "bbox": [
+            0.558,
+            0.425,
+            0.871,
+            0.58
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 12,
+              "bbox": [
+                0.558,
+                0.425,
+                0.871,
+                0.58
+              ],
+              "image_path": "images/page_2_chart_12.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 13,
+          "bbox": [
+            0.553,
+            0.584,
+            0.88,
+            0.74
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 13,
+              "bbox": [
+                0.553,
+                0.584,
+                0.88,
+                0.74
+              ],
+              "image_path": "images/page_2_chart_13.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 14,
+              "bbox": [
+                0.51,
+                0.742,
+                0.925,
+                0.777
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 5 The "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "I - E"
+                },
+                {
+                  "type": "text",
+                  "content": " characteristics of neat Sylgard® 184, "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "2\\mathrm{wt}\\%"
+                },
+                {
+                  "type": "text",
+                  "content": " PDMS-"
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\mathrm{TiO_2}"
+                },
+                {
+                  "type": "text",
+                  "content": " and "
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "2\\mathrm{wt}\\%"
+                },
+                {
+                  "type": "text",
+                  "content": " PDMS-Anth-"
+                },
+                {
+                  "type": "equation_inline",
+                  "content": "\\mathrm{TiO_2}"
+                },
+                {
+                  "type": "text",
+                  "content": ". The current was averaged from three tested samples. The fitting results of a Poole-Frenkel effect are shown."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "bbox": [
+            0.509,
+            0.782,
+            0.927,
+            0.922
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The magnitude of the injected space charge and the transport speed can be reflected in the magnitude of the external current and this was evident in the dc conductivity test. The "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " and anthracene modified "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " filled samples showed a decrease in conductivity at fields below "
+            },
+            {
+              "type": "equation_inline",
+              "content": "40\\mathrm{kV / mm}"
+            },
+            {
+              "type": "text",
+              "content": " compared to neat Sylgard® 184. In this low field range, we hypothesize that the current in all samples was dominated by space charge injection and transport. The currents have a similar scale factor with the field and the values are of the same order of magnitude of that deduced from the space charge"
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 16,
+          "bbox": [
+            0.484,
+            0.94,
+            0.515,
+            0.953
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "327"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 17,
+          "bbox": [
+            0.109,
+            0.963,
+            0.885,
+            0.976
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on July 07,2025 at 18:02:44 UTC from IEEE Xplore. Restrictions apply."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "bbox": [
+            0.072,
+            0.072,
+            0.489,
+            0.224
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "accumulation rate in PEA. However, at higher fields (for instance, above 50 kV/mm for the 2wt% PDMS- "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": " filled sample and above 30 kV/mm for the 2wt% PDMS-Anth- "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": " ), a remarkable increase in the current with field was observed. This may be caused by impact ionization of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "TiO_{2}"
+            },
+            {
+              "type": "text",
+              "content": " and anthracene molecules as they have a much smaller band gap ( "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\sim3.0~eV"
+            },
+            {
+              "type": "text",
+              "content": " ) than the matrix polymer (>8 eV) and thus are subject to easier impact ionization [11]. They would act like electron/hole donors. Thus the I-E characteristics can be decribed by the the Poole-Frenkel effect for which the conductivity is given as:"
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "equation",
+          "index": 1,
+          "bbox": [
+            0.114,
+            0.224,
+            0.486,
+            0.261
+          ],
+          "image_path": "images/page_3_equation_1.jpg",
+          "content": "\\sigma = N _ {e f f} ^ {1 / 2} N _ {D} ^ {1 / 2} e \\mu \\exp \\left(\\frac {- \\Delta}{2 k _ {B} T}\\right) \\exp \\left\\{\\frac {e ^ {3 / 2} E ^ {1 / 2}}{\\left(4 \\pi \\varepsilon_ {0} \\varepsilon_ {r}\\right) ^ {1 / 2} k _ {B} T} \\right\\}\\tag{4}"
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.072,
+            0.263,
+            0.49,
+            0.85
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "where "
+            },
+            {
+              "type": "equation_inline",
+              "content": "N_{eff}"
+            },
+            {
+              "type": "text",
+              "content": " is the effective density of states in the conduction band; "
+            },
+            {
+              "type": "equation_inline",
+              "content": "N_D"
+            },
+            {
+              "type": "text",
+              "content": " is the density of donors; "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\Delta"
+            },
+            {
+              "type": "text",
+              "content": " is the barrier height and "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mu"
+            },
+            {
+              "type": "text",
+              "content": " is the charge mobility [12]. A plot of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\ln \\sigma"
+            },
+            {
+              "type": "text",
+              "content": " versus "
+            },
+            {
+              "type": "equation_inline",
+              "content": "E^{1/2}"
+            },
+            {
+              "type": "text",
+              "content": " yields a straight line giving an intercept of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\ln (N_{eff}^{1/2} N_D^{1/2} e\\mu) - \\Delta / (2k_BT)"
+            },
+            {
+              "type": "text",
+              "content": " and a slope of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "e^{3/2} / [(4\\pi\\varepsilon_0\\varepsilon_r)^{1/2} k_BT]"
+            },
+            {
+              "type": "text",
+              "content": " (Fig. 5). The relative permittivity calculated from the slope is 3.5, about 13% higher than the measured value by dielectric spectroscopy. The discrepancy could be explained by ionization taking place at the interface between the nanoparticle and the polymer matrix. In this case, the dielectric constant used in the equation should involve a local contribution from the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " nanoparticles, which can yield a larger value than the bulk. The fitted intercept gives information about the energy barrier for the charge to escape. For example, in the 2wt% PDMS-"
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " sample, if we assume that: 1) the effective density of states is of the same order of magnitude as the number of atoms per unit volume in silicone, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "N_{eff} = 10^{29} \\mathrm{~m}^{-3}"
+            },
+            {
+              "type": "text",
+              "content": ", 2) the density of donor states equals the volume fraction of the nanoparticles, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "N_D = 0.005 N_{eff}"
+            },
+            {
+              "type": "text",
+              "content": ", and 3) the mobility is "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mu = 10^{-14} \\mathrm{~m}^2 \\mathrm{~V}^{-1} \\mathrm{~s}^{-1}"
+            },
+            {
+              "type": "text",
+              "content": " (deduced from the space charge transport in PEA), the calculated energy barrier is 1.3 eV. Similarly, in the 2wt% PDMS-Anth-"
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " sample, assuming a reduced mobility of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mu = 10^{-15} \\mathrm{~m}^2 \\mathrm{~V}^{-1} \\mathrm{~s}^{-1}"
+            },
+            {
+              "type": "text",
+              "content": ", the donor states density from anthracene of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "N_D = 0.0005 N_{eff}"
+            },
+            {
+              "type": "text",
+              "content": ", and subtracting the contribution from "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " nanoparticles, the barrier for anthracene is 1.1 eV. In addition, for the Poole-Frenkel effect to be dominant, the electrode contact must be ohmic in order for current continuity to be maintained, which might be explained by the following mechanism. Because impact ionization will generate a large number of heterocharges close to the electrode, charges at the electrode can be injected into the sample via a downward recombination, which is more energetically favorable compared to an upward thermionic emission. So there would be no limit for charge flow at the electrode. The ionization of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " nanoparticles or anthracene creates more free electrons/holes, which however may be beneficial to the polymer as it can dissipate the kinetic energy of the hot electrons and limit the electron energy below 4 eV, which is usually considered the threshold energy to break the bonds of polymer chains."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 3,
+          "bbox": [
+            0.655,
+            0.073,
+            0.791,
+            0.086
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "V. CONCLUSIONS"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.509,
+            0.092,
+            0.927,
+            0.34
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The dispersion state of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " nanoparticles can be greatly improved by grafting two populations of PDMS chains to the nanoparticle, with sparsely grafted long chains entangling with the matrix and densely grafted short chains providing sufficient screening of nanoparticle attractions[3]. Backfilling the nanoparticle with anthracene did not affect the dispersion. The well dispersed "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " and anthracene modified "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " in the silicone matrix led to improved dielectric properties of increased breakdown strength and suppressed space charge accumulation. These changes in properties might be the result of charge trapping and ionization. "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " and anthracene can provide deep traps both for electrons and holes due to their larger EA and smaller IP compared to the matrix. However, because of the small band gaps, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{TiO_2}"
+            },
+            {
+              "type": "text",
+              "content": " and anthracene are prone to the impact ionization by hot electrons, leading to an increase in the current at high field. The ionization creates more free electrons/holes, but could also be a way to dissipate the energy of hot electrons and avoid damaging the polymer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 5,
+          "bbox": [
+            0.646,
+            0.349,
+            0.791,
+            0.361
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ACKNOWLEDGEMENT"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.511,
+            0.367,
+            0.925,
+            0.397
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "This work is supported by the U.S. Office of Naval Research under Grant N000141310173."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 7,
+          "bbox": [
+            0.674,
+            0.406,
+            0.763,
+            0.42
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "REFERENCES"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "ref_text",
+          "index": 8,
+          "bbox": [
+            0.513,
+            0.425,
+            0.915,
+            0.482
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[1] S. Virtanen, T. M. Krentz, J. K. Nelson, L. S. Schadler, M. Bell, B. Benicewicz, et al., \"Dielectric breakdown strength of epoxy bimodal-polymer-brush-grafted core functionalized silica nanocomposites,\" Dielectrics and Electrical Insulation, IEEE Transactions on, vol. 21, pp. 563-570, 2014."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 9,
+          "bbox": [
+            0.513,
+            0.483,
+            0.91,
+            0.54
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[2] T. M. Krentz, Y. Huang, J. K. Nelson, L. S. Schadler, M. Bell, B. Benicewicz, et al., \"Enhanced charge trapping in bimodal brush functionalized silica-epoxy nanocomposite dielectrics,\" in Electrical Insulation and Dielectric Phenomena (CEIDP), 2014 IEEE Conference on, 2014, pp. 643-646."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 10,
+          "bbox": [
+            0.513,
+            0.541,
+            0.884,
+            0.575
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[3] Y. Li, P. Tao, A. Viswanath, B. C. Benicewicz, and L. S. Schadler, \"Bimodal surface ligand engineering: the key to tunable nanocomposites,\" Langmuir, vol. 29, pp. 1211-20, Jan 29 2013."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 11,
+          "bbox": [
+            0.513,
+            0.575,
+            0.917,
+            0.597
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[4] A. K. Jonscher, \"The universal dielectric response,\" Nature, vol. 267, pp. 673-679, 1977."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 12,
+          "bbox": [
+            0.514,
+            0.598,
+            0.899,
+            0.644
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[5] L. A. Dissado and R. M. Hill, \"Anomalous low-frequency dispersion. Near direct current conductivity in disordered low-dimensional materials,\" Journal of the Chemical Society, Faraday Transactions 2: Molecular and Chemical Physics, vol. 80, pp. 291-319, 1984."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 13,
+          "bbox": [
+            0.514,
+            0.645,
+            0.878,
+            0.667
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[6] F. Kremer and A. Schönhals, Broadband dielectric spectroscopy: Springer, 2003."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 14,
+          "bbox": [
+            0.514,
+            0.668,
+            0.919,
+            0.713
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[7] H. Zhang, Y. Shang, X. Wang, H. Zhao, B. Han, and Z. Li, \"Mechanisms on electrical breakdown strength increment of polyethylene by aromatic carbonyl compounds addition: a theoretical study,\" J Mol Model, vol. 19, pp. 5429-38, Dec 2013."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 15,
+          "bbox": [
+            0.514,
+            0.713,
+            0.923,
+            0.747
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[8] J. Robertson, \"Band offsets of wide-band-gap oxides and implications for future electronic devices,\" Journal of Vacuum Science & Technology B, vol. 18, pp. 1785-1791, 2000."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 16,
+          "bbox": [
+            0.514,
+            0.748,
+            0.912,
+            0.782
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[9] G. Teyssedre and C. Laurent, \"Charge transport modeling in insulating polymers: from molecular to macroscopic scale,\" Dielectrics and Electrical Insulation, IEEE Transactions on, vol. 12, pp. 857-875, 2005."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 17,
+          "bbox": [
+            0.514,
+            0.783,
+            0.901,
+            0.816
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[10]G. Montanari, L. Dissado, and S. Serra, \"The hidden threat to HVDC polymeric insulation at design field: Solitonic conduction,\" Electrical Insulation Magazine, IEEE, vol. 30, pp. 39-50, 2014."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 18,
+          "bbox": [
+            0.514,
+            0.817,
+            0.921,
+            0.851
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[11]O. Lesaint and M. Jung, \"On the relationship between streamer branching and propagation in liquids: influence of pyrene in cyclohexane,\" Journal of Physics D: Applied Physics, vol. 33, p. 1360, 2000."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 19,
+          "bbox": [
+            0.513,
+            0.851,
+            0.921,
+            0.874
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[12]L. A. Dissado and J. C. Fothergill, Electrical degradation and breakdown in polymers: IET, 1992."
+            }
+          ]
+        },
+        {
+          "type": "page_number",
+          "index": 20,
+          "bbox": [
+            0.484,
+            0.94,
+            0.515,
+            0.953
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "328"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 21,
+          "bbox": [
+            0.109,
+            0.963,
+            0.885,
+            0.975
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on July 07,2025 at 18:02:44 UTC from IEEE Xplore. Restrictions apply."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}

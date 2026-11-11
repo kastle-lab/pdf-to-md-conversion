@@ -1,0 +1,18 @@
+{
+  "cleaned": true,
+  "source": "model_output.json",
+  "noise_types": [
+    "footer",
+    "header",
+    "number",
+    "page_footer",
+    "page_header",
+    "page_number"
+  ],
+  "noise_blocks_found": 26,
+  "lines_removed": 0,
+  "removed": [],
+  "warnings": [],
+  "raw_backup": "markdown_raw.md",
+  "clean_markdown": "markdown.md"
+}

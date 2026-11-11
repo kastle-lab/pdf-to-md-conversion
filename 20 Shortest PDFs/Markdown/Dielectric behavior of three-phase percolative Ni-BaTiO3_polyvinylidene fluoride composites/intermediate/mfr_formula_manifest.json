@@ -1,0 +1,1245 @@
+{
+  "formula_count": 59,
+  "capture_errors": [],
+  "formulas": [
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 1,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        970,
+        400,
+        1078,
+        432
+      ],
+      "bbox_normalized": [
+        0.570588,
+        0.181818,
+        0.634118,
+        0.196364
+      ],
+      "latex": "\\mathrm{(BaTiO_{3})}",
+      "image_path": "equations/page_0002_formula_001_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 2,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        226,
+        984,
+        316,
+        1015
+      ],
+      "bbox_normalized": [
+        0.132941,
+        0.447273,
+        0.185882,
+        0.461364
+      ],
+      "latex": "\\mathrm { B a T i O } _ { 3 }",
+      "image_path": "equations/page_0002_formula_002_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 3,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        522,
+        948,
+        610,
+        981
+      ],
+      "bbox_normalized": [
+        0.307059,
+        0.430909,
+        0.358824,
+        0.445909
+      ],
+      "latex": "\\mathrm { B a T i O } _ { 3 }",
+      "image_path": "equations/page_0002_formula_003_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 4,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        203,
+        1050,
+        295,
+        1083
+      ],
+      "bbox_normalized": [
+        0.119412,
+        0.477273,
+        0.173529,
+        0.492273
+      ],
+      "latex": "\\mathrm { B a T i O } _ { 3 }",
+      "image_path": "equations/page_0002_formula_004_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 5,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        191,
+        1114,
+        266,
+        1147
+      ],
+      "bbox_normalized": [
+        0.112353,
+        0.506364,
+        0.156471,
+        0.521364
+      ],
+      "latex": "e t   a { l . } ^ { 1 }",
+      "image_path": "equations/page_0002_formula_005_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 6,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        139,
+        1150,
+        213,
+        1180
+      ],
+      "bbox_normalized": [
+        0.081765,
+        0.522727,
+        0.125294,
+        0.536364
+      ],
+      "latex": "= 2 5 0",
+      "image_path": "equations/page_0002_formula_006_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 7,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        140,
+        1316,
+        244,
+        1346
+      ],
+      "bbox_normalized": [
+        0.082353,
+        0.598182,
+        0.143529,
+        0.611818
+      ],
+      "latex": "= 8 0   0 0 0",
+      "image_path": "equations/page_0002_formula_007_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 8,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        397,
+        1247,
+        443,
+        1280
+      ],
+      "bbox_normalized": [
+        0.233529,
+        0.566818,
+        0.260588,
+        0.581818
+      ],
+      "latex": "a { l _ { \\ast } ^ {   6 } }",
+      "image_path": "equations/page_0002_formula_008_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 9,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        618,
+        1250,
+        743,
+        1282
+      ],
+      "bbox_normalized": [
+        0.363529,
+        0.568182,
+        0.437059,
+        0.582727
+      ],
+      "latex": "\\mathrm{Ni/BaTiO}_{3}",
+      "image_path": "equations/page_0002_formula_009_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 10,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        535,
+        1348,
+        627,
+        1380
+      ],
+      "bbox_normalized": [
+        0.314706,
+        0.612727,
+        0.368824,
+        0.627273
+      ],
+      "latex": "1 3 0 0   ^ { \\circ } \\mathrm { C }",
+      "image_path": "equations/page_0002_formula_010_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 11,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        563,
+        1549,
+        670,
+        1582
+      ],
+      "bbox_normalized": [
+        0.331176,
+        0.704091,
+        0.394118,
+        0.719091
+      ],
+      "latex": "\\mathrm{(BaTiO_{3})}",
+      "image_path": "equations/page_0002_formula_011_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 12,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1160,
+        1082,
+        1250,
+        1113
+      ],
+      "bbox_normalized": [
+        0.682353,
+        0.491818,
+        0.735294,
+        0.505909
+      ],
+      "latex": "\\mathrm { B a T i O } _ { 3 }",
+      "image_path": "equations/page_0002_formula_012_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 13,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1025,
+        1147,
+        1121,
+        1180
+      ],
+      "bbox_normalized": [
+        0.602941,
+        0.521364,
+        0.659412,
+        0.536364
+      ],
+      "latex": "0 . 2 \\quad \\mu \\mathrm { m } ,",
+      "image_path": "equations/page_0002_formula_013_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 14,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        871,
+        1279,
+        952,
+        1311
+      ],
+      "bbox_normalized": [
+        0.512353,
+        0.581364,
+        0.56,
+        0.595909
+      ],
+      "latex": "2 0 0   ^ { \\circ } \\mathrm { C }",
+      "image_path": "equations/page_0002_formula_014_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 15,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        993,
+        1215,
+        1082,
+        1247
+      ],
+      "bbox_normalized": [
+        0.584118,
+        0.552273,
+        0.636471,
+        0.566818
+      ],
+      "latex": "\\mathrm { B a T i O } _ { 3 }",
+      "image_path": "equations/page_0002_formula_015_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 16,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        870,
+        1581,
+        959,
+        1613
+      ],
+      "bbox_normalized": [
+        0.511765,
+        0.718636,
+        0.564118,
+        0.733182
+      ],
+      "latex": "\\mathrm { B a T i O } _ { 3 }",
+      "image_path": "equations/page_0002_formula_016_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 17,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1076,
+        1513,
+        1217,
+        1545
+      ],
+      "bbox_normalized": [
+        0.632941,
+        0.687727,
+        0.715882,
+        0.702273
+      ],
+      "latex": "\\mathrm{TiO}_{3}/\\mathrm{PVDF}",
+      "image_path": "equations/page_0002_formula_017_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 18,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        948,
+        1993,
+        1234,
+        2025
+      ],
+      "bbox_normalized": [
+        0.557647,
+        0.905909,
+        0.725882,
+        0.920455
+      ],
+      "latex": "\\beta = ( \\varepsilon _ { 2 } - \\varepsilon _ { 1 } ) / ( \\varepsilon _ { 2 } + 2 \\varepsilon _ { 1 } ) ;",
+      "image_path": "equations/page_0002_formula_018_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 19,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        946,
+        2026,
+        1121,
+        2058
+      ],
+      "bbox_normalized": [
+        0.556471,
+        0.920909,
+        0.659412,
+        0.935455
+      ],
+      "latex": "\\mathrm{BaTiO}_{3}/\\mathrm{PVDF}",
+      "image_path": "equations/page_0002_formula_019_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 20,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1257,
+        2027,
+        1349,
+        2057
+      ],
+      "bbox_normalized": [
+        0.739412,
+        0.921364,
+        0.793529,
+        0.935
+      ],
+      "latex": "\\varepsilon _ { 1 }   =   8 . 5",
+      "image_path": "equations/page_0002_formula_020_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 1,
+      "page_number": 2,
+      "formula_number_on_page": 21,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1402,
+        2026,
+        1514,
+        2058
+      ],
+      "bbox_normalized": [
+        0.824706,
+        0.920909,
+        0.890588,
+        0.935455
+      ],
+      "latex": "\\varepsilon _ { 2 }   =   3 0 0 0",
+      "image_path": "equations/page_0002_formula_021_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 1,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        503,
+        1102,
+        573,
+        1130
+      ],
+      "bbox_normalized": [
+        0.295882,
+        0.500909,
+        0.337059,
+        0.513636
+      ],
+      "latex": "\\mathrm { B a T i O } _ { 3 }",
+      "image_path": "equations/page_0003_formula_001_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 2,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        428,
+        1183,
+        541,
+        1215
+      ],
+      "bbox_normalized": [
+        0.251765,
+        0.537727,
+        0.318235,
+        0.552273
+      ],
+      "latex": "f _ { \\mathrm { B a T i O } _ { 3 } }   =   0 . 4",
+      "image_path": "equations/page_0003_formula_002_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 3,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        664,
+        1103,
+        723,
+        1132
+      ],
+      "bbox_normalized": [
+        0.390588,
+        0.501364,
+        0.425294,
+        0.514545
+      ],
+      "latex": "f _ { \\mathrm { B a T i O } _ { 2 } }",
+      "image_path": "equations/page_0003_formula_003_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 4,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        178,
+        1254,
+        230,
+        1286
+      ],
+      "bbox_normalized": [
+        0.104706,
+        0.57,
+        0.135294,
+        0.584545
+      ],
+      "latex": "\\mathrm { T i O } _ { 3 }",
+      "image_path": "equations/page_0003_formula_004_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 5,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        428,
+        1291,
+        519,
+        1325
+      ],
+      "bbox_normalized": [
+        0.251765,
+        0.586818,
+        0.305294,
+        0.602273
+      ],
+      "latex": "\\mathrm { B a T i O } _ { 3 }",
+      "image_path": "equations/page_0003_formula_005_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 6,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        663,
+        1254,
+        744,
+        1289
+      ],
+      "bbox_normalized": [
+        0.39,
+        0.57,
+        0.437647,
+        0.585909
+      ],
+      "latex": "f _ { \\mathrm { B a T i O } _ { 3 } }",
+      "image_path": "equations/page_0003_formula_006_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 7,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        536,
+        1457,
+        689,
+        1494
+      ],
+      "bbox_normalized": [
+        0.315294,
+        0.662273,
+        0.405294,
+        0.679091
+      ],
+      "latex": "f _ { \\mathrm { B a T i O } _ { 3 } } \\mathrm { < } 0 . 1 5",
+      "image_path": "equations/page_0003_formula_007_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 8,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        140,
+        1563,
+        261,
+        1600
+      ],
+      "bbox_normalized": [
+        0.082353,
+        0.710455,
+        0.153529,
+        0.727273
+      ],
+      "latex": "As $f _ { \\mathrm { B a T i O } _ { 3 } }$",
+      "image_path": "equations/page_0003_formula_008_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 9,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        578,
+        1562,
+        669,
+        1595
+      ],
+      "bbox_normalized": [
+        0.34,
+        0.71,
+        0.393529,
+        0.725
+      ],
+      "latex": "\\mathrm { B a T i O } _ { 3 }",
+      "image_path": "equations/page_0003_formula_009_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 10,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        142,
+        1734,
+        367,
+        1769
+      ],
+      "bbox_normalized": [
+        0.083529,
+        0.788182,
+        0.215882,
+        0.804091
+      ],
+      "latex": "1(a). \\mathrm{At} f_{\\mathrm{BaTiO}_3}=0.2",
+      "image_path": "equations/page_0003_formula_010_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 11,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        518,
+        1805,
+        659,
+        1841
+      ],
+      "bbox_normalized": [
+        0.304706,
+        0.820455,
+        0.387647,
+        0.836818
+      ],
+      "latex": "f _ { \\mathrm { B a T i O } _ { 3 } } \\mathrm { > } 0 . 2",
+      "image_path": "equations/page_0003_formula_011_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 12,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        736,
+        1805,
+        824,
+        1838
+      ],
+      "bbox_normalized": [
+        0.432941,
+        0.820455,
+        0.484706,
+        0.835455
+      ],
+      "latex": "\\mathrm { B a T i O } _ { 3 }",
+      "image_path": "equations/page_0003_formula_012_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 13,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        290,
+        1880,
+        372,
+        1915
+      ],
+      "bbox_normalized": [
+        0.170588,
+        0.854545,
+        0.218824,
+        0.870455
+      ],
+      "latex": "f _ { \\mathrm { B a T i O } _ { 3 } } ,",
+      "image_path": "equations/page_0003_formula_013_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 14,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        220,
+        1982,
+        360,
+        2018
+      ],
+      "bbox_normalized": [
+        0.129412,
+        0.900909,
+        0.211765,
+        0.917273
+      ],
+      "latex": "f _ { \\mathrm { B a T i O } _ { 3 } } \\mathrm { > } 0 . 2",
+      "image_path": "equations/page_0003_formula_014_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 15,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        620,
+        1984,
+        698,
+        2019
+      ],
+      "bbox_normalized": [
+        0.364706,
+        0.901818,
+        0.410588,
+        0.917727
+      ],
+      "latex": "f _ { \\mathrm { B a T i O } _ { 3 } }",
+      "image_path": "equations/page_0003_formula_015_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 16,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        623,
+        2021,
+        764,
+        2056
+      ],
+      "bbox_normalized": [
+        0.366471,
+        0.918636,
+        0.449412,
+        0.934545
+      ],
+      "latex": "f _ { \\mathrm { B a T i O } _ { 3 } } \\mathrm { > } 0 . 5",
+      "image_path": "equations/page_0003_formula_016_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 17,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        744,
+        2062,
+        824,
+        2097
+      ],
+      "bbox_normalized": [
+        0.437647,
+        0.937273,
+        0.484706,
+        0.953182
+      ],
+      "latex": "f _ { \\mathrm { B a T i O } _ { 3 } }",
+      "image_path": "equations/page_0003_formula_017_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 18,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1077,
+        604,
+        1109,
+        630
+      ],
+      "bbox_normalized": [
+        0.633529,
+        0.274545,
+        0.652353,
+        0.286364
+      ],
+      "latex": "f _ { \\mathrm { N i } }",
+      "image_path": "equations/page_0003_formula_018_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 19,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1422,
+        551,
+        1460,
+        577
+      ],
+      "bbox_normalized": [
+        0.836471,
+        0.250455,
+        0.858824,
+        0.262273
+      ],
+      "latex": "f _ { \\mathrm { N i } }   .",
+      "image_path": "equations/page_0003_formula_019_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 20,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1051,
+        711,
+        1227,
+        743
+      ],
+      "bbox_normalized": [
+        0.618235,
+        0.323182,
+        0.721765,
+        0.337727
+      ],
+      "latex": "\\mathrm{BaTiO}_{3}/\\mathrm{PVDF}",
+      "image_path": "equations/page_0003_formula_020_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 21,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1203,
+        783,
+        1291,
+        815
+      ],
+      "bbox_normalized": [
+        0.707647,
+        0.355909,
+        0.759412,
+        0.370455
+      ],
+      "latex": "\\mathrm { B a T i O } _ { 3 }",
+      "image_path": "equations/page_0003_formula_021_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 22,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1417,
+        711,
+        1557,
+        747
+      ],
+      "bbox_normalized": [
+        0.833529,
+        0.323182,
+        0.915882,
+        0.339545
+      ],
+      "latex": "f _ { \\mathrm { B a T i O } _ { 3 } }   =   0 . 4",
+      "image_path": "equations/page_0003_formula_022_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 23,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1252,
+        848,
+        1425,
+        880
+      ],
+      "bbox_normalized": [
+        0.736471,
+        0.385455,
+        0.838235,
+        0.4
+      ],
+      "latex": "\\mathrm{BaTiO}_{3}/\\mathrm{PVDF}",
+      "image_path": "equations/page_0003_formula_023_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 2,
+      "page_number": 3,
+      "formula_number_on_page": 24,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        871,
+        980,
+        1093,
+        1013
+      ],
+      "bbox_normalized": [
+        0.512353,
+        0.445455,
+        0.642941,
+        0.460455
+      ],
+      "latex": "\\mathrm{Ni}-\\mathrm{BaTiO}_{3}/\\mathrm{PVDF}",
+      "image_path": "equations/page_0003_formula_024_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 1,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        217,
+        150,
+        250,
+        178
+      ],
+      "bbox_normalized": [
+        0.127647,
+        0.068182,
+        0.147059,
+        0.080909
+      ],
+      "latex": "\\varepsilon _ { o }",
+      "image_path": "equations/page_0004_formula_001_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 2,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        582,
+        144,
+        760,
+        176
+      ],
+      "bbox_normalized": [
+        0.342353,
+        0.065455,
+        0.447059,
+        0.08
+      ],
+      "latex": "\\mathrm{BaTiO}_{3}/\\mathrm{PVDF}",
+      "image_path": "equations/page_0004_formula_002_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 3,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        267,
+        176,
+        576,
+        213
+      ],
+      "bbox_normalized": [
+        0.157059,
+        0.08,
+        0.338824,
+        0.096818
+      ],
+      "latex": "f_{\\mathrm{BaTiO}_{3}}=0.2\\left[\\mathrm{Fig.~1(a)}\\right],f_{\\mathrm{Ni}}",
+      "image_path": "equations/page_0004_formula_003_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 4,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        464,
+        217,
+        496,
+        248
+      ],
+      "bbox_normalized": [
+        0.272941,
+        0.098636,
+        0.291765,
+        0.112727
+      ],
+      "latex": "f _ { c }",
+      "image_path": "equations/page_0004_formula_004_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 5,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        550,
+        315,
+        661,
+        348
+      ],
+      "bbox_normalized": [
+        0.323529,
+        0.143182,
+        0.388824,
+        0.158182
+      ],
+      "latex": "f _ { \\mathrm { N i } }   \\approx   0 . 2 3",
+      "image_path": "equations/page_0004_formula_005_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 6,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        718,
+        317,
+        777,
+        347
+      ],
+      "bbox_normalized": [
+        0.422353,
+        0.144091,
+        0.457059,
+        0.157727
+      ],
+      "latex": "q   \\sim   1",
+      "image_path": "equations/page_0004_formula_006_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 7,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        646,
+        416,
+        687,
+        448
+      ],
+      "bbox_normalized": [
+        0.38,
+        0.189091,
+        0.404118,
+        0.203636
+      ],
+      "latex": "f _ { \\mathrm { N i } }",
+      "image_path": "equations/page_0004_formula_007_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 8,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        687,
+        450,
+        728,
+        482
+      ],
+      "bbox_normalized": [
+        0.404118,
+        0.204545,
+        0.428235,
+        0.219091
+      ],
+      "latex": "f _ { \\mathrm { N i } }",
+      "image_path": "equations/page_0004_formula_008_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 9,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        196,
+        782,
+        285,
+        814
+      ],
+      "bbox_normalized": [
+        0.115294,
+        0.355455,
+        0.167647,
+        0.37
+      ],
+      "latex": "f _ { \\mathrm { N i } } { \\longrightarrow } f _ { c }",
+      "image_path": "equations/page_0004_formula_009_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 10,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        711,
+        714,
+        825,
+        747
+      ],
+      "bbox_normalized": [
+        0.418235,
+        0.324545,
+        0.485294,
+        0.339545
+      ],
+      "latex": "f _ { \\mathrm { N i } }   \\leqslant   0 . 1 8",
+      "image_path": "equations/page_0004_formula_010_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 11,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        670,
+        847,
+        762,
+        880
+      ],
+      "bbox_normalized": [
+        0.394118,
+        0.385,
+        0.448235,
+        0.4
+      ],
+      "latex": "f _ { \\mathrm { N i } } { \\longrightarrow } f _ { c }",
+      "image_path": "equations/page_0004_formula_011_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 12,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        217,
+        947,
+        316,
+        976
+      ],
+      "bbox_normalized": [
+        0.127647,
+        0.430455,
+        0.185882,
+        0.443636
+      ],
+      "latex": "\\omega = 2 \\pi f",
+      "image_path": "equations/page_0004_formula_012_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 13,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        321,
+        977,
+        719,
+        1011
+      ],
+      "bbox_normalized": [
+        0.188824,
+        0.444091,
+        0.422941,
+        0.459545
+      ],
+      "latex": "f_{ Ni } = 0.22   [ Fig.  3(a)]   give   u = 0.83",
+      "image_path": "equations/page_0004_formula_013_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    },
+    {
+      "page_idx": 3,
+      "page_number": 4,
+      "formula_number_on_page": 14,
+      "formula_type": "inline",
+      "bbox_pixels": [
+        1107,
+        177,
+        1215,
+        210
+      ],
+      "bbox_normalized": [
+        0.651176,
+        0.080455,
+        0.714706,
+        0.095455
+      ],
+      "latex": "\\mathrm{(BaTiO_{3})}",
+      "image_path": "equations/page_0004_formula_014_inline.png",
+      "captured_from": "mineru.model.mfr.pp_formulanet.predict_formula.FormulaRecognizer.batch_predict"
+    }
+  ]
+}

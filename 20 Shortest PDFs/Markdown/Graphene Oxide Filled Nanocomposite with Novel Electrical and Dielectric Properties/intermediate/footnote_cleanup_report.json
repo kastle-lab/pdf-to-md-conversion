@@ -1,0 +1,38 @@
+{
+  "source": "model_output.json",
+  "footnotes_found": 2,
+  "kept": 1,
+  "removed": 1,
+  "matched_and_removed_from_markdown": 1,
+  "items": [
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "Z. Wang , Prof. L. S. Schadler Department of Material Science and Engineering Rensselaer Polytechnic Institute Troy, NY 12180, USA E-mail: wangz7@rpi.edu Prof. J. K. Nelson Department of Electrical Computer, & Systems Engineering Rensselaer Polytechnic Institute Troy, NY 12180, USA Dr. H. Hillborg , Dr. S. Zhao ABB AB, Corporate Research Power Technology Västerås, SE-721 78, Sweden",
+      "decision": "remove",
+      "reason": "administrative_or_contact_noise",
+      "noise_signals": [
+        "email_address",
+        "email_metadata"
+      ],
+      "useful_signals": [],
+      "affiliation_like": true,
+      "markdown_match_score": 0.98,
+      "removed_from_markdown": true,
+      "removal_mode": "whole_block"
+    },
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "DOI: 10.1002/adma.201200827",
+      "decision": "keep",
+      "reason": "uncertain_kept_conservatively",
+      "noise_signals": [
+        "phone_number"
+      ],
+      "useful_signals": [],
+      "affiliation_like": false
+    }
+  ],
+  "warnings": []
+}

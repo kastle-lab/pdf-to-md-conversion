@@ -1,0 +1,45 @@
+{
+  "source": "model_output.json",
+  "footnotes_found": 2,
+  "kept": 0,
+  "removed": 2,
+  "matched_and_removed_from_markdown": 2,
+  "items": [
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "* Corresponding author. Tel.: +1 858 5342268; fax: +1 858 5342720. E-mail address: juhong@ucsd.edu (J.I. Hong).",
+      "decision": "remove",
+      "reason": "administrative_or_contact_noise",
+      "noise_signals": [
+        "correspondence_notice",
+        "email_address",
+        "email_metadata",
+        "phone_fax_metadata",
+        "phone_number"
+      ],
+      "useful_signals": [],
+      "affiliation_like": false,
+      "markdown_match_score": 0.98,
+      "removed_from_markdown": true,
+      "removal_mode": "whole_block"
+    },
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "0167-577X/$ - see front matter D 2004 Elsevier B.V. All rights reserved. doi:10.1016/j.matlet.2004.10.036",
+      "decision": "remove",
+      "reason": "administrative_or_contact_noise",
+      "noise_signals": [
+        "phone_number",
+        "publisher_boilerplate"
+      ],
+      "useful_signals": [],
+      "affiliation_like": false,
+      "markdown_match_score": 0.995,
+      "removed_from_markdown": true,
+      "removal_mode": "whole_block"
+    }
+  ],
+  "warnings": []
+}

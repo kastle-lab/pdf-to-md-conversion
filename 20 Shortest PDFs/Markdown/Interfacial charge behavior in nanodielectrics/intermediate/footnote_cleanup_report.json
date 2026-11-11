@@ -1,0 +1,20 @@
+{
+  "source": "model_output.json",
+  "footnotes_found": 1,
+  "kept": 1,
+  "removed": 0,
+  "matched_and_removed_from_markdown": 0,
+  "items": [
+    {
+      "page_idx": null,
+      "type": "footnote",
+      "text": "Charge mobilities from the room-temperature PEA experiment ( 1 0 ^ { - 1 7 } m 2 /Vs). No nanocomposite mobility is indicated since no movement of the charge fronts was detected.",
+      "decision": "keep",
+      "reason": "uncertain_kept_conservatively",
+      "noise_signals": [],
+      "useful_signals": [],
+      "affiliation_like": false
+    }
+  ],
+  "warnings": []
+}

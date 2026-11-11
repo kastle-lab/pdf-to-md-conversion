@@ -1,0 +1,68 @@
+{
+  "source": "model_output.json",
+  "footnotes_found": 4,
+  "kept": 0,
+  "removed": 4,
+  "matched_and_removed_from_markdown": 4,
+  "items": [
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "* Corresponding author. E-mail: r-ruoff@northwestern.edu. Phone: 847-467-6596. Fax: 847-491-3915.",
+      "decision": "remove",
+      "reason": "administrative_or_contact_noise",
+      "noise_signals": [
+        "correspondence_notice",
+        "email_address",
+        "email_metadata",
+        "phone_fax_metadata",
+        "phone_number"
+      ],
+      "useful_signals": [],
+      "affiliation_like": false,
+      "markdown_match_score": 0.98,
+      "removed_from_markdown": true,
+      "removal_mode": "whole_block"
+    },
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "† Northwestern University.",
+      "decision": "remove",
+      "reason": "administrative_or_contact_noise",
+      "noise_signals": [],
+      "useful_signals": [],
+      "affiliation_like": true,
+      "markdown_match_score": 1.0,
+      "removed_from_markdown": true,
+      "removal_mode": "whole_block"
+    },
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "‡ Rensselaer Polytechnic Institute",
+      "decision": "remove",
+      "reason": "administrative_or_contact_noise",
+      "noise_signals": [],
+      "useful_signals": [],
+      "affiliation_like": true,
+      "markdown_match_score": 0.98,
+      "removed_from_markdown": true,
+      "removal_mode": "whole_block"
+    },
+    {
+      "page_idx": null,
+      "type": "page_footnote",
+      "text": "§ University of Kentucky.",
+      "decision": "remove",
+      "reason": "administrative_or_contact_noise",
+      "noise_signals": [],
+      "useful_signals": [],
+      "affiliation_like": true,
+      "markdown_match_score": 1.0,
+      "removed_from_markdown": true,
+      "removal_mode": "whole_block"
+    }
+  ],
+  "warnings": []
+}

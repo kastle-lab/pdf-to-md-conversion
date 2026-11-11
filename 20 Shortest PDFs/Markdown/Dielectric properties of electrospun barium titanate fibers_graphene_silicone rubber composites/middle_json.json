@@ -1,0 +1,1815 @@
+{
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.9"
+    },
+    "document": {
+      "title": "Dielectric properties of electrospun barium titanate fibers/graphene/silicone rubber composites",
+      "authors": [
+        "Z. Wang",
+        "J. K. Nelson",
+        "N. Koratkar",
+        "L. S. Schadler",
+        "H. Hillborg",
+        "S. Zhao"
+      ],
+      "subject": "2011 Annual Report Conference on Electrical Insulation and Dielectric Phenomena;2011; ; ;10.1109/CEIDP.2011.6232738",
+      "description": "2011 Annual Report Conference on Electrical Insulation and Dielectric Phenomena;2011; ; ;10.1109/CEIDP.2011.6232738",
+      "created_at": "2011-07-01T01:16:00-08:00",
+      "modified_at": "2018-11-25T03:48:20-05:00",
+      "creator_application": "Neevia Document Converter 5.2.0",
+      "producer_application": "Neevia Document Converter 5.2.0; modified using iText® 7.1.1 ©2000-2018 iText Group NV (AGPL-version)",
+      "page_count": 4,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "standard",
+      "parse_mode": "txt"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 612.0,
+          "height_pt": 792.0
+        }
+      ]
+    }
+  },
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "doc_title",
+          "index": 0,
+          "bbox": [
+            0.082,
+            0.07,
+            0.916,
+            0.137
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Dielectric Properties of Electrospun Barium Titanate Fibers/Graphene/Silicone Rubber Composites"
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "bbox": [
+            0.088,
+            0.153,
+            0.455,
+            0.17
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Z. Wang, J.K. Nelson, N. Koratkar, L.S. Schadler"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.163,
+            0.17,
+            0.381,
+            0.185
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Rensselaer Polytechnic Institute"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 3,
+          "bbox": [
+            0.225,
+            0.184,
+            0.321,
+            0.199
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "110 8"
+            },
+            {
+              "type": "text",
+              "content": "th",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " Street"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 4,
+          "bbox": [
+            0.195,
+            0.198,
+            0.348,
+            0.214
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Troy, NY 12180 USA"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.559,
+            0.154,
+            0.897,
+            0.2
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "H. Hillborg, S. Zhao ABB AB, Corporate Research, Power Technology Västerås, SE-721 78 Sweden"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.068,
+            0.242,
+            0.489,
+            0.518
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Abstract- The ability to increase the dielectric constant of an insulator by embedding spherical particles is limited at low volume fraction as described by the rule of mixtures. High aspect ratio fillers are predicted to be able to increase the dielectric constant more efficiently than spherical fillers. In this work, barium titanate fibers were synthesized by electrospinning a sol-gel, followed by a heat treatment to obtain a perovskite crystal structure. Graphene platelets were synthesized by a thermal shock method. Dielectric spectroscopy showed that a larger dielectric constant increase was achieved by this means, and a combination of barium titanate and graphene platelets yielded the highest value when used in a polydimethyl siloxane matrix. The increase in dielectric loss over the pure matrix was small when the volume fraction was below the percolation threshold of graphene platelets. The electric flux density-electric field (D-E) measurements showed a linear dielectric constant in barium titanate filled composites and higher loss when graphene was added. The mechanisms that lead to those phenomena are discussed in this work. This is a promising route for creating high dielectric constant, low loss materials, for use as capacitor and electric field grading materials.",
+              "styles": [
+                "bold"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 7,
+          "bbox": [
+            0.214,
+            0.531,
+            0.342,
+            0.545
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "I. INTRODUCTION"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "bbox": [
+            0.067,
+            0.557,
+            0.49,
+            0.807
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "To increase the dielectric constant of polymer composites , ferroelectric ceramic particles are widely used because of their high dielectric constant and low dielectric loss [1,2]. The other approach is to use conductive particles at a volume fraction close to the percolation threshold [3]. However, the ability of spherical particles to increase the dielectric constant is small at low volume fractions, according to the rule of mixtures [4]. Higher volume fractions of ceramic particles lead to increased dielectric constant, but also to a reduction in mechanical properties [5-8]. Composites with high aspect ratio fillers exhibit higher dielectric constant at lower loading [4], thereby potentially maintaining the mechanical properties. High aspect ratio fillers, however, have not been studied as extensively as their spherical counterparts because of challenges in manufacturing high aspect ratio fillers [9,10]. In this work, the dielectric properties of a polymer composite containing BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " fibers and graphene platelets (GPLs) are investigated and discussed."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 9,
+          "bbox": [
+            0.225,
+            0.818,
+            0.361,
+            0.833
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "II. EXPERIMENTAL"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "paragraph_title",
+          "index": 10,
+          "bbox": [
+            0.069,
+            0.845,
+            0.304,
+            0.86
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "A. Preparation of BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " Fibers"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 11,
+          "bbox": [
+            0.068,
+            0.86,
+            0.489,
+            0.905
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " fibers were prepared by electrospinning of a mixture consisting of BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " sol-gel and poly(vinyl pyrrolidone) "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{PVP}, \\mathrm{M_w} = 1, 300, 000 \\mathrm{g}"
+            },
+            {
+              "type": "text",
+              "content": " mol"
+            },
+            {
+              "type": "text",
+              "content": "-1",
+              "styles": [
+                "superscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ") solution [11]. A positive vol-"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 12,
+          "bbox": [
+            0.508,
+            0.242,
+            0.931,
+            0.315
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "tage (16 kV) was applied on the needle tip of a syringe, and an grounded aluminum foil was used as counter electrode. The distance between the needle tip and the counter electrode was 25 cm. The precursor was fed at a constant rate (30 µl/min) by a syringe pump."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "text",
+          "index": 13,
+          "bbox": [
+            0.508,
+            0.315,
+            0.932,
+            0.462
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Synthesized BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "/PVP fibers were subjected to a heat treatment to remove the PVP polymer, and to obtain the desired Perovskite crystal structure. Fibers were annealed in an oven at 500 °C for 12 hours to remove the residual solvent and most of the PVP. They were then calcinated at "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1 2 0 0 ~ ^ { \\circ } \\mathrm { C }"
+            },
+            {
+              "type": "text",
+              "content": " to crystallize. In the heat treatment process, a fast heating rate of over 2000 °C/min was achieved by inserting the sample into a preheated oven. The fibers were then cooled to room temperature in air. A scanning electron microscope (SEM) image of prepared BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " fibers is shown in Fig. 1a."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 14,
+          "bbox": [
+            0.509,
+            0.474,
+            0.815,
+            0.489
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "B. Preparation of Graphene Platelet (GPL)"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 15,
+          "bbox": [
+            0.508,
+            0.489,
+            0.931,
+            0.593
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The GPLs were obtained by the one-step thermal exfoliation and reduction of graphite oxide. In this method, graphite oxide is subjected to a thermal shock (rapid heating rate of about 2000° C/min) which exfoliates and reduces the graphite oxide into GPL. The GPL are several micrometers in in-plane dimensions and are comprised of ~3-4 graphene sheets within each platelet. The total platelet thickness is less than 2 nm."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 16,
+          "bbox": [
+            0.51,
+            0.605,
+            0.728,
+            0.62
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "C. Preparation of Composites"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 17,
+          "bbox": [
+            0.508,
+            0.619,
+            0.931,
+            0.811
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Sylgard 184 (Dow Corning), consisting of poly(dimethyl siloxane) (PDMS) and a reinforcing silica filler was used as polymer matrix. The calcinated BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " fibers were directly mixed into the precursor Sylgard 184A using a FlackTek Speed Mixer at 3000 rpm for 10 minutes. Composites were then prepared by carefully mixing the precursors Sylgard 184A (containing the fibers) and Sylgard 184B (crosslinker) at a ratio of 10:1 by mass, followed by curing in a mold at 150 °C for 12 hours. Planar samples with a diameter of 3.2 cm and a thickness of around 300 µm were obtained. Prepared samples were dried in an oven at 120 °C for 12 hours prior to any dielectric testing to remove any trapped moisture. The dispersion of composites is shown in Fig. 1c and Fig. 1d."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 18,
+          "bbox": [
+            0.51,
+            0.823,
+            0.662,
+            0.838
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "D. Characterization"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 19,
+          "bbox": [
+            0.509,
+            0.837,
+            0.93,
+            0.883
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Thermogravimetric analysis (TGA) was carried out to determine the weight fraction of fibers in the composites, using a TA Instruments Q50 thermogravimetric analyzer. Parameters"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 20,
+          "bbox": [
+            0.055,
+            0.94,
+            0.319,
+            0.954
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "978-1-4577-0986-9/11/$26.00 ©2011 IEEE"
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 21,
+          "bbox": [
+            0.106,
+            0.962,
+            0.888,
+            0.976
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on June 26,2025 at 17:08:32 UTC from IEEE Xplore. Restrictions apply. 640"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "image",
+          "index": 0,
+          "bbox": [
+            0.074,
+            0.067,
+            0.483,
+            0.355
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 0,
+              "bbox": [
+                0.074,
+                0.067,
+                0.483,
+                0.355
+              ],
+              "image_path": "images/page_1_image_0.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 1,
+              "bbox": [
+                0.075,
+                0.365,
+                0.482,
+                0.392
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 1 (a) SEM image of BaTiO"
+                },
+                {
+                  "type": "text",
+                  "content": "3",
+                  "styles": [
+                    "subscript"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " fibers; (b) TEM image of GPLs; (c) and (d) Optical microscope images showing dispersion of BaTiO"
+                },
+                {
+                  "type": "text",
+                  "content": "3",
+                  "styles": [
+                    "subscript"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " fibers and GPLs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 2,
+          "bbox": [
+            0.068,
+            0.404,
+            0.489,
+            0.565
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "from the literature and the manufacturer datasheet "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{(BaTiO_{3})}"
+            },
+            {
+              "type": "text",
+              "content": " "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{density} = 6.02\\ \\mathrm{g/cm^{3}}"
+            },
+            {
+              "type": "text",
+              "content": " , PDMS density "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1.03\\  g/cm ^{3}"
+            },
+            {
+              "type": "text",
+              "content": " were used to calculate the filler volume fraction. The composite samples were tested in a Novocontrol Alpha high resolution dielectric/impedance analyzer for dielectric spectroscopy at room temperature. A frequency range from "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1 \\dot { 0 } ^ { - 1 }"
+            },
+            {
+              "type": "text",
+              "content": " to "
+            },
+            {
+              "type": "equation_inline",
+              "content": "1 0 ^ { 6 }"
+            },
+            {
+              "type": "text",
+              "content": " Hz was utilized. The morphology of the fibers was investigated using a Carl Zeiss Supra scanning electron microscope. The electric flux density-electric field (D-E) measurement was taken in an ambient of dielectric mineral oil at "
+            },
+            {
+              "type": "equation_inline",
+              "content": "2 0 \\; ^ { \\circ } \\mathrm { C }"
+            },
+            {
+              "type": "text",
+              "content": " following the ASTM standard D3487."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 3,
+          "bbox": [
+            0.187,
+            0.579,
+            0.399,
+            0.593
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "III. RESULTS AND DISCUSSION"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "paragraph_title",
+          "index": 4,
+          "bbox": [
+            0.069,
+            0.605,
+            0.264,
+            0.62
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "A. Dielectric Spectroscopy"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.068,
+            0.62,
+            0.489,
+            0.852
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The dielectric constant and dissipation factor of composites filled with GPLs are shown in Fig. 2. Both the dielectric constant and dissipation factor exhibit a large increase at a small volume fraction of GPLs. The sheet morphology and high aspect ratio of GPLs lead to a low percolation threshold of less than 0.01 in volume fraction. The large dissipation factor above the percolation threshold is caused by the leakage current. The high dielectric constant can be explained by percolation theory [12], which describes the critical behavior of composites when the volume fraction of conductive fillers approaches the percolation threshold. However, a large dissipation factor is usually not desired in electrical applications. A GPL volume fraction of 0.0043 was chosen for the three-phase composite preparation. At this loading, the dielectric constant is improved with only a moderate increase of the dissipation factor."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 6,
+          "bbox": [
+            0.069,
+            0.852,
+            0.489,
+            0.896
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "High aspect ratio conductive fillers such as carbon nanotubes [13] and carbon fibers [14] have been used to prepare high dielectric constant composites in the literature. 2-dimensional"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.509,
+            0.068,
+            0.93,
+            0.156
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "GPLs are expected to increase the dielectric constant at even a lower volume fraction from the rule of mixtures [4]. The dielectric properties of graphene-filled composites were not reported until recently [15]. In our work, the GPLs prepared by the thermal shock method have a smaller thickness, and thus the percolation was reached at a lower volume fraction."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "bbox": [
+            0.508,
+            0.156,
+            0.931,
+            0.403
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The dielectric spectroscopy of several representative composites is shown in Fig. 3. The real relative dielectric constant "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\varepsilon ^ { \\prime }"
+            },
+            {
+              "type": "text",
+              "content": " is flat in the tested frequency range, indicating the absence of conduction effects. The relative dielectric constant increase over the neat polymer is significantly larger than that of the composites filled with spherical or irregular "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{BaTiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " particles reported in the literature [5-7]. For example, the dielectric constant of 20 vol% "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{BaTiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " fiber filled composites is 400% compared to that of the neat polymer. Using the same volume fraction of spherical "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{BaTiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " particle, the increases of the dielectric constant is about 200% [8]. This difference agrees with the prediction from the rule of mixtures. The increase in dielectric constant of the composites is summarized in Fig. 4. By adding 0.43 vol% of GPLs into the "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{BaTiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " fiber/PDMS composites, the dielectric constant was further increased to 13.7 and 18.6 for 10 vol% and 20 vol% BaT "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm { { \\mathrm { { \\mathrm { { i O } } } } } } _ { 3 }"
+            },
+            {
+              "type": "text",
+              "content": " fiber composites respectively."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.508,
+            0.402,
+            0.931,
+            0.548
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The dissipation factor of the composites is shown in Fig. 3b. The dissipation factor of the composites is about one order of magnitude higher than that in the neat PDMS. Generally the dielectric loss increases with the volume fraction of fibers and the GPLs. Adding 0.43 vol% of GPLs into the Ba "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm { T i O } _ { 3 }"
+            },
+            {
+              "type": "text",
+              "content": " fiber composites results in an increased dissipation factor which is, however, not higher than the pure GPL/PDMS composites. By combining the two types of fillers, the three-phase composite shows a larger dielectric constant than either of the two-phase composites without a further increase in loss factor."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 10,
+          "bbox": [
+            0.509,
+            0.547,
+            0.93,
+            0.636
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "In the three-phase composites reported in the literature [14,16,17], a combination of conductive fillers and high dielectric constant ceramic fillers is generally used. Considering the ceramic-polymer composite as the base matrix, percolation theory is applicable when adding conductive fillers. By using high aspect ratio ceramic fillers to increase the dielectric cons-"
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 11,
+          "bbox": [
+            0.516,
+            0.646,
+            0.924,
+            0.855
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 11,
+              "bbox": [
+                0.516,
+                0.646,
+                0.924,
+                0.855
+              ],
+              "image_path": "images/page_1_chart_11.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 12,
+              "bbox": [
+                0.525,
+                0.866,
+                0.915,
+                0.892
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 2 Dielectric constant and dissipation factor of composites filled with various volume fractions of GPLs. The testing frequency is 60 Hz."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 13,
+          "bbox": [
+            0.106,
+            0.963,
+            0.888,
+            0.975
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on June 26,2025 at 17:08:32 UTC from IEEE Xplore. Restrictions apply. 641"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "chart",
+          "index": 0,
+          "bbox": [
+            0.075,
+            0.066,
+            0.488,
+            0.31
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 0,
+              "bbox": [
+                0.075,
+                0.066,
+                0.488,
+                0.31
+              ],
+              "image_path": "images/page_2_chart_0.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 1,
+          "bbox": [
+            0.073,
+            0.328,
+            0.487,
+            0.568
+          ],
+          "content": [
+            {
+              "type": "chart_body",
+              "index": 1,
+              "bbox": [
+                0.073,
+                0.328,
+                0.487,
+                0.568
+              ],
+              "image_path": "images/page_2_chart_1.jpg",
+              "content": ""
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "index": 3,
+          "bbox": [
+            0.077,
+            0.618,
+            0.484,
+            0.835
+          ],
+          "content": [
+            {
+              "type": "chart_caption",
+              "index": 2,
+              "bbox": [
+                0.084,
+                0.581,
+                0.473,
+                0.608
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 3 Dielectric spectroscopy at 60 Hz of composites filled with BaTiO"
+                },
+                {
+                  "type": "text",
+                  "content": "3",
+                  "styles": [
+                    "subscript"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " fibers and GPLs, showing (a) permittivity and (b) loss factor."
+                }
+              ]
+            },
+            {
+              "type": "chart_body",
+              "index": 3,
+              "bbox": [
+                0.077,
+                0.618,
+                0.484,
+                0.835
+              ],
+              "image_path": "images/page_2_chart_3.jpg",
+              "content": ""
+            },
+            {
+              "type": "chart_caption",
+              "index": 4,
+              "bbox": [
+                0.076,
+                0.847,
+                0.481,
+                0.872
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 4 Dielectric constant at 60 Hz of composites filled with various volume fractions of BaTiO"
+                },
+                {
+                  "type": "text",
+                  "content": "3",
+                  "styles": [
+                    "subscript"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " fibers, with and without addition of GPLs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 5,
+          "bbox": [
+            0.509,
+            0.068,
+            0.929,
+            0.099
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "-tant of the base matrix, the dielectric constant of the final composites is further enhanced."
+            }
+          ],
+          "continues_prev": true
+        },
+        {
+          "type": "paragraph_title",
+          "index": 6,
+          "bbox": [
+            0.51,
+            0.111,
+            0.671,
+            0.126
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "B. D-E Measurement"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.508,
+            0.126,
+            0.93,
+            0.213
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The high voltage behavior of materials was investigated through D-E measurements. Both "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{BaTiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " fiber composites and three-phase composites were tested under several field conditions below the breakdown strength of materials. Fig. 5 shows the results for each composite under the highest measured field."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 8,
+          "bbox": [
+            0.508,
+            0.213,
+            0.931,
+            0.375
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The relative permittivity was calculated using an approach found in the literature [18]. The real dielectric constant for composites is listed in Table I. From the literature, ferroelectric ceramics such as barium titanate usually exhibit a nonlinear dielectric constant. Depending on the microstructure and crystal morphology, the dielectric constant of barium titanate can either increase [19] or decrease [20] with increasing field strength. In our result, however, the dielectric constant remains unchanged at elevated electrical field. The difference between the one-phase ceramics and the composites is attributed to the field distribution in the composites. The"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "index": 9,
+          "bbox": [
+            0.515,
+            0.387,
+            0.918,
+            0.856
+          ],
+          "content": [
+            {
+              "type": "image_body",
+              "index": 9,
+              "bbox": [
+                0.515,
+                0.387,
+                0.918,
+                0.856
+              ],
+              "image_path": "images/page_2_image_9.jpg",
+              "content": ""
+            },
+            {
+              "type": "image_caption",
+              "index": 10,
+              "bbox": [
+                0.51,
+                0.867,
+                0.923,
+                0.905
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "Fig. 5 D-E measurement of (a) 20 vol% BaTiO"
+                },
+                {
+                  "type": "text",
+                  "content": "3",
+                  "styles": [
+                    "subscript"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " fibers composite and (b)20 vol% BaTiO"
+                },
+                {
+                  "type": "text",
+                  "content": "3",
+                  "styles": [
+                    "subscript"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " fibers+0.43vol% graphene filled composite. Note the scale difference of the applied electric fields."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 11,
+          "bbox": [
+            0.106,
+            0.963,
+            0.888,
+            0.975
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on June 26,2025 at 17:08:32 UTC from IEEE Xplore. Restrictions apply. 642"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "text",
+          "index": 0,
+          "bbox": [
+            0.068,
+            0.068,
+            0.488,
+            0.126
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "large dielectric constant of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{BaTiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " fibers leads to a field concentration in the polymer phase and reduced electric field in the ceramics. When the field in the ceramics is less than the “threshold field” [19], a linear dielectric constant is expected."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "index": 1,
+          "bbox": [
+            0.068,
+            0.126,
+            0.488,
+            0.2
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "The degree of hysteresis is more pronounced at higher field. The three-phase composite also has a larger loop area, compared to the Ba "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm { T i O } _ { 3 }"
+            },
+            {
+              "type": "text",
+              "content": " composite. It indicates a higher dielectric loss, which matches with the dielectric spectroscopy data under a low field condition."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "index": 4,
+          "bbox": [
+            0.063,
+            0.235,
+            0.496,
+            0.308
+          ],
+          "content": [
+            {
+              "type": "table_caption",
+              "index": 2,
+              "bbox": [
+                0.251,
+                0.212,
+                0.308,
+                0.224
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "TABLE I"
+                }
+              ]
+            },
+            {
+              "type": "table_caption",
+              "index": 3,
+              "bbox": [
+                0.106,
+                0.225,
+                0.452,
+                0.236
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "REAL RELATIVE PERMITTIVITY OF COMPOSITES AT ELEVATED FIELD"
+                }
+              ]
+            },
+            {
+              "type": "table_body",
+              "index": 4,
+              "bbox": [
+                0.063,
+                0.235,
+                0.496,
+                0.308
+              ],
+              "image_path": "images/page_3_table_4.jpg",
+              "content": "<table><tbody><tr><td>AC field (kV/mm)</td><td>20 vol% BaTiO<sub>3</sub> fibers</td><td>20 vol% BaTiO<sub>3</sub> fibers +0.43 vol% GPLs</td></tr><tr><td>Low field<sup>a</sup></td><td>12</td><td>18.6</td></tr><tr><td>2</td><td>11.9</td><td>17.5</td></tr><tr><td>5</td><td>11.7</td><td>18.1</td></tr><tr><td>7.5</td><td>11.8</td><td>-</td></tr></tbody></table>"
+            },
+            {
+              "type": "table_footnote",
+              "index": 5,
+              "bbox": [
+                0.067,
+                0.308,
+                0.484,
+                0.333
+              ],
+              "content": [
+                {
+                  "type": "text",
+                  "content": "a The value of low field (about 3 V/mm) dielectric constant is from the dielectric spectroscopy measurement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 6,
+          "bbox": [
+            0.239,
+            0.346,
+            0.348,
+            0.36
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "IV. SUMMARY"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 7,
+          "bbox": [
+            0.068,
+            0.375,
+            0.489,
+            0.595
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Two types of high aspect ratio fillers, "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{BaTiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " fibers and graphene platelets (GPLs), were mixed into a silicone rubber matrix. The dielectric spectroscopy showed that the high aspect ratio "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\mathrm{BaTiO}_{3}"
+            },
+            {
+              "type": "text",
+              "content": " fibers resulted in a higher dielectric constant than their spherical counterparts while still maintaining a moderate dissipation factor. The GPLs alone can increase the dielectric constant at a very low filler volume fraction. However, the loss increased dramatically when the loading reached the percolation threshold. By combining those two fillers and avoiding the percolation of "
+            },
+            {
+              "type": "equation_inline",
+              "content": "\\operatorname { G P L s } _ { : }"
+            },
+            {
+              "type": "text",
+              "content": " the highest dielectric constant was reached without further increase in the dissipation factor. The dielectric constant increased linearly at increasing applied electric field. The low volume fraction of fillers can potentially create a mechanical robust composite, which is suitable for capacitor and field grading applications."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 8,
+          "bbox": [
+            0.225,
+            0.608,
+            0.362,
+            0.621
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "ACKNOWLEDGMENT"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "text",
+          "index": 9,
+          "bbox": [
+            0.068,
+            0.633,
+            0.488,
+            0.707
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "This work is primarily supported by ABB. The authors are also grateful to the support from US National Science Foundation and Nanoscale Science and Engineering Center. H. Hillborg also acknowledges support from the Swedish Research Council (IFA 2007-5095)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph_title",
+          "index": 10,
+          "bbox": [
+            0.249,
+            0.721,
+            0.339,
+            0.735
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "REFERENCES"
+            }
+          ],
+          "level": 2
+        },
+        {
+          "type": "ref_text",
+          "index": 11,
+          "bbox": [
+            0.071,
+            0.745,
+            0.484,
+            0.792
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[1] Y. Rao, S. Ogitani, P. Kohl, and C. Wong, “Novel polymer–ceramic nanocomposite based on high dielectric constant epoxy formula for embedded capacitor application,” J. Appl. Polym. Sci., vol. 83, 2002, pp. 1084–1090."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 12,
+          "bbox": [
+            0.512,
+            0.067,
+            0.923,
+            0.103
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[2] G. Subodh, V. Deepu, P. Mohanan, and M.T. Sebastian, “Dielectric response of high permittivity polymer ceramic composite with low loss tangent,” Appl. Phys. Lett., vol. 95, 2009, pp. 062903-062903."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 13,
+          "bbox": [
+            0.512,
+            0.103,
+            0.918,
+            0.138
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[3] C. Pecharromán and J.S. Moya, “Experimental evidence of a giant capacitance in insulator- conductor composites at the percolation threshold,” Adv. Mater., vol. 12, 2000, pp. 294-297."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 14,
+          "bbox": [
+            0.512,
+            0.138,
+            0.907,
+            0.161
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[4] A. Sihvola, “Mixing rules with complex dielectric coefficients,” Subsurf. Sens. Technol. Appl., vol. 1, 2000, pp. 393–415."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 15,
+          "bbox": [
+            0.512,
+            0.16,
+            0.911,
+            0.195
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[5] Y. Bai, Z.Y. Cheng, V. Bharti, H.S. Xu, and Q.M. Zhang, “Highdielectric-constant ceramic-powder polymer composites,” Appl. Phys. Lett., vol. 76, 2000, pp. 3804-3806."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 16,
+          "bbox": [
+            0.512,
+            0.195,
+            0.928,
+            0.23
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[6] K.C. Cheng, C.M. Lin, S.-F. Wang, S.T. Lin, and C.F. Yang, “Dielectric properties of epoxy resin–barium titanate composites at high frequency,” Mater. Lett., vol. 61, 2007, pp. 757-760."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 17,
+          "bbox": [
+            0.512,
+            0.23,
+            0.914,
+            0.266
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[7] S. Cho, J. Lee, J. Hyun, and K. Paik, “Study on epoxy/BaTiO3 composite embedded capacitor films (ECFs) for organic substrate applications,” Mater. Sci. Eng., B, vol. 110, 2004, pp. 233-239."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 18,
+          "bbox": [
+            0.512,
+            0.265,
+            0.926,
+            0.3
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[8] T. Hu, J. Juuti, H. Jantunen, and T. Vilkman, “Dielectric properties of BST/polymer composite,” J. Eur. Ceram. Soc., vol. 27, 2007, pp. 3997-4001."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 19,
+          "bbox": [
+            0.512,
+            0.3,
+            0.925,
+            0.358
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[9] N. Guo, S.A. DiBenedetto, P. Tewari, M.T. Lanagan, M.A. Ratner, and T.J. Marks, “Nanoparticle, size, shape, and interfacial effects on leakage current density, permittivity, and breakdown strength of metal oxide−polyolefin nanocomposites: experiment and theory,” Chem. Mater., vol. 22, 2010, pp. 1567-1578."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 20,
+          "bbox": [
+            0.512,
+            0.358,
+            0.912,
+            0.405
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[10] L.F. Chen, Y.P. Hong, X.J. Chen, Q.L. Wu, Q.J. Huang, and X.T. Luo, “Preparation and properties of polymer matrix piezoelectric composites containing aligned BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " whiskers,” J. Mater. Sci., vol. 39, 2004, pp. 2997-3001."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 21,
+          "bbox": [
+            0.512,
+            0.405,
+            0.927,
+            0.44
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[11] J. Yuh, J. Nino, and W. Sigmund, “Synthesis of barium titanate (BaTiO) nanofibers via electrospinning,” Mater. Lett., vol. 59, 2005, pp. 3645-3647."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 22,
+          "bbox": [
+            0.512,
+            0.44,
+            0.922,
+            0.475
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[12] A. Efros and B. Shklovskii, “Critical behaviour of conductivity and dielectric constant near the metal-non-metal transition threshold,” Phys. Status Solidi B, vol. 76, 1976, pp. 475–485."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 23,
+          "bbox": [
+            0.512,
+            0.474,
+            0.916,
+            0.51
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[13] C. Yang, Y. Lin, and C.W. Nan, “Modified carbon nanotube composites with high dielectric constant, low dielectric loss and large energy density,” Carbon, vol. 47, 2009, pp. 1096-1101."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 24,
+          "bbox": [
+            0.512,
+            0.509,
+            0.924,
+            0.545
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[14] Z. Dang, “Study on dielectric behavior of a three-phase CF/(PVDF+BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": ") composite,” Chem. Phys. Lett., vol. 369, 2003, pp. 95-100."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 25,
+          "bbox": [
+            0.512,
+            0.544,
+            0.917,
+            0.59
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[15] J. Yu, X. Huang, C. Wu, and P. Jiang, “Permittivity, thermal conductivity and thermal stability of poly (vinylidene fluoride)/graphene nanocomposites,” IEEE Trans. Dielectr. Electr. Insul., vol. 18, 2011, pp. 478–484."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 26,
+          "bbox": [
+            0.513,
+            0.59,
+            0.92,
+            0.625
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[16] Z.M. Dang, Y. Shen, and C.W. Nan, “Dielectric behavior of threephase percolative Ni–BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "/polyvinylidene fluoride composites,” Appl. Phys. Lett., vol. 81, 2002, pp. 4814-4816."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 27,
+          "bbox": [
+            0.512,
+            0.625,
+            0.921,
+            0.672
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[17] L. Qi, B.I. Lee, W.D. Samuels, G.J. Exarhos, and S.G. Parler, “Three-phase percolative silver–BaTiO"
+            },
+            {
+              "type": "text",
+              "content": "3",
+              "styles": [
+                "subscript"
+              ]
+            },
+            {
+              "type": "text",
+              "content": "–epoxy nanocomposites with high dielectric constants,” J. Appl. Polym. Sci., vol. 102, 2006, pp. 967-971."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 28,
+          "bbox": [
+            0.513,
+            0.672,
+            0.918,
+            0.707
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[18] J. Robertson and D. A. Hall, “Nonlinear dielectric properties of particulate barium titanate–polymer composites,” J. Phys. D: Appl. Phys., vol. 41, 2008, p. 115407-115414."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 29,
+          "bbox": [
+            0.513,
+            0.706,
+            0.919,
+            0.73
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[19] D.A. Hall, “Review nonlinearity in piezoelectric ceramics,” J. Mater. Sci., vol. 36, 2001, pp. 4575–4601."
+            }
+          ]
+        },
+        {
+          "type": "ref_text",
+          "index": 30,
+          "bbox": [
+            0.513,
+            0.73,
+            0.924,
+            0.775
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "[20] L. Curecheriu, M.T. Buscaglia, V. Buscaglia, Z. Zhao, and L. Mitoseriu, “Grain size effect on the nonlinear dielectric properties of barium titanate ceramics,” Appl. Phys. Lett., vol. 97, 2010, pp. 242909-242911."
+            }
+          ]
+        },
+        {
+          "type": "footer",
+          "index": 31,
+          "bbox": [
+            0.107,
+            0.963,
+            0.887,
+            0.975
+          ],
+          "content": [
+            {
+              "type": "text",
+              "content": "Authorized licensed use limited to: WRIGHT STATE UNIVERSITY. Downloaded on June 26,2025 at 17:08:32 UTC from IEEE Xplore. Restrictions apply. 643"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "is_full_document": true,
+  "schema": "docvortex.middle",
+  "schema_version": "2.0"
+}
